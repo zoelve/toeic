@@ -1,0 +1,188 @@
+[
+  {
+    "expression": "because",
+    "traduction": "parce que",
+    "exemple": "He was late because the train was delayed.",
+    "categorie": "connecteur-cause"
+  },
+  {
+    "expression": "since",
+    "traduction": "puisque, étant donné que",
+    "exemple": "The first few months were difficult since the team wasn't familiar with the program.",
+    "categorie": "connecteur-cause"
+  },
+  {
+    "expression": "as",
+    "traduction": "comme, car",
+    "exemple": "As it was raining, they cancelled the picnic.",
+    "categorie": "connecteur-cause"
+  },
+  {
+    "expression": "due to",
+    "traduction": "en raison de",
+    "exemple": "The flight was cancelled due to bad weather.",
+    "categorie": "connecteur-cause"
+  },
+  {
+    "expression": "owing to",
+    "traduction": "en raison de",
+    "exemple": "Owing to the strike, the office is closed.",
+    "categorie": "connecteur-cause"
+  },
+  {
+    "expression": "although",
+    "traduction": "bien que",
+    "exemple": "Although the team faced difficulties, they succeeded.",
+    "categorie": "connecteur-opposition"
+  },
+  {
+    "expression": "though",
+    "traduction": "bien que (plus informel)",
+    "exemple": "Though he was tired, he kept working.",
+    "categorie": "connecteur-opposition"
+  },
+  {
+    "expression": "even though",
+    "traduction": "même si",
+    "exemple": "Even though it was expensive, she bought it.",
+    "categorie": "connecteur-opposition"
+  },
+  {
+    "expression": "despite",
+    "traduction": "malgré (+ nom/gérondif)",
+    "exemple": "Despite the difficulties, the team succeeded.",
+    "categorie": "connecteur-opposition"
+  },
+  {
+    "expression": "in spite of",
+    "traduction": "malgré (+ nom/gérondif)",
+    "exemple": "In spite of the delay, they arrived on time.",
+    "categorie": "connecteur-opposition"
+  },
+  {
+    "expression": "however",
+    "traduction": "cependant",
+    "exemple": "The plan was risky; however, it worked.",
+    "categorie": "connecteur-opposition"
+  },
+  {
+    "expression": "nevertheless",
+    "traduction": "néanmoins",
+    "exemple": "It was raining; nevertheless, they went out.",
+    "categorie": "connecteur-opposition"
+  },
+  {
+    "expression": "I'd better (had better)",
+    "traduction": "je ferais mieux de (conseil fort)",
+    "exemple": "I have to get up early, so I'd better not oversleep!",
+    "categorie": "modal-fige"
+  },
+  {
+    "expression": "I'd rather",
+    "traduction": "je préférerais",
+    "exemple": "I'd rather not go out tonight.",
+    "categorie": "modal-fige"
+  },
+  {
+    "expression": "I'd rather... than",
+    "traduction": "je préférerais... plutôt que",
+    "exemple": "I'd rather stay home than go to the party.",
+    "categorie": "modal-fige"
+  },
+  {
+    "expression": "I used to",
+    "traduction": "j'avais l'habitude de (passé révolu)",
+    "exemple": "I used to live in Paris.",
+    "categorie": "modal-fige"
+  },
+  {
+    "expression": "I'm used to / I'm getting used to",
+    "traduction": "être habitué à / s'habituer à (+ gérondif)",
+    "exemple": "I'm getting used to working from home.",
+    "categorie": "modal-fige"
+  },
+  {
+    "expression": "to give in one's resignation",
+    "traduction": "démissionner",
+    "exemple": "She gave in her resignation yesterday.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to hand in one's resignation",
+    "traduction": "démissionner (variante)",
+    "exemple": "He handed in his resignation this morning.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to be laid off",
+    "traduction": "être licencié (économique)",
+    "exemple": "Hundreds of workers were laid off last year.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to be dismissed / fired",
+    "traduction": "être renvoyé (faute)",
+    "exemple": "He was fired for repeated tardiness.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to be promoted",
+    "traduction": "être promu",
+    "exemple": "She was promoted to manager last month.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to be on leave",
+    "traduction": "être en congé",
+    "exemple": "He is on leave until next Monday.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to apply for a position",
+    "traduction": "postuler à un poste",
+    "exemple": "She applied for a position in the marketing department.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to be qualified for",
+    "traduction": "être qualifié pour",
+    "exemple": "He is qualified for the job.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to (infinitif de but)",
+    "traduction": "pour, dans le but de",
+    "exemple": "The assistant called yesterday to inform me of my promotion.",
+    "categorie": "infinitif-de-but"
+  },
+  {
+    "expression": "in order to",
+    "traduction": "afin de (plus formel)",
+    "exemple": "He arrived early in order to prepare the room.",
+    "categorie": "infinitif-de-but"
+  },
+  {
+    "expression": "so as to",
+    "traduction": "de façon à, afin de (plus formel)",
+    "exemple": "She whispered so as to not wake the baby.",
+    "categorie": "infinitif-de-but"
+  },
+  {
+    "expression": "seeks",
+    "traduction": "recherche (présent simple, annonce d'emploi)",
+    "exemple": "Publisher seeks editorial assistant; must be fluent in Italian and Spanish.",
+    "categorie": "annonce-emploi"
+  },
+  {
+    "expression": "requires",
+    "traduction": "exige, requiert (annonce d'emploi)",
+    "exemple": "The position requires at least three years of experience.",
+    "categorie": "annonce-emploi"
+  },
+  {
+    "expression": "offers",
+    "traduction": "offre, propose (annonce d'emploi)",
+    "exemple": "The company offers a competitive salary and benefits.",
+    "categorie": "annonce-emploi"
+  }
+]

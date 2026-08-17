@@ -1,0 +1,17 @@
+{
+  "name": "toeic-vocabulaire",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fiches de révision et base de vocabulaire TOEIC (objectif 800) sur Supabase",
+  "type": "module",
+  "scripts": {
+    "seed": "node scripts/seed.mjs",
+    "ajouter-mot": "node scripts/ajouter-mot.mjs",
+    "tirer-mots": "node scripts/tirer-mots.mjs",
+    "marquer-revision": "node scripts/marquer-revision.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "dotenv": "^16.4.5"
+  }
+}
