@@ -184,5 +184,3011 @@
     "traduction": "offre, propose (annonce d'emploi)",
     "exemple": "The company offers a competitive salary and benefits.",
     "categorie": "annonce-emploi"
+  },
+  {
+    "expression": "therefore",
+    "traduction": "donc, par conséquent",
+    "exemple": "My colleague is sick; therefore, I must work extra hours.",
+    "categorie": "connecteur-consequence"
+  },
+  {
+    "expression": "to cut down on",
+    "traduction": "réduire",
+    "exemple": "The corporation wants us to cut down on our expenses.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to refuse to",
+    "traduction": "refuser de (+ infinitif)",
+    "exemple": "His manager refused to cover the expenses.",
+    "categorie": "verbe-infinitif"
+  },
+  {
+    "expression": "sluggish",
+    "traduction": "atone, faible (économie)",
+    "exemple": "Government bonds will be offered in order to stimulate the slow and sluggish economy.",
+    "categorie": "adjectif-economie"
+  },
+  {
+    "expression": "to look into",
+    "traduction": "examiner, étudier",
+    "exemple": "My business partner and I are looking into a new business project.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "indeed",
+    "traduction": "en effet",
+    "exemple": "The last few meetings I attended were very interesting. Indeed, I met fascinating people.",
+    "categorie": "connecteur-confirmation"
+  },
+  {
+    "expression": "to force somebody to",
+    "traduction": "obliger, forcer qqn à",
+    "exemple": "Recent financial problems have forced Steve to find another job.",
+    "categorie": "verbe-infinitif"
+  },
+  {
+    "expression": "to lay off",
+    "traduction": "licencier (économique, forme active)",
+    "exemple": "The company is looking at laying off several members of staff.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "not as ... as",
+    "traduction": "pas aussi ... que (comparaison d'égalité négative)",
+    "exemple": "The automotive parts business unit is not as profitable as it could be.",
+    "categorie": "comparatif"
+  },
+  {
+    "expression": "a grown man/woman",
+    "traduction": "un homme/une femme adulte",
+    "exemple": "His parents still help him with his taxes, even though he is a grown man!",
+    "categorie": "expression-figee"
+  },
+  {
+    "expression": "to validate",
+    "traduction": "valider, approuver",
+    "exemple": "Hotels and flights booked directly by employees must be validated by their managers.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to block",
+    "traduction": "bloquer",
+    "exemple": "Roadwork often blocks the road that I take to go to work.",
+    "categorie": "verbe-courant"
+  },
+  {
+    "expression": "thriving",
+    "traduction": "prospère, florissant",
+    "exemple": "The city has a thriving tech industry.",
+    "categorie": "adjectif-economie"
+  },
+  {
+    "expression": "soaring",
+    "traduction": "en forte hausse, qui s'envole",
+    "exemple": "Soaring energy prices have hurt small businesses.",
+    "categorie": "adjectif-economie"
+  },
+  {
+    "expression": "bustling",
+    "traduction": "animé, grouillant d'activité",
+    "exemple": "The bustling market was full of tourists.",
+    "categorie": "adjectif-economie"
+  },
+  {
+    "expression": "close",
+    "traduction": "étroit(e), proche (relation) — à ne pas confondre avec \"closed\" (fermé)",
+    "exemple": "The CEO hopes that our close collaboration will be able to continue for as long as possible.",
+    "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "originally",
+    "traduction": "à l'origine, initialement",
+    "exemple": "As originally stated, the company declines all responsibility for lost or stolen objects within the company premises.",
+    "categorie": "adverbe-courant"
+  },
+  {
+    "expression": "insofar as",
+    "traduction": "dans la mesure où",
+    "exemple": "The recent months have been difficult economically; insofar as this is the case, we must advise you to try to cut back on your professional expenses.",
+    "categorie": "connecteur-consequence"
+  },
+  {
+    "expression": "firstly",
+    "traduction": "premièrement, d'abord",
+    "exemple": "Firstly, we need to review the budget before making any decisions.",
+    "categorie": "connecteur-consequence"
+  },
+  {
+    "expression": "to call off",
+    "traduction": "annuler",
+    "exemple": "The sales manager has decided to call off his business trip to New York.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "as (simultanéité)",
+    "traduction": "pendant que, alors que",
+    "exemple": "Mr. Jackson requests the full cooperation of the team as the deal with Astro Group is being revaluated.",
+    "categorie": "connecteur-temps"
+  },
+  {
+    "expression": "to put on",
+    "traduction": "mettre, revêtir (un vêtement) / mettre en scène",
+    "exemple": "She put on her coat before leaving the office.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to put out",
+    "traduction": "éteindre / publier",
+    "exemple": "The company put out a press release about the merger.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to call in",
+    "traduction": "faire venir, demander de passer",
+    "exemple": "The manager called in a specialist to fix the issue.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "motivating",
+    "traduction": "motivant(e)",
+    "exemple": "The team leader gave a motivating speech before the launch.",
+    "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "attachment",
+    "traduction": "pièce jointe",
+    "exemple": "Please find the attachment enclosed with this email.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "cc (carbon copy)",
+    "traduction": "copie conforme (CC)",
+    "exemple": "Please cc your supervisor on this email.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "colleague",
+    "traduction": "collègue",
+    "exemple": "She discussed the project with her colleague.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "confidential",
+    "traduction": "confidentiel",
+    "exemple": "This document is strictly confidential.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "headquarters (HQ)",
+    "traduction": "siège social",
+    "exemple": "The company headquarters are located in New York.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "to remind",
+    "traduction": "rappeler, relancer",
+    "exemple": "I am writing to remind you of the upcoming deadline.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "to authorize",
+    "traduction": "autoriser",
+    "exemple": "Only the manager can authorize this expense.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "deadline",
+    "traduction": "date limite, échéance",
+    "exemple": "The deadline for the report is Friday.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "to forward",
+    "traduction": "transférer (un message)",
+    "exemple": "Could you forward this email to the whole team?",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "memo",
+    "traduction": "note de service",
+    "exemple": "A memo was sent to all employees about the new policy.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "to notify",
+    "traduction": "informer, notifier",
+    "exemple": "Employees have been notified of the schedule change.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "benefits",
+    "traduction": "avantages sociaux",
+    "exemple": "The company offers excellent benefits, including health insurance.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "candidate",
+    "traduction": "candidat(e)",
+    "exemple": "Three candidates were shortlisted for the position.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "cover letter",
+    "traduction": "lettre de motivation",
+    "exemple": "Please attach your resume and a cover letter.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "eligible (to be)",
+    "traduction": "avoir droit à, être éligible",
+    "exemple": "Full-time employees are eligible for maternity leave.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "bonus",
+    "traduction": "prime",
+    "exemple": "Employees received a bonus for their outstanding performance.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "dismissal",
+    "traduction": "licenciement",
+    "exemple": "His dismissal came after repeated policy violations.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "to hire",
+    "traduction": "embaucher",
+    "exemple": "The company plans to hire ten new employees this year.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "to recruit",
+    "traduction": "recruter",
+    "exemple": "The HR department is recruiting for several positions.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "to retire",
+    "traduction": "prendre sa retraite",
+    "exemple": "She plans to retire next year after 30 years of service.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "telework / remote",
+    "traduction": "télétravail",
+    "exemple": "The company now allows telework two days a week.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "résumé / CV",
+    "traduction": "CV",
+    "exemple": "Please send your résumé to the HR department.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "salary",
+    "traduction": "salaire",
+    "exemple": "The position offers a competitive salary.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "vacancy",
+    "traduction": "poste vacant",
+    "exemple": "There is currently a vacancy in the marketing department.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "annual report",
+    "traduction": "rapport annuel",
+    "exemple": "The company's annual report was published last week.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "audit",
+    "traduction": "audit, vérification comptable",
+    "exemple": "An external audit was conducted on the accounts.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "claim",
+    "traduction": "réclamation",
+    "exemple": "The customer filed a claim for a refund.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "debt",
+    "traduction": "dette",
+    "exemple": "The company managed to reduce its debt significantly.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "dividend",
+    "traduction": "dividende",
+    "exemple": "Shareholders received a higher dividend this year.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "profit",
+    "traduction": "bénéfice, profit",
+    "exemple": "The company reported a record profit this quarter.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "receipt",
+    "traduction": "reçu, ticket de caisse",
+    "exemple": "Please keep your receipt for reimbursement.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "tax deductible",
+    "traduction": "déductible fiscalement",
+    "exemple": "These business expenses are tax deductible.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "cash flow",
+    "traduction": "flux de trésorerie",
+    "exemple": "The company has a positive cash flow this year.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "credit",
+    "traduction": "crédit",
+    "exemple": "The bank extended a line of credit to the company.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "deficit",
+    "traduction": "déficit",
+    "exemple": "The department is running a budget deficit this year.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "discount",
+    "traduction": "remise, réduction",
+    "exemple": "Customers get a 10% discount on their first order.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "invoice",
+    "traduction": "facture",
+    "exemple": "Please send the invoice to the accounting department.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "quarter (Q1/Q2...)",
+    "traduction": "trimestre",
+    "exemple": "Sales increased significantly in the third quarter.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "reimbursement",
+    "traduction": "remboursement",
+    "exemple": "She requested reimbursement for her travel expenses.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "transaction",
+    "traduction": "transaction",
+    "exemple": "The bank flagged an unusual transaction on the account.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "to check in",
+    "traduction": "s'enregistrer",
+    "exemple": "Passengers should check in two hours before departure.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "confirmation number",
+    "traduction": "numéro de réservation",
+    "exemple": "Please have your confirmation number ready.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "delay",
+    "traduction": "retard",
+    "exemple": "The flight was delayed due to bad weather.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "to board",
+    "traduction": "embarquer",
+    "exemple": "Passengers began boarding the plane at gate 12.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "to depart",
+    "traduction": "partir, décoller",
+    "exemple": "The train will depart from platform 4.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "economy class",
+    "traduction": "classe économique",
+    "exemple": "He booked a seat in economy class.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "flight",
+    "traduction": "vol",
+    "exemple": "Our flight was delayed by two hours.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "luggage / baggage",
+    "traduction": "bagages",
+    "exemple": "Please label your luggage before checking in.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "terminal",
+    "traduction": "terminal (aéroport)",
+    "exemple": "The flight departs from terminal 2.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "to upgrade",
+    "traduction": "surclasser (voyage) / mettre à niveau (informatique)",
+    "exemple": "He was upgraded to business class for free.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "gate",
+    "traduction": "porte d'embarquement",
+    "exemple": "The gate for flight 202 has changed.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "on board",
+    "traduction": "à bord",
+    "exemple": "All passengers are now on board.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "reservation",
+    "traduction": "réservation",
+    "exemple": "I would like to make a reservation for two.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "ticket",
+    "traduction": "billet",
+    "exemple": "She bought a round-trip ticket to Chicago.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "transit",
+    "traduction": "transit",
+    "exemple": "Passengers in transit do not need to collect their luggage.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "visa",
+    "traduction": "visa",
+    "exemple": "You will need a visa to travel to that country.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "briefing",
+    "traduction": "briefing",
+    "exemple": "The team attended a briefing before the launch.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "to delegate",
+    "traduction": "déléguer",
+    "exemple": "The manager delegated the task to her assistant.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "keynote speaker",
+    "traduction": "conférencier principal",
+    "exemple": "The keynote speaker impressed the whole audience.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "to present",
+    "traduction": "présenter",
+    "exemple": "She will present the quarterly results tomorrow.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "to summarize",
+    "traduction": "résumer",
+    "exemple": "Could you summarize the main points of the meeting?",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "videoconference",
+    "traduction": "visioconférence",
+    "exemple": "The meeting will be held by videoconference.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "conference call",
+    "traduction": "téléconférence",
+    "exemple": "We scheduled a conference call with the clients.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "facilitator",
+    "traduction": "animateur, facilitateur",
+    "exemple": "The workshop facilitator kept the discussion on track.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "to take the minutes",
+    "traduction": "rédiger le PV",
+    "exemple": "Someone needs to take the minutes during the meeting.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "to postpone",
+    "traduction": "reporter",
+    "exemple": "The meeting was postponed until next week.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "to reschedule",
+    "traduction": "reprogrammer",
+    "exemple": "We had to reschedule the conference call.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "webinar",
+    "traduction": "webinaire",
+    "exemple": "The company hosted a webinar for new clients.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "to wrap up",
+    "traduction": "conclure, clôturer",
+    "exemple": "Let's wrap up the meeting with a summary.",
+    "categorie": "reunions-conferences"
+  },
+  {
+    "expression": "advertisement / ad",
+    "traduction": "publicité, annonce",
+    "exemple": "They launched a new advertisement campaign.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "campaign",
+    "traduction": "campagne publicitaire",
+    "exemple": "The marketing campaign was a huge success.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "competitive",
+    "traduction": "compétitif, concurrentiel",
+    "exemple": "The company offers competitive prices.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "coupon",
+    "traduction": "bon de réduction",
+    "exemple": "Customers can use this coupon for 20% off.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "to launch",
+    "traduction": "lancer (un produit)",
+    "exemple": "The company will launch a new product next month.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "catalog",
+    "traduction": "catalogue",
+    "exemple": "You can order directly from our online catalog.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "consumer",
+    "traduction": "consommateur",
+    "exemple": "Consumer demand for the product has increased.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "demand",
+    "traduction": "demande",
+    "exemple": "There is high demand for this new service.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "flyer",
+    "traduction": "prospectus, tract",
+    "exemple": "Flyers were distributed to promote the event.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "loyalty card",
+    "traduction": "carte de fidélité",
+    "exemple": "Ask for a loyalty card to earn points on your purchases.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "to promote",
+    "traduction": "promouvoir",
+    "exemple": "The company hired an agency to promote its new brand.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "social media",
+    "traduction": "réseaux sociaux",
+    "exemple": "The brand is very active on social media.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "target audience",
+    "traduction": "public cible",
+    "exemple": "The campaign is aimed at a young target audience.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "to sponsor",
+    "traduction": "parrainer",
+    "exemple": "The company decided to sponsor the local sports team.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "viral",
+    "traduction": "viral",
+    "exemple": "The video quickly went viral on social media.",
+    "categorie": "marketing-publicite"
+  },
+  {
+    "expression": "capacity",
+    "traduction": "capacité",
+    "exemple": "The factory is operating at full capacity.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "efficiency",
+    "traduction": "efficacité, rendement",
+    "exemple": "New equipment improved production efficiency.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "to manufacture",
+    "traduction": "fabriquer",
+    "exemple": "The company manufactures car parts.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "prototype",
+    "traduction": "prototype",
+    "exemple": "The engineers tested the new prototype.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "shipment",
+    "traduction": "expédition, cargaison",
+    "exemple": "The shipment is expected to arrive next Monday.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "warehouse",
+    "traduction": "entrepôt",
+    "exemple": "The goods are stored in a large warehouse.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "to deliver",
+    "traduction": "livrer",
+    "exemple": "The supplier promised to deliver the goods on time.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "equipment",
+    "traduction": "équipement, matériel",
+    "exemple": "The factory invested in new equipment.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "packaging",
+    "traduction": "emballage",
+    "exemple": "The new packaging is more environmentally friendly.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "quality control",
+    "traduction": "contrôle qualité",
+    "exemple": "Every product goes through strict quality control.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "recall (product)",
+    "traduction": "rappel de produit",
+    "exemple": "The company issued a recall for the defective product.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "waste",
+    "traduction": "déchets, gaspillage",
+    "exemple": "The factory reduced waste by 20% this year.",
+    "categorie": "production-industrie"
+  },
+  {
+    "expression": "to back up",
+    "traduction": "sauvegarder",
+    "exemple": "Always back up your files before an update.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "cloud computing",
+    "traduction": "informatique en nuage",
+    "exemple": "The company moved its data to cloud computing.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "to configure",
+    "traduction": "configurer",
+    "exemple": "The technician configured the new server.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "cybersecurity",
+    "traduction": "cybersécurité",
+    "exemple": "The company invested heavily in cybersecurity.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "bug",
+    "traduction": "bug, erreur",
+    "exemple": "The developers fixed a critical bug in the software.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "compatible",
+    "traduction": "compatible",
+    "exemple": "This software is not compatible with older systems.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "to download",
+    "traduction": "télécharger",
+    "exemple": "You can download the app for free.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "firewall",
+    "traduction": "pare-feu",
+    "exemple": "The firewall blocked the suspicious connection.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "to install",
+    "traduction": "installer",
+    "exemple": "Please install the latest update.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "log in / log out",
+    "traduction": "se connecter, déconnecter",
+    "exemple": "Remember to log out after using the shared computer.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "password",
+    "traduction": "mot de passe",
+    "exemple": "Choose a strong password for your account.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "software",
+    "traduction": "logiciel",
+    "exemple": "The company develops accounting software.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "to update",
+    "traduction": "mettre à jour",
+    "exemple": "The IT team updated all the computers overnight.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "user-friendly",
+    "traduction": "convivial, intuitif",
+    "exemple": "The new interface is much more user-friendly.",
+    "categorie": "informatique-technologie"
+  },
+  {
+    "expression": "deposit",
+    "traduction": "caution, dépôt de garantie",
+    "exemple": "Tenants must pay a deposit before moving in.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "estimate",
+    "traduction": "devis, estimation",
+    "exemple": "The contractor provided a written estimate.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "for sale",
+    "traduction": "à vendre",
+    "exemple": "The house has been for sale for two months.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "to rent",
+    "traduction": "louer",
+    "exemple": "They decided to rent an apartment downtown.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "vacant",
+    "traduction": "vacant, libre",
+    "exemple": "The apartment has been vacant since last month.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "building permit",
+    "traduction": "permis de construire",
+    "exemple": "They applied for a building permit before starting work.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "inspection",
+    "traduction": "inspection, état des lieux",
+    "exemple": "A home inspection is required before the sale.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "maintenance",
+    "traduction": "entretien",
+    "exemple": "The landlord is responsible for maintenance.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "on the market",
+    "traduction": "sur le marché",
+    "exemple": "The property has been on the market for six weeks.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "renovation",
+    "traduction": "rénovation",
+    "exemple": "The building is currently undergoing renovation.",
+    "categorie": "immobilier-logement"
+  },
+  {
+    "expression": "dessert",
+    "traduction": "dessert",
+    "exemple": "Would you like to see the dessert menu?",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "entrée (US)",
+    "traduction": "plat principal",
+    "exemple": "He ordered the grilled salmon as his entrée.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "host / hostess",
+    "traduction": "hôte, hôtesse d'accueil",
+    "exemple": "The hostess seated us near the window.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "open for business",
+    "traduction": "ouvert, en service",
+    "exemple": "The restaurant is open for business seven days a week.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "outdoor seating",
+    "traduction": "terrasse",
+    "exemple": "The café offers outdoor seating in the summer.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "take-away / takeout",
+    "traduction": "à emporter",
+    "exemple": "We usually order takeout on Fridays.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "banquet",
+    "traduction": "banquet, réception",
+    "exemple": "The hotel hosted a banquet for 200 guests.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "bill / check",
+    "traduction": "addition",
+    "exemple": "Could we have the bill, please?",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "gratuity / tip",
+    "traduction": "pourboire",
+    "exemple": "A 15% gratuity is included in the bill.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "menu",
+    "traduction": "carte, menu",
+    "exemple": "The waiter handed us the menu.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "to order",
+    "traduction": "commander",
+    "exemple": "Are you ready to order?",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "portion",
+    "traduction": "portion",
+    "exemple": "The portions at this restaurant are quite generous.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "vegetarian",
+    "traduction": "végétarien(ne)",
+    "exemple": "The restaurant offers several vegetarian options.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "wine list",
+    "traduction": "carte des vins",
+    "exemple": "The sommelier recommended a wine from the wine list.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "to exchange",
+    "traduction": "échanger",
+    "exemple": "You can exchange the item within 30 days.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "merchandise",
+    "traduction": "marchandise",
+    "exemple": "The store received new merchandise this morning.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "out of stock",
+    "traduction": "en rupture de stock",
+    "exemple": "This item is currently out of stock.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "sale",
+    "traduction": "solde, promotion",
+    "exemple": "The store is having a big sale this weekend.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "complaint",
+    "traduction": "réclamation, plainte",
+    "exemple": "The manager received a complaint from a customer.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "credit card",
+    "traduction": "carte bancaire",
+    "exemple": "You can pay by credit card or cash.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "in stock",
+    "traduction": "en stock, disponible",
+    "exemple": "The item is back in stock.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "online shopping",
+    "traduction": "achats en ligne",
+    "exemple": "Online shopping has increased significantly in recent years.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "to purchase",
+    "traduction": "acheter, acquérir",
+    "exemple": "She purchased a new laptop yesterday.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "refund",
+    "traduction": "remboursement",
+    "exemple": "The customer asked for a full refund.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "return policy",
+    "traduction": "politique de retour",
+    "exemple": "Please check the return policy before buying.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "warranty",
+    "traduction": "garantie",
+    "exemple": "The product comes with a two-year warranty.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "appointment",
+    "traduction": "rendez-vous médical",
+    "exemple": "She made an appointment with her doctor.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "clinic",
+    "traduction": "clinique, cabinet médical",
+    "exemple": "The clinic is open until 6 p.m.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "health insurance",
+    "traduction": "assurance maladie",
+    "exemple": "Employees are covered by the company health insurance.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "specialist",
+    "traduction": "spécialiste",
+    "exemple": "She was referred to a specialist.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "symptoms",
+    "traduction": "symptômes",
+    "exemple": "He described his symptoms to the doctor.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "emergency",
+    "traduction": "urgence",
+    "exemple": "Call 911 in case of emergency.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "immunization",
+    "traduction": "vaccination",
+    "exemple": "The clinic offers free immunization for children.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "pharmacy",
+    "traduction": "pharmacie",
+    "exemple": "You can pick up your prescription at the pharmacy.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "physician / doctor",
+    "traduction": "médecin",
+    "exemple": "The physician examined the patient carefully.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "to refer",
+    "traduction": "orienter vers",
+    "exemple": "The doctor referred her to a specialist.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "treatment",
+    "traduction": "traitement",
+    "exemple": "The patient started treatment last week.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "carbon footprint",
+    "traduction": "empreinte carbone",
+    "exemple": "The company aims to reduce its carbon footprint.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "eco-friendly",
+    "traduction": "respectueux de l'environnement",
+    "exemple": "They switched to eco-friendly packaging.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "emissions",
+    "traduction": "émissions (de gaz)",
+    "exemple": "The factory reduced its emissions by 30%.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "carbon neutral",
+    "traduction": "neutre en carbone",
+    "exemple": "The company plans to become carbon neutral by 2030.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "conservation",
+    "traduction": "conservation, préservation",
+    "exemple": "The organization works on wildlife conservation.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "ecosystem",
+    "traduction": "écosystème",
+    "exemple": "The project protects the local ecosystem.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "organic",
+    "traduction": "biologique, organique",
+    "exemple": "The store sells organic vegetables.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "to recycle",
+    "traduction": "recycler",
+    "exemple": "The office encourages employees to recycle paper.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "to reduce",
+    "traduction": "réduire",
+    "exemple": "The company wants to reduce waste.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "sustainability",
+    "traduction": "durabilité",
+    "exemple": "Sustainability is a key priority for the company.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "waste management",
+    "traduction": "gestion des déchets",
+    "exemple": "The city improved its waste management system.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "zero waste",
+    "traduction": "zéro déchet",
+    "exemple": "The restaurant is committed to a zero waste policy.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "confidentiality agreement",
+    "traduction": "accord de confidentialité (NDA)",
+    "exemple": "Both parties signed a confidentiality agreement.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "copyright",
+    "traduction": "droit d'auteur",
+    "exemple": "The photo is protected by copyright.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "dispute",
+    "traduction": "litige, différend",
+    "exemple": "The two companies settled their dispute out of court.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "to sign",
+    "traduction": "signer",
+    "exemple": "Please sign the contract before Friday.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "arbitration",
+    "traduction": "arbitrage",
+    "exemple": "The dispute was resolved through arbitration.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "contract",
+    "traduction": "contrat",
+    "exemple": "They negotiated the terms of the contract.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "damages",
+    "traduction": "dommages et intérêts",
+    "exemple": "The court awarded damages to the plaintiff.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "intellectual property",
+    "traduction": "propriété intellectuelle",
+    "exemple": "The company protects its intellectual property.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "terms and conditions",
+    "traduction": "conditions générales",
+    "exemple": "Please read the terms and conditions before signing up.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "violation",
+    "traduction": "violation, infraction",
+    "exemple": "This is a clear violation of the contract.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "assistance",
+    "traduction": "assistance, aide",
+    "exemple": "Our team is available for assistance 24/7.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "defective",
+    "traduction": "défectueux",
+    "exemple": "The customer returned a defective product.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "callback",
+    "traduction": "rappel téléphonique",
+    "exemple": "She requested a callback from customer service.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "customer satisfaction",
+    "traduction": "satisfaction client",
+    "exemple": "The company measures customer satisfaction every month.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "feedback",
+    "traduction": "retour, avis",
+    "exemple": "We welcome any feedback on our service.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "guarantee",
+    "traduction": "garantie",
+    "exemple": "The store offers a money-back guarantee.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "issue",
+    "traduction": "problème, question",
+    "exemple": "The technician resolved the issue quickly.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "to respond",
+    "traduction": "répondre",
+    "exemple": "We will respond to your inquiry within 24 hours.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "ticket (support)",
+    "traduction": "ticket, demande de support",
+    "exemple": "She opened a support ticket for the bug.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "loyalty",
+    "traduction": "fidélité",
+    "exemple": "The program rewards customer loyalty.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "to process",
+    "traduction": "traiter, procéder",
+    "exemple": "Your order is being processed.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "resolution",
+    "traduction": "résolution",
+    "exemple": "The complaint was closed after a quick resolution.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "satisfaction",
+    "traduction": "satisfaction",
+    "exemple": "Customer satisfaction is our top priority.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "to troubleshoot",
+    "traduction": "diagnostiquer, dépanner",
+    "exemple": "The IT team helped troubleshoot the network issue.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "admission fee",
+    "traduction": "droit d'entrée, frais d'inscription",
+    "exemple": "The admission fee includes lunch.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "audience",
+    "traduction": "public, assistance",
+    "exemple": "The audience applauded the keynote speaker.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "exhibition",
+    "traduction": "exposition",
+    "exemple": "The museum is hosting a new exhibition.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "festival",
+    "traduction": "festival",
+    "exemple": "The city organizes a music festival every summer.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "guest speaker",
+    "traduction": "intervenant invité",
+    "exemple": "The guest speaker discussed emerging technologies.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "anniversary",
+    "traduction": "anniversaire",
+    "exemple": "The company celebrated its tenth anniversary.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "ceremony",
+    "traduction": "cérémonie",
+    "exemple": "The award ceremony took place downtown.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "décor",
+    "traduction": "décoration",
+    "exemple": "The décor for the gala was elegant.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "gala",
+    "traduction": "gala",
+    "exemple": "The charity gala raised a lot of money.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "invitation",
+    "traduction": "invitation",
+    "exemple": "She sent out the invitations last week.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "keynote",
+    "traduction": "discours inaugural",
+    "exemple": "The CEO delivered the keynote at the conference.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "architect",
+    "traduction": "architecte",
+    "exemple": "The architect presented the building plans.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "blueprint",
+    "traduction": "plan, dessin technique",
+    "exemple": "The engineers reviewed the blueprint before construction.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "to demolish",
+    "traduction": "démolir",
+    "exemple": "The old building will be demolished next month.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "foundation",
+    "traduction": "fondation",
+    "exemple": "Workers poured the foundation for the new building.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "project manager",
+    "traduction": "chef de projet",
+    "exemple": "The project manager oversees the construction site.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "to design",
+    "traduction": "concevoir, dessiner",
+    "exemple": "The team designed a new office layout.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "framework",
+    "traduction": "charpente, cadre",
+    "exemple": "The steel framework was installed first.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "permit",
+    "traduction": "permis, autorisation",
+    "exemple": "The company obtained a permit before starting work.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "site",
+    "traduction": "chantier, site",
+    "exemple": "Visitors must wear a hard hat on the site.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "survey",
+    "traduction": "étude, relevé topographique",
+    "exemple": "A survey was conducted before construction began.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "timeline",
+    "traduction": "calendrier, planning",
+    "exemple": "The project timeline was updated last week.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "to check out",
+    "traduction": "quitter l'hôtel, vérifier",
+    "exemple": "Guests must check out by 11 a.m.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to deal with",
+    "traduction": "traiter, gérer",
+    "exemple": "She dealt with the complaint professionally.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to give up",
+    "traduction": "abandonner, renoncer à",
+    "exemple": "He refused to give up on the project.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to set up",
+    "traduction": "mettre en place, créer",
+    "exemple": "They set up a new department last year.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to allocate resources",
+    "traduction": "allouer des ressources",
+    "exemple": "The manager allocated resources to the new project.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to attend a meeting",
+    "traduction": "assister à une réunion",
+    "exemple": "All employees must attend the meeting.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to conduct an interview",
+    "traduction": "mener un entretien",
+    "exemple": "HR conducted the interview yesterday.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to deal with a complaint",
+    "traduction": "traiter une réclamation",
+    "exemple": "The customer service team dealt with the complaint quickly.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to file a report",
+    "traduction": "soumettre un rapport",
+    "exemple": "She filed a report after the incident.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to generate revenue",
+    "traduction": "générer des revenus",
+    "exemple": "The new product line generates significant revenue.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to give a presentation",
+    "traduction": "faire une présentation",
+    "exemple": "He gave a presentation to the board.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to improve efficiency",
+    "traduction": "améliorer l'efficacité",
+    "exemple": "The new software improved efficiency.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to launch a campaign",
+    "traduction": "lancer une campagne",
+    "exemple": "The company launched a new advertising campaign.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to make a profit",
+    "traduction": "réaliser un bénéfice",
+    "exemple": "The business made a profit in its first year.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to negotiate a contract",
+    "traduction": "négocier un contrat",
+    "exemple": "The lawyers negotiated the contract terms.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to open a bank account",
+    "traduction": "ouvrir un compte bancaire",
+    "exemple": "He opened a bank account for the new business.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to provide feedback",
+    "traduction": "donner, formuler un retour",
+    "exemple": "Please provide feedback after the training.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to reduce costs",
+    "traduction": "réduire les coûts",
+    "exemple": "The company found new ways to reduce costs.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to run a business",
+    "traduction": "gérer, diriger une entreprise",
+    "exemple": "She has run her own business for ten years.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to sign a contract",
+    "traduction": "signer un contrat",
+    "exemple": "Both parties signed the contract yesterday.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to submit a proposal",
+    "traduction": "soumettre une proposition",
+    "exemple": "The team submitted a proposal for the new project.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to win a contract",
+    "traduction": "décrocher un contrat",
+    "exemple": "The firm won a major contract last month.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "actually (faux ami)",
+    "traduction": "en réalité, en fait — pas \"actuellement\" (currently/at present)",
+    "exemple": "Actually, the meeting was postponed.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "advertise (faux ami)",
+    "traduction": "faire de la publicité — pas \"avertir\" (warn/notify)",
+    "exemple": "The company advertises its products on TV.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "agenda (faux ami)",
+    "traduction": "ordre du jour — pas un agenda/carnet (diary/planner)",
+    "exemple": "The next item on the agenda is the budget.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "to assist (faux ami)",
+    "traduction": "aider, assister — pas \"assister à\" (to attend)",
+    "exemple": "She assisted him with the report.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "to assume (faux ami)",
+    "traduction": "supposer, présumer — pas \"assumer\" (to take on/bear)",
+    "exemple": "I assumed the meeting was cancelled.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "chance (faux ami)",
+    "traduction": "hasard, occasion — pas la \"chance\" (luck)",
+    "exemple": "By chance, we met at the conference.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "character (faux ami)",
+    "traduction": "personnage, caractère — sens large (character/nature/font)",
+    "exemple": "The main character in the story is a manager.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "college (faux ami)",
+    "traduction": "université/fac (US) — pas le collège (middle school)",
+    "exemple": "She went to college in Boston.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "to comment (faux ami)",
+    "traduction": "commenter (neutre) — to comment on",
+    "exemple": "He commented on the report during the meeting.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "comprehensive (faux ami)",
+    "traduction": "complet, exhaustif — pas \"compréhensif\" (understanding/tolerant)",
+    "exemple": "The report offers a comprehensive analysis.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "confident (faux ami)",
+    "traduction": "sûr de soi, confiant — pas \"confidentiel\" (confidential)",
+    "exemple": "She felt confident about the presentation.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "convenient (faux ami)",
+    "traduction": "pratique, commode — pas \"convenable\" (decent/appropriate)",
+    "exemple": "The location is very convenient for clients.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "delay (faux ami)",
+    "traduction": "retard — pas un \"délai\" (deadline/timeframe)",
+    "exemple": "The flight was delayed by an hour.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "to demand (faux ami)",
+    "traduction": "exiger, réclamer — pas \"demander\" (to ask/request)",
+    "exemple": "The union demanded better working conditions.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "to discuss (faux ami)",
+    "traduction": "discuter de (un sujet) — pas \"discuter/argumenter\" (to argue/debate)",
+    "exemple": "We need to discuss the budget.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "eventually (faux ami)",
+    "traduction": "finalement, à terme — pas éventuellement (possibly/perhaps)",
+    "exemple": "Eventually, they reached an agreement.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "evidence (faux ami)",
+    "traduction": "preuve(s) — pas \"évidence\" (obvious fact/self-evidence)",
+    "exemple": "There was no evidence to support the claim.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "experience (faux ami)",
+    "traduction": "expérience professionnelle — pas \"expérience scientifique\" (experiment)",
+    "exemple": "He has five years of experience in marketing.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "to extend (faux ami)",
+    "traduction": "prolonger, agrandir — pas \"étendre\" (to spread)",
+    "exemple": "The company decided to extend the contract.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "to ignore (faux ami)",
+    "traduction": "ignorer volontairement — pas \"ignorer\" (to not know/be unaware of)",
+    "exemple": "He ignored the warning and continued.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "injury (faux ami)",
+    "traduction": "blessure, préjudice — pas \"injure\" (insult)",
+    "exemple": "He suffered a minor injury at work.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "lecture (faux ami)",
+    "traduction": "cours magistral, conférence — pas \"lecture\" (reading)",
+    "exemple": "The professor gave a lecture on economics.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "library (faux ami)",
+    "traduction": "bibliothèque — pas \"librairie\" (bookshop)",
+    "exemple": "She borrowed the book from the library.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "location (faux ami)",
+    "traduction": "emplacement, lieu — pas \"location\" (rental/hire)",
+    "exemple": "The store is in a great location.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "magazine (faux ami)",
+    "traduction": "magazine, revue — pas \"magasin\" (shop/store)",
+    "exemple": "She bought a magazine at the airport.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "notice (faux ami)",
+    "traduction": "remarquer, noter, préavis — pas \"notice\" (instructions)",
+    "exemple": "He gave notice before leaving the company.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "occasion (faux ami)",
+    "traduction": "occasion, événement — pas \"occasion\" au sens de bonne affaire (bargain/opportunity)",
+    "exemple": "The gala was a special occasion.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "office (faux ami)",
+    "traduction": "bureau, lieu — pas un \"office\" religieux (religious service/holy office)",
+    "exemple": "She works at the head office.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "process (faux ami)",
+    "traduction": "processus, traiter — pas un \"procès\" judiciaire (trial/lawsuit)",
+    "exemple": "The application process takes two weeks.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "proper (faux ami)",
+    "traduction": "convenable, correct — pas \"propre\" (clean/own)",
+    "exemple": "Please follow the proper procedure.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "to realize (faux ami)",
+    "traduction": "se rendre compte — pas \"réaliser\" un film (to achieve/direct a film)",
+    "exemple": "She realized she had made a mistake.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "resume (faux ami)",
+    "traduction": "reprendre — pas un \"résumé\" (CV/US usage aside, to summarize)",
+    "exemple": "The meeting will resume after lunch.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "sensible (faux ami)",
+    "traduction": "raisonnable, sensé — pas \"sensible\" (sensitive)",
+    "exemple": "That is a sensible decision.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "supply (faux ami)",
+    "traduction": "fournir, approvisionnement — pas un \"supplier\" (supplier is already English for fournisseur)",
+    "exemple": "The factory supplies parts to car manufacturers.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "sympathetic (faux ami)",
+    "traduction": "compatissant, compréhensif — pas \"sympathique\" (nice/likeable)",
+    "exemple": "The manager was very sympathetic about the situation.",
+    "categorie": "faux-ami"
+  },
+  {
+    "expression": "to carry",
+    "traduction": "porter",
+    "exemple": "The man is carrying a box.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to examine",
+    "traduction": "examiner",
+    "exemple": "The technician is examining the machine.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to sit across from",
+    "traduction": "être assis en face de",
+    "exemple": "The two colleagues are sitting across from each other.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "staircase / stairs",
+    "traduction": "escalier",
+    "exemple": "The workers are walking down the staircase.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "trash can / bin",
+    "traduction": "poubelle",
+    "exemple": "The trash can is next to the desk.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "adjacent",
+    "traduction": "adjacent, voisin",
+    "exemple": "The parking lot is adjacent to the building.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "empty",
+    "traduction": "vide",
+    "exemple": "The conference room is empty.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to arrange",
+    "traduction": "disposer, arranger",
+    "exemple": "The chairs have been arranged in a circle.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to face",
+    "traduction": "faire face à",
+    "exemple": "The building faces the river.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "corridor",
+    "traduction": "couloir",
+    "exemple": "The offices are located along the corridor.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "pedestrian crossing",
+    "traduction": "passage piéton",
+    "exemple": "People are waiting at the pedestrian crossing.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "briefcase",
+    "traduction": "mallette, serviette",
+    "exemple": "He is holding a briefcase in his hand.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "whiteboard",
+    "traduction": "tableau blanc",
+    "exemple": "Someone has written notes on the whiteboard.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "crowded",
+    "traduction": "bondé, plein de monde",
+    "exemple": "The train station is crowded during rush hour.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "facing",
+    "traduction": "face à, donnant sur",
+    "exemple": "The desks are facing each other.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "outdoor",
+    "traduction": "en plein air, extérieur",
+    "exemple": "The company organized an outdoor event.",
+    "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "in addition",
+    "traduction": "de plus, en outre",
+    "exemple": "In addition, the company plans to hire more staff.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "not only... but also",
+    "traduction": "non seulement... mais aussi",
+    "exemple": "The plan not only saves money but also improves efficiency.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "on the other hand",
+    "traduction": "d'un autre côté, en revanche",
+    "exemple": "On the other hand, the new policy could raise costs.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "whereas",
+    "traduction": "alors que, tandis que",
+    "exemple": "Sales rose in the East, whereas they fell in the West.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "while (connecteur)",
+    "traduction": "tandis que, bien que",
+    "exemple": "While the budget is tight, the project must move forward.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "as a result",
+    "traduction": "par conséquent, en conséquence",
+    "exemple": "The factory closed; as a result, many jobs were lost.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "consequently",
+    "traduction": "par conséquent",
+    "exemple": "Sales dropped; consequently, the company cut costs.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "unless",
+    "traduction": "à moins que, sauf si",
+    "exemple": "We will not proceed unless the budget is approved.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "as long as",
+    "traduction": "tant que, pourvu que",
+    "exemple": "You can stay as long as you need.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "once (connecteur)",
+    "traduction": "une fois que, dès que",
+    "exemple": "Once the contract is signed, we can begin.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "prior to",
+    "traduction": "avant (de), préalablement à",
+    "exemple": "Please arrive prior to the start of the meeting.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "following (connecteur)",
+    "traduction": "suite à, par la suite",
+    "exemple": "Following the merger, the company restructured its teams.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "in other words",
+    "traduction": "en d'autres termes, autrement dit",
+    "exemple": "In other words, the deadline cannot be extended.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "that is (to say)",
+    "traduction": "c'est-à-dire",
+    "exemple": "The report is confidential, that is to say, not for public release.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "for instance / for example",
+    "traduction": "par exemple",
+    "exemple": "Some departments, for instance marketing, need more staff.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "such as",
+    "traduction": "tel(s) que, comme",
+    "exemple": "The company offers benefits such as health insurance.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "in conclusion",
+    "traduction": "en conclusion",
+    "exemple": "In conclusion, the project was a success.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "in summary",
+    "traduction": "en résumé",
+    "exemple": "In summary, sales increased across all regions.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "to sum up",
+    "traduction": "pour résumer, en bref",
+    "exemple": "To sum up, the team met all its objectives.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "furthermore",
+    "traduction": "de plus, en outre",
+    "exemple": "Furthermore, the budget was approved unanimously.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "moreover",
+    "traduction": "de plus, qui plus est",
+    "exemple": "Moreover, the new system is much faster.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "besides",
+    "traduction": "en dehors de, de plus",
+    "exemple": "Besides the cost, there are other concerns.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "yet (connecteur)",
+    "traduction": "pourtant, mais",
+    "exemple": "The plan was risky, yet it succeeded.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "thus",
+    "traduction": "ainsi, donc",
+    "exemple": "The budget was cut; thus, the project was delayed.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "hence",
+    "traduction": "d'où, par conséquent",
+    "exemple": "Sales fell, hence the layoffs.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "provided that",
+    "traduction": "à condition que",
+    "exemple": "You can leave early, provided that the report is finished.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "in the event that",
+    "traduction": "dans le cas où, au cas où",
+    "exemple": "In the event that the flight is cancelled, contact us immediately.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "subsequently",
+    "traduction": "par la suite, ensuite",
+    "exemple": "The company was sold; subsequently, it changed its name.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "meanwhile",
+    "traduction": "pendant ce temps, entre-temps",
+    "exemple": "Meanwhile, the other team finished the report.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "upon + V-ing",
+    "traduction": "dès que + verbe, lors de",
+    "exemple": "Upon arriving, please sign in at the front desk.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "overall",
+    "traduction": "dans l'ensemble, globalement",
+    "exemple": "Overall, the results were positive this quarter.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "namely",
+    "traduction": "à savoir, c'est-à-dire",
+    "exemple": "Two departments were affected, namely sales and marketing.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "aisle",
+    "traduction": "allée, rayon",
+    "exemple": "You will find the cereal in aisle 5.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "cash register",
+    "traduction": "caisse enregistreuse",
+    "exemple": "The cashier opened the cash register.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "clearance sale",
+    "traduction": "soldes de déstockage",
+    "exemple": "The store is having a clearance sale this week.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "consumer goods",
+    "traduction": "biens de consommation",
+    "exemple": "The factory produces various consumer goods.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "department store",
+    "traduction": "grand magasin",
+    "exemple": "She bought a coat at the department store.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "retail price",
+    "traduction": "prix de détail",
+    "exemple": "The retail price is higher than the wholesale price.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "trade show",
+    "traduction": "salon professionnel, foire",
+    "exemple": "The company presented its products at a trade show.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "wholesale",
+    "traduction": "vente en gros",
+    "exemple": "They buy their supplies wholesale.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "bargain",
+    "traduction": "bonne affaire, aubaine",
+    "exemple": "She got a real bargain on the laptop.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "checkout",
+    "traduction": "passage en caisse",
+    "exemple": "There was a long line at the checkout.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "shopping cart",
+    "traduction": "chariot, panier",
+    "exemple": "He pushed the shopping cart down the aisle.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "window shopping",
+    "traduction": "lèche-vitrine",
+    "exemple": "They spent the afternoon window shopping downtown.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "diagnosis",
+    "traduction": "diagnostic",
+    "exemple": "The doctor confirmed the diagnosis.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "injured",
+    "traduction": "blessé",
+    "exemple": "The worker was injured on the job.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "medication",
+    "traduction": "médicament",
+    "exemple": "She takes medication every morning.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "outpatient",
+    "traduction": "patient en consultation externe",
+    "exemple": "The surgery was done on an outpatient basis.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "physical exam",
+    "traduction": "examen physique, bilan",
+    "exemple": "He had a physical exam before starting the job.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "prescription",
+    "traduction": "ordonnance",
+    "exemple": "The doctor wrote a prescription for antibiotics.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "wellness",
+    "traduction": "bien-être, santé globale",
+    "exemple": "The company launched a wellness program for employees.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "checkup",
+    "traduction": "bilan de santé",
+    "exemple": "She scheduled her annual checkup.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "deductible",
+    "traduction": "franchise (assurance)",
+    "exemple": "The insurance plan has a $500 deductible.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "medical record",
+    "traduction": "dossier médical",
+    "exemple": "The clinic updated his medical record.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "occupational health",
+    "traduction": "santé au travail",
+    "exemple": "The occupational health department reviewed the case.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "surgeon",
+    "traduction": "chirurgien(ne)",
+    "exemple": "The surgeon performed the operation successfully.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "X-ray",
+    "traduction": "radiographie",
+    "exemple": "The doctor ordered an X-ray of his arm.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "to compost",
+    "traduction": "composter",
+    "exemple": "The restaurant composts its food waste.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "energy-efficient",
+    "traduction": "économe en énergie",
+    "exemple": "The building uses energy-efficient lighting.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "renewable energy",
+    "traduction": "énergie renouvelable",
+    "exemple": "The country invests heavily in renewable energy.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "solar panel",
+    "traduction": "panneau solaire",
+    "exemple": "They installed solar panels on the roof.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "sustainable",
+    "traduction": "durable",
+    "exemple": "The company promotes sustainable practices.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "water conservation",
+    "traduction": "économies d'eau",
+    "exemple": "The city launched a water conservation campaign.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "to reuse",
+    "traduction": "réutiliser",
+    "exemple": "Employees are encouraged to reuse containers.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "landfill",
+    "traduction": "décharge, centre d'enfouissement",
+    "exemple": "The waste was sent to a landfill.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "wind turbine",
+    "traduction": "éolienne",
+    "exemple": "The farm has several wind turbines.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "pollution",
+    "traduction": "pollution",
+    "exemple": "The factory was fined for air pollution.",
+    "categorie": "environnement-durabilite"
+  },
+  {
+    "expression": "agreement",
+    "traduction": "accord, convention",
+    "exemple": "Both companies signed the agreement.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "binding",
+    "traduction": "contraignant, juridiquement obligatoire",
+    "exemple": "The contract is legally binding.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "clause",
+    "traduction": "clause",
+    "exemple": "The contract includes a confidentiality clause.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "fine",
+    "traduction": "amende",
+    "exemple": "The company had to pay a large fine.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "liable (to be)",
+    "traduction": "être responsable, redevable",
+    "exemple": "The company is liable for any damages.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "liability",
+    "traduction": "responsabilité légale",
+    "exemple": "The firm carries liability insurance.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "null and void",
+    "traduction": "nul et non avenu",
+    "exemple": "The agreement was declared null and void.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "penalty",
+    "traduction": "pénalité, sanction",
+    "exemple": "Late payment will result in a penalty.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "regulations",
+    "traduction": "réglementation",
+    "exemple": "The company complies with safety regulations.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "trademark",
+    "traduction": "marque déposée",
+    "exemple": "The logo is a registered trademark.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "breach",
+    "traduction": "violation, rupture (de contrat)",
+    "exemple": "This is a breach of contract.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "to comply with",
+    "traduction": "se conformer à",
+    "exemple": "All employees must comply with the new policy.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "to enforce",
+    "traduction": "faire respecter, appliquer",
+    "exemple": "The company enforces strict safety rules.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "liable for",
+    "traduction": "responsable de",
+    "exemple": "The driver was found liable for the accident.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "notice (give notice)",
+    "traduction": "préavis, notification",
+    "exemple": "She gave two weeks notice before leaving.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "obligation",
+    "traduction": "obligation",
+    "exemple": "The tenant has an obligation to pay rent on time.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "provision",
+    "traduction": "disposition, clause",
+    "exemple": "The contract contains a provision about termination.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "settlement",
+    "traduction": "règlement, accord amiable",
+    "exemple": "The two parties reached a settlement.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "courtesy",
+    "traduction": "courtoisie, politesse",
+    "exemple": "The staff treated every customer with courtesy.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "to escalate",
+    "traduction": "escalader, transmettre à un supérieur",
+    "exemple": "The agent escalated the complaint to her manager.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "to follow up",
+    "traduction": "faire un suivi",
+    "exemple": "She will follow up with the client next week.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "to handle",
+    "traduction": "traiter, gérer",
+    "exemple": "The team handles about 100 calls a day.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "hold (put on hold)",
+    "traduction": "mettre en attente",
+    "exemple": "The customer was put on hold for ten minutes.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "helpdesk",
+    "traduction": "service d'assistance",
+    "exemple": "Contact the helpdesk if you have a technical problem.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "inquiry",
+    "traduction": "demande, renseignement",
+    "exemple": "We received an inquiry about our services.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "on hold",
+    "traduction": "en attente (téléphone)",
+    "exemple": "I was on hold for twenty minutes.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "service level",
+    "traduction": "niveau de service",
+    "exemple": "The company guarantees a high service level.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "shipping",
+    "traduction": "expédition, livraison",
+    "exemple": "Shipping usually takes three to five days.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "coordinator",
+    "traduction": "coordinateur, organisateur",
+    "exemple": "The event coordinator arranged everything perfectly.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "entertainment",
+    "traduction": "divertissement, animation",
+    "exemple": "The hotel offers live entertainment every evening.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "launch event",
+    "traduction": "événement de lancement",
+    "exemple": "The launch event attracted many journalists.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "reception",
+    "traduction": "réception, accueil",
+    "exemple": "A reception was held after the ceremony.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "seating arrangement",
+    "traduction": "plan de table, disposition des places",
+    "exemple": "The seating arrangement was decided in advance.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "trade fair",
+    "traduction": "foire commerciale, salon",
+    "exemple": "The company had a booth at the trade fair.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "banquet hall",
+    "traduction": "salle de banquet",
+    "exemple": "The wedding took place in a banquet hall.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "exhibit",
+    "traduction": "exposition, présenter",
+    "exemple": "The museum will exhibit new artwork next month.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "performer",
+    "traduction": "artiste, interprète",
+    "exemple": "The performer received a standing ovation.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "registration",
+    "traduction": "inscription",
+    "exemple": "Registration for the conference closes on Friday.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "venue",
+    "traduction": "lieu, salle",
+    "exemple": "The venue can hold up to 500 guests.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "contractor",
+    "traduction": "entrepreneur, maître d'oeuvre",
+    "exemple": "The contractor finished the renovation on time.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "debris",
+    "traduction": "gravats, décombres",
+    "exemple": "Workers cleared the debris from the site.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "general contractor",
+    "traduction": "entrepreneur général",
+    "exemple": "The general contractor supervises all subcontractors.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "insulation",
+    "traduction": "isolation",
+    "exemple": "The house needs better insulation.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "bid",
+    "traduction": "appel d'offres, soumission",
+    "exemple": "The company submitted a bid for the project.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "building code",
+    "traduction": "code de la construction",
+    "exemple": "The building must comply with the local building code.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "crane",
+    "traduction": "grue",
+    "exemple": "A crane lifted the steel beams into place.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "excavation",
+    "traduction": "excavation, terrassement",
+    "exemple": "Excavation work began this week.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "structural",
+    "traduction": "structurel",
+    "exemple": "The engineer identified a structural issue.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "specification",
+    "traduction": "spécification technique",
+    "exemple": "The product must meet strict specifications.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "subcontractor",
+    "traduction": "sous-traitant",
+    "exemple": "The electrical work was done by a subcontractor.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "wiring",
+    "traduction": "câblage",
+    "exemple": "The electrician checked the wiring.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "to bring up",
+    "traduction": "soulever, mentionner (un sujet)",
+    "exemple": "She brought up the issue during the meeting.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to carry out",
+    "traduction": "effectuer, mener à bien",
+    "exemple": "The team carried out the project successfully.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to come up with",
+    "traduction": "proposer, trouver (une idée)",
+    "exemple": "They came up with a new marketing strategy.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to cut back on",
+    "traduction": "réduire, diminuer",
+    "exemple": "The company had to cut back on spending.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to draw up",
+    "traduction": "rédiger, établir (un document)",
+    "exemple": "The lawyer drew up the contract.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to drop off",
+    "traduction": "déposer, livrer",
+    "exemple": "He dropped off the package at the front desk.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to fill in / fill out",
+    "traduction": "remplir (un formulaire)",
+    "exemple": "Please fill out the application form.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to find out",
+    "traduction": "découvrir, s'informer",
+    "exemple": "We need to find out what caused the delay.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to get back to",
+    "traduction": "recontacter, rappeler",
+    "exemple": "I'll get back to you tomorrow.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to hand in",
+    "traduction": "remettre, soumettre",
+    "exemple": "Please hand in your report by Friday.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to hand out",
+    "traduction": "distribuer",
+    "exemple": "The teacher handed out the handouts.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to keep up with",
+    "traduction": "se tenir au courant de",
+    "exemple": "It is hard to keep up with all the changes.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to leave out",
+    "traduction": "omettre, exclure",
+    "exemple": "Make sure not to leave out any details.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to let down",
+    "traduction": "décevoir",
+    "exemple": "He felt he had let down his team.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to make up for",
+    "traduction": "compenser, rattraper",
+    "exemple": "She worked overtime to make up for the delay.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to pass on",
+    "traduction": "transmettre",
+    "exemple": "Please pass on this message to the team.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to pick up",
+    "traduction": "récupérer, prendre, reprendre",
+    "exemple": "I will pick up the documents tomorrow.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to put off",
+    "traduction": "reporter, remettre à plus tard",
+    "exemple": "They put off the decision until next week.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to run out of",
+    "traduction": "manquer de, être à court de",
+    "exemple": "The office ran out of printer paper.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to sort out",
+    "traduction": "régler, résoudre",
+    "exemple": "They sorted out the misunderstanding quickly.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to step down",
+    "traduction": "démissionner, se retirer",
+    "exemple": "The CEO stepped down after ten years.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to take on",
+    "traduction": "embaucher, assumer (une tâche)",
+    "exemple": "The company took on five new employees.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to take over",
+    "traduction": "reprendre, prendre la relève",
+    "exemple": "She will take over as manager next month.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to think over",
+    "traduction": "réfléchir à",
+    "exemple": "Please think over the offer before deciding.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to turn down",
+    "traduction": "refuser, rejeter",
+    "exemple": "He turned down the job offer.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to work out",
+    "traduction": "résoudre, s'arranger, calculer",
+    "exemple": "They worked out a solution together.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to accept responsibility",
+    "traduction": "assumer la responsabilité",
+    "exemple": "He accepted responsibility for the mistake.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to carry out a survey",
+    "traduction": "mener une enquête",
+    "exemple": "The company carried out a survey among its clients.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to close a deal",
+    "traduction": "conclure un accord",
+    "exemple": "They closed the deal after months of negotiation.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to draw up a contract",
+    "traduction": "rédiger un contrat",
+    "exemple": "The lawyer drew up a contract for both parties.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to exceed expectations",
+    "traduction": "dépasser les attentes",
+    "exemple": "The results exceeded expectations.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to handle a situation",
+    "traduction": "gérer une situation",
+    "exemple": "She handled the situation calmly.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to incur costs",
+    "traduction": "supporter des coûts",
+    "exemple": "The delay caused the company to incur extra costs.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to meet a deadline",
+    "traduction": "respecter une échéance",
+    "exemple": "The team worked hard to meet the deadline.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to meet requirements",
+    "traduction": "satisfaire aux exigences",
+    "exemple": "The product meets all safety requirements.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to place an order",
+    "traduction": "passer une commande",
+    "exemple": "She placed an order for new office supplies.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to raise concerns",
+    "traduction": "soulever des inquiétudes",
+    "exemple": "Employees raised concerns about the new policy.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to reach an agreement",
+    "traduction": "parvenir à un accord",
+    "exemple": "The two companies finally reached an agreement.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to secure funding",
+    "traduction": "obtenir un financement",
+    "exemple": "The startup secured funding from investors.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to seek approval",
+    "traduction": "demander une approbation",
+    "exemple": "The team sought approval from senior management.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to take minutes",
+    "traduction": "prendre le PV, rédiger le compte-rendu",
+    "exemple": "She was asked to take minutes during the meeting.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to undertake a project",
+    "traduction": "entreprendre un projet",
+    "exemple": "The company undertook a major renovation project.",
+    "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to reach for",
+    "traduction": "tendre la main vers",
+    "exemple": "She reached for the phone on her desk.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to hand",
+    "traduction": "tendre, remettre",
+    "exemple": "He handed the documents to his colleague.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "counter",
+    "traduction": "comptoir",
+    "exemple": "The receptionist is standing behind the counter.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "parking lot",
+    "traduction": "parking",
+    "exemple": "The cars are parked in the parking lot.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "intersection",
+    "traduction": "carrefour, intersection",
+    "exemple": "The cars stopped at the intersection.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "binder",
+    "traduction": "classeur à anneaux",
+    "exemple": "The documents are stored in a binder.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "cabinet",
+    "traduction": "armoire, meuble de rangement",
+    "exemple": "The files are kept in a cabinet.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "ladder",
+    "traduction": "échelle",
+    "exemple": "The worker is climbing a ladder.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "wheelbarrow",
+    "traduction": "brouette",
+    "exemple": "The gardener is pushing a wheelbarrow.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "safety vest",
+    "traduction": "gilet de sécurité",
+    "exemple": "All workers must wear a safety vest.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "overhead projector",
+    "traduction": "rétroprojecteur",
+    "exemple": "The presenter used an overhead projector.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "neatly",
+    "traduction": "soigneusement, avec ordre",
+    "exemple": "The books are arranged neatly on the shelf.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "scattered",
+    "traduction": "éparpillé",
+    "exemple": "Papers are scattered on the desk.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "surrounded by",
+    "traduction": "entouré de",
+    "exemple": "The building is surrounded by trees.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to operate",
+    "traduction": "utiliser, faire fonctionner",
+    "exemple": "She is operating the machine.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to lean against",
+    "traduction": "s'appuyer contre",
+    "exemple": "The bicycle is leaning against the wall.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to shake hands",
+    "traduction": "se serrer la main",
+    "exemple": "The two men are shaking hands.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "workstation",
+    "traduction": "poste de travail",
+    "exemple": "Each employee has their own workstation.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "lobby",
+    "traduction": "hall d'entrée",
+    "exemple": "Visitors are waiting in the lobby.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "loading dock",
+    "traduction": "quai de chargement",
+    "exemple": "The truck is parked at the loading dock.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "forklift",
+    "traduction": "chariot élévateur",
+    "exemple": "The forklift is moving boxes in the warehouse.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "scaffolding",
+    "traduction": "échafaudage",
+    "exemple": "Workers are standing on the scaffolding.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "hard hat",
+    "traduction": "casque de sécurité",
+    "exemple": "The workers are wearing hard hats.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "clipboard",
+    "traduction": "planchette à pince",
+    "exemple": "The inspector is holding a clipboard.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "bulletin board",
+    "traduction": "panneau d'affichage",
+    "exemple": "Notices are posted on the bulletin board.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "lined up",
+    "traduction": "aligné, en file",
+    "exemple": "The chairs are lined up along the wall.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "stacked",
+    "traduction": "empilé",
+    "exemple": "Boxes are stacked in the corner.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "partially",
+    "traduction": "partiellement",
+    "exemple": "The road is partially blocked by construction.",
+    "categorie": "photos-description"
   }
 ]

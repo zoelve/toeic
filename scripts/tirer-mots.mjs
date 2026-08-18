@@ -4,7 +4,7 @@ const nombre = Number(process.argv[2]) || 8;
 
 const { data, error } = await supabase
   .from('vocabulaire')
-  .select('id, expression, traduction, exemple, categorie, fois_revu, derniere_revision')
+  .select('id, expression, traduction, exemple, categorie, fois_revu, derniere_revision, created_at')
   .order('fois_revu', { ascending: true })
   .order('derniere_revision', { ascending: true, nullsFirst: true })
   .limit(nombre);
