@@ -184,5 +184,23 @@
     "traduction": "offre, propose (annonce d'emploi)",
     "exemple": "The company offers a competitive salary and benefits.",
     "categorie": "annonce-emploi"
+  },
+  {
+    "expression": "therefore",
+    "traduction": "donc, par conséquent",
+    "exemple": "My colleague is sick; therefore, I must work extra hours.",
+    "categorie": "connecteur-consequence"
+  },
+  {
+    "expression": "to cut down on",
+    "traduction": "réduire",
+    "exemple": "The corporation wants us to cut down on our expenses.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to refuse to",
+    "traduction": "refuser de (+ infinitif)",
+    "exemple": "His manager refused to cover the expenses.",
+    "categorie": "verbe-infinitif"
   }
 ]
