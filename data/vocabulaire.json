@@ -274,5 +274,29 @@
     "traduction": "animé, grouillant d'activité",
     "exemple": "The bustling market was full of tourists.",
     "categorie": "adjectif-economie"
+  },
+  {
+    "expression": "close",
+    "traduction": "étroit(e), proche (relation) — à ne pas confondre avec \"closed\" (fermé)",
+    "exemple": "The CEO hopes that our close collaboration will be able to continue for as long as possible.",
+    "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "originally",
+    "traduction": "à l'origine, initialement",
+    "exemple": "As originally stated, the company declines all responsibility for lost or stolen objects within the company premises.",
+    "categorie": "adverbe-courant"
+  },
+  {
+    "expression": "insofar as",
+    "traduction": "dans la mesure où",
+    "exemple": "The recent months have been difficult economically; insofar as this is the case, we must advise you to try to cut back on your professional expenses.",
+    "categorie": "connecteur-consequence"
+  },
+  {
+    "expression": "firstly",
+    "traduction": "premièrement, d'abord",
+    "exemple": "Firstly, we need to review the budget before making any decisions.",
+    "categorie": "connecteur-consequence"
   }
 ]
