@@ -238,5 +238,11 @@
     "traduction": "pas aussi ... que (comparaison d'égalité négative)",
     "exemple": "The automotive parts business unit is not as profitable as it could be.",
     "categorie": "comparatif"
+  },
+  {
+    "expression": "a grown man/woman",
+    "traduction": "un homme/une femme adulte",
+    "exemple": "His parents still help him with his taxes, even though he is a grown man!",
+    "categorie": "expression-figee"
   }
 ]
