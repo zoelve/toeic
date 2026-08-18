@@ -244,5 +244,17 @@
     "traduction": "un homme/une femme adulte",
     "exemple": "His parents still help him with his taxes, even though he is a grown man!",
     "categorie": "expression-figee"
+  },
+  {
+    "expression": "to validate",
+    "traduction": "valider, approuver",
+    "exemple": "Hotels and flights booked directly by employees must be validated by their managers.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "to block",
+    "traduction": "bloquer",
+    "exemple": "Roadwork often blocks the road that I take to go to work.",
+    "categorie": "verbe-courant"
   }
 ]
