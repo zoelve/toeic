@@ -310,5 +310,29 @@
     "traduction": "pendant que, alors que",
     "exemple": "Mr. Jackson requests the full cooperation of the team as the deal with Astro Group is being revaluated.",
     "categorie": "connecteur-temps"
+  },
+  {
+    "expression": "to put on",
+    "traduction": "mettre, revêtir (un vêtement) / mettre en scène",
+    "exemple": "She put on her coat before leaving the office.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to put out",
+    "traduction": "éteindre / publier",
+    "exemple": "The company put out a press release about the merger.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "to call in",
+    "traduction": "faire venir, demander de passer",
+    "exemple": "The manager called in a specialist to fix the issue.",
+    "categorie": "phrasal-verb"
+  },
+  {
+    "expression": "motivating",
+    "traduction": "motivant(e)",
+    "exemple": "The team leader gave a motivating speech before the launch.",
+    "categorie": "adjectif-courant"
   }
 ]
