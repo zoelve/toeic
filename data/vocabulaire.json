@@ -298,5 +298,17 @@
     "traduction": "premièrement, d'abord",
     "exemple": "Firstly, we need to review the budget before making any decisions.",
     "categorie": "connecteur-consequence"
+  },
+  {
+    "expression": "to call off",
+    "traduction": "annuler",
+    "exemple": "The sales manager has decided to call off his business trip to New York.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "as (simultanéité)",
+    "traduction": "pendant que, alors que",
+    "exemple": "Mr. Jackson requests the full cooperation of the team as the deal with Astro Group is being revaluated.",
+    "categorie": "connecteur-temps"
   }
 ]
