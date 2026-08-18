@@ -256,5 +256,23 @@
     "traduction": "bloquer",
     "exemple": "Roadwork often blocks the road that I take to go to work.",
     "categorie": "verbe-courant"
+  },
+  {
+    "expression": "thriving",
+    "traduction": "prospère, florissant",
+    "exemple": "The city has a thriving tech industry.",
+    "categorie": "adjectif-economie"
+  },
+  {
+    "expression": "soaring",
+    "traduction": "en forte hausse, qui s'envole",
+    "exemple": "Soaring energy prices have hurt small businesses.",
+    "categorie": "adjectif-economie"
+  },
+  {
+    "expression": "bustling",
+    "traduction": "animé, grouillant d'activité",
+    "exemple": "The bustling market was full of tourists.",
+    "categorie": "adjectif-economie"
   }
 ]
