@@ -232,5 +232,11 @@
     "traduction": "licencier (économique, forme active)",
     "exemple": "The company is looking at laying off several members of staff.",
     "categorie": "collocation-travail"
+  },
+  {
+    "expression": "not as ... as",
+    "traduction": "pas aussi ... que (comparaison d'égalité négative)",
+    "exemple": "The automotive parts business unit is not as profitable as it could be.",
+    "categorie": "comparatif"
   }
 ]
