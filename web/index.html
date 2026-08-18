@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Carnet TOEIC — objectif 800</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="paper-texture" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">📓</span>
+      <div class="brand-text">
+        <span class="brand-title">Carnet TOEIC</span>
+        <span class="brand-sub">objectif 800</span>
+      </div>
+    </div>
+    <nav class="tabs" role="tablist" aria-label="Navigation principale">
+      <button class="tab is-active" data-view="dashboard" role="tab" aria-selected="true">Tableau de bord</button>
+      <button class="tab" data-view="categories" role="tab" aria-selected="false">Réviser</button>
+    </nav>
+    <div class="streak-pill" id="streak-pill" title="Jours consécutifs">
+      <span class="flame">🔥</span>
+      <span id="streak-count">0</span>
+    </div>
+  </header>
+
+  <main id="app">
+
+    <!-- ===================== DASHBOARD ===================== -->
+    <section id="view-dashboard" class="view is-active">
+
+      <div class="hero-row">
+        <div class="hero-card">
+          <p class="eyebrow">Aujourd'hui</p>
+          <h1 id="hero-greeting">Content de te revoir.</h1>
+          <p class="hero-sub" id="hero-sub">Charge le carnet pour voir où tu en es.</p>
+          <button class="cta" id="cta-revise">Réviser maintenant →</button>
+        </div>
+
+        <div class="ring-card">
+          <svg viewBox="0 0 140 140" class="ring-svg">
+            <circle cx="70" cy="70" r="60" class="ring-track" />
+            <circle cx="70" cy="70" r="60" class="ring-progress" id="ring-mastery" />
+          </svg>
+          <div class="ring-label">
+            <span class="ring-value" id="ring-mastery-value">0%</span>
+            <span class="ring-caption">maîtrisé</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="stat-grid">
+        <div class="stat-card">
+          <span class="stat-icon">📚</span>
+          <span class="stat-number" id="stat-total">0</span>
+          <span class="stat-label">mots au carnet</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-icon">✅</span>
+          <span class="stat-number" id="stat-mastered">0</span>
+          <span class="stat-label">mots maîtrisés</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-icon">🌱</span>
+          <span class="stat-number" id="stat-progress">0</span>
+          <span class="stat-label">en apprentissage</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-icon">💤</span>
+          <span class="stat-number" id="stat-new">0</span>
+          <span class="stat-label">jamais vus</span>
+        </div>
+      </div>
+
+      <div class="panel-row">
+        <div class="panel heatmap-panel">
+          <div class="panel-head">
+            <h2>Assiduité</h2>
+            <p id="heatmap-caption">les 10 dernières semaines</p>
+          </div>
+          <div class="heatmap" id="heatmap"></div>
+          <div class="heatmap-legend">
+            <span>moins</span>
+            <span class="cell lvl0"></span>
+            <span class="cell lvl1"></span>
+            <span class="cell lvl2"></span>
+            <span class="cell lvl3"></span>
+            <span class="cell lvl4"></span>
+            <span>plus</span>
+          </div>
+        </div>
+
+        <div class="panel badges-panel">
+          <div class="panel-head">
+            <h2>Récompenses</h2>
+            <p id="badges-caption">0 débloquées</p>
+          </div>
+          <div class="badges-grid" id="badges-grid"></div>
+        </div>
+      </div>
+
+      <div class="panel categories-panel">
+        <div class="panel-head">
+          <h2>Progression par catégorie</h2>
+          <p>clique une catégorie pour t'y entraîner directement</p>
+        </div>
+        <div class="category-bars" id="category-bars"></div>
+      </div>
+
+    </section>
+
+    <!-- ===================== CATEGORIES / SETUP ===================== -->
+    <section id="view-categories" class="view">
+      <div class="setup-head">
+        <p class="eyebrow">Séance de révision</p>
+        <h1>Qu'est-ce qu'on travaille ?</h1>
+        <p class="hero-sub">Choisis une ou plusieurs catégories, ou pars sur un mélange de tout le carnet.</p>
+      </div>
+
+      <div class="setup-row">
+        <button class="chip chip-all is-selected" id="chip-all" data-cat="__all__">Tout le carnet</button>
+        <button class="chip chip-priority" id="chip-priority" data-cat="__priority__">🎯 À réviser en priorité</button>
+      </div>
+
+      <div class="chip-grid" id="category-chips"></div>
+
+      <div class="setup-footer">
+        <label class="length-label">
+          Nombre de cartes
+          <select id="session-length">
+            <option value="10">10</option>
+            <option value="20" selected>20</option>
+            <option value="40">40</option>
+            <option value="0">toutes</option>
+          </select>
+        </label>
+        <button class="cta cta-big" id="start-quiz">Commencer la séance →</button>
+      </div>
+    </section>
+
+    <!-- ===================== QUIZ ===================== -->
+    <section id="view-quiz" class="view">
+      <div class="quiz-head">
+        <button class="quit-btn" id="quiz-quit">← Quitter</button>
+        <div class="quiz-progress-track">
+          <div class="quiz-progress-fill" id="quiz-progress-fill"></div>
+        </div>
+        <span class="quiz-count" id="quiz-count">1 / 20</span>
+      </div>
+
+      <div class="quiz-stage">
+        <div class="card-wrap" id="card-wrap">
+          <div class="flashcard" id="flashcard">
+            <div class="flashcard-face flashcard-front">
+              <span class="card-tag" id="card-category">catégorie</span>
+              <p class="card-word" id="card-front-text">word</p>
+              <span class="flip-hint">clique pour retourner</span>
+            </div>
+            <div class="flashcard-face flashcard-back">
+              <p class="card-translation" id="card-back-text">traduction</p>
+              <p class="card-example" id="card-back-example">exemple</p>
+              <span class="flip-hint">clique pour retourner</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="quiz-actions">
+          <button class="know-btn know-no" id="btn-dont-know">
+            <span class="know-icon">✕</span>
+            Je ne sais pas
+          </button>
+          <button class="know-btn know-yes" id="btn-know">
+            <span class="know-icon">✓</span>
+            Je sais
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== RESULTS ===================== -->
+    <section id="view-results" class="view">
+      <div class="results-card">
+        <span class="results-emoji" id="results-emoji">🎉</span>
+        <h1 id="results-title">Séance terminée</h1>
+        <p class="results-sub" id="results-sub">Bien joué.</p>
+
+        <div class="results-ring-row">
+          <svg viewBox="0 0 160 160" class="ring-svg results-ring">
+            <circle cx="80" cy="80" r="68" class="ring-track" />
+            <circle cx="80" cy="80" r="68" class="ring-progress" id="results-ring" />
+          </svg>
+          <div class="ring-label">
+            <span class="ring-value" id="results-score">0%</span>
+            <span class="ring-caption">de bonnes réponses</span>
+          </div>
+        </div>
+
+        <div class="results-stats">
+          <div><span id="results-yes">0</span><small>connus</small></div>
+          <div><span id="results-no">0</span><small>à revoir</small></div>
+        </div>
+
+        <div class="results-new-badges" id="results-new-badges"></div>
+
+        <div class="results-actions">
+          <button class="cta" id="results-again">Encore une série →</button>
+          <button class="ghost-btn" id="results-dashboard">Retour au tableau de bord</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="vendor/supabase.js"></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
