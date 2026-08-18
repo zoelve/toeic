@@ -202,5 +202,35 @@
     "traduction": "refuser de (+ infinitif)",
     "exemple": "His manager refused to cover the expenses.",
     "categorie": "verbe-infinitif"
+  },
+  {
+    "expression": "sluggish",
+    "traduction": "atone, faible (économie)",
+    "exemple": "Government bonds will be offered in order to stimulate the slow and sluggish economy.",
+    "categorie": "adjectif-economie"
+  },
+  {
+    "expression": "to look into",
+    "traduction": "examiner, étudier",
+    "exemple": "My business partner and I are looking into a new business project.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "indeed",
+    "traduction": "en effet",
+    "exemple": "The last few meetings I attended were very interesting. Indeed, I met fascinating people.",
+    "categorie": "connecteur-confirmation"
+  },
+  {
+    "expression": "to force somebody to",
+    "traduction": "obliger, forcer qqn à",
+    "exemple": "Recent financial problems have forced Steve to find another job.",
+    "categorie": "verbe-infinitif"
+  },
+  {
+    "expression": "to lay off",
+    "traduction": "licencier (économique, forme active)",
+    "exemple": "The company is looking at laying off several members of staff.",
+    "categorie": "collocation-travail"
   }
 ]
