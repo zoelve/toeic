@@ -3190,5 +3190,11 @@
     "traduction": "partiellement",
     "exemple": "The road is partially blocked by construction.",
     "categorie": "photos-description"
+  },
+  {
+    "expression": "transportation",
+    "traduction": "transport, acheminement",
+    "exemple": "My hotel will take care of my transportation to your office the next morning.",
+    "categorie": "voyages-transports"
   }
 ]
