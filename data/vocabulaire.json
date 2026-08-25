@@ -3196,5 +3196,77 @@
     "traduction": "transport, acheminement",
     "exemple": "My hotel will take care of my transportation to your office the next morning.",
     "categorie": "voyages-transports"
+  },
+  {
+    "expression": "individual (annonce)",
+    "traduction": "personne, individu",
+    "exemple": "Individual looking to advance their career in marketing.",
+    "categorie": "annonce-emploi"
+  },
+  {
+    "expression": "to advance (one's career)",
+    "traduction": "faire progresser, avancer (sa carrière)",
+    "exemple": "She took the course to advance her career.",
+    "categorie": "collocation-travail"
+  },
+  {
+    "expression": "willing to",
+    "traduction": "disposé(e), prêt(e) à",
+    "exemple": "Candidates must be willing to travel for the position.",
+    "categorie": "expression-figee"
+  },
+  {
+    "expression": "to display",
+    "traduction": "afficher, exposer",
+    "exemple": "Contractors must display their permit on site.",
+    "categorie": "verbe-courant"
+  },
+  {
+    "expression": "to go downhill",
+    "traduction": "se dégrader",
+    "exemple": "The state of the road has really gone downhill this year.",
+    "categorie": "expression-figee"
+  },
+  {
+    "expression": "self-employed",
+    "traduction": "indépendant, travailleur autonome",
+    "exemple": "I am self-employed, so I need receipts for my accounts.",
+    "categorie": "ressources-humaines"
+  },
+  {
+    "expression": "records",
+    "traduction": "relevés, historique",
+    "exemple": "I can't find any records of my recent purchases.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "rep(s)",
+    "traduction": "représentant(e)(s)",
+    "exemple": "Visitors were waiting to talk to company reps.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "to cap",
+    "traduction": "plafonner",
+    "exemple": "Prices are being capped to protect consumers.",
+    "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "to encourage somebody to",
+    "traduction": "encourager qqn à",
+    "exemple": "We should be doing more to encourage people to adopt and not buy.",
+    "categorie": "verbe-infinitif"
+  },
+  {
+    "expression": "jewellery",
+    "traduction": "bijouterie, bijoux (orthographe britannique de jewelry)",
+    "exemple": "She does the marketing for a friend's jewellery business.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "that said",
+    "traduction": "cela dit, ceci étant",
+    "exemple": "That said, I really miss working as part of a team.",
+    "categorie": "connecteur-logique"
   }
 ]
