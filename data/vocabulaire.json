@@ -3400,5 +3400,17 @@
     "traduction": "profondément ancré, enraciné",
     "exemple": "The company faces a deep-seated problem in its supply chain.",
     "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "plenty of",
+    "traduction": "beaucoup de, en abondance",
+    "exemple": "There is plenty of demand for this product.",
+    "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "will be + V-ing (futur planifié)",
+    "traduction": "action future déjà prévue/planifiée (plus naturel qu'un simple futur pour une annonce)",
+    "exemple": "Brian will be joining our team here in Ohio as HR manager on Monday.",
+    "categorie": "grammaire-piege"
   }
 ]
