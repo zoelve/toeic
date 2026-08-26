@@ -3454,5 +3454,95 @@
     "traduction": "rafraîchissements, collation",
     "exemple": "The flight attendant is serving refreshments.",
     "categorie": "photos-description"
+  },
+  {
+    "expression": "fire truck",
+    "traduction": "camion de pompiers",
+    "exemple": "The men are standing in front of the fire truck.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "headlights",
+    "traduction": "phares (de voiture)",
+    "exemple": "The headlights have been left on.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to put out a fire",
+    "traduction": "éteindre un incendie",
+    "exemple": "The firefighters are putting out a fire.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "operating room",
+    "traduction": "salle d'opération",
+    "exemple": "The operating room has been prepped for surgery.",
+    "categorie": "sante-medecine"
+  },
+  {
+    "expression": "to prep (for)",
+    "traduction": "préparer (en vue de)",
+    "exemple": "The operating room has been prepped for surgery.",
+    "categorie": "verbe-courant"
+  },
+  {
+    "expression": "conductor (train)",
+    "traduction": "contrôleur, chef de train",
+    "exemple": "The conductor is inspecting the train.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "cargo container",
+    "traduction": "conteneur de fret",
+    "exemple": "The cargo containers are sitting on the train tracks.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "train car",
+    "traduction": "wagon",
+    "exemple": "A worker is connecting the train cars.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "in motion",
+    "traduction": "en mouvement",
+    "exemple": "The train is in motion.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "overcrowded",
+    "traduction": "surpeuplé",
+    "exemple": "The station is full, but not overcrowded.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to cross one's arms",
+    "traduction": "croiser les bras",
+    "exemple": "The waiter is crossing his arms.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to get someone's attention",
+    "traduction": "attirer l'attention de qqn",
+    "exemple": "The customers are trying to get his attention.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "casual restaurant",
+    "traduction": "restaurant décontracté",
+    "exemple": "The waiter works at a casual restaurant.",
+    "categorie": "restauration-alimentation"
+  },
+  {
+    "expression": "tour group",
+    "traduction": "groupe touristique",
+    "exemple": "The ladies are a part of the tour group.",
+    "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "abstract art",
+    "traduction": "art abstrait",
+    "exemple": "They are viewing abstract art.",
+    "categorie": "evenements-divertissement"
   }
 ]
