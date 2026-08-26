@@ -3346,5 +3346,23 @@
     "traduction": "confier (un secret), se confier",
     "exemple": "She confided her worries to a close friend.",
     "categorie": "verbe-courant"
+  },
+  {
+    "expression": "arrest (nom)",
+    "traduction": "arrestation",
+    "exemple": "The police made an arrest at the scene.",
+    "categorie": "verbe-courant"
+  },
+  {
+    "expression": "retreat (nom)",
+    "traduction": "retraite, repli",
+    "exemple": "The team went on a company retreat last weekend.",
+    "categorie": "verbe-courant"
+  },
+  {
+    "expression": "detour",
+    "traduction": "détour, déviation",
+    "exemple": "We had to take a detour because of the roadwork.",
+    "categorie": "voyages-transports"
   }
 ]
