@@ -3364,5 +3364,17 @@
     "traduction": "détour, déviation",
     "exemple": "We had to take a detour because of the roadwork.",
     "categorie": "voyages-transports"
+  },
+  {
+    "expression": "to issue",
+    "traduction": "publier, émettre (un rapport, un communiqué)",
+    "exemple": "The financial report for the last quarter will be issued next week.",
+    "categorie": "bureau-correspondance"
+  },
+  {
+    "expression": "to outsource",
+    "traduction": "externaliser, sous-traiter",
+    "exemple": "European clothing manufacturers have been outsourcing work to India and Bangladesh for a long time.",
+    "categorie": "production-industrie"
   }
 ]
