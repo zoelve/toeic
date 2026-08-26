@@ -3376,5 +3376,29 @@
     "traduction": "externaliser, sous-traiter",
     "exemple": "European clothing manufacturers have been outsourcing work to India and Bangladesh for a long time.",
     "categorie": "production-industrie"
+  },
+  {
+    "expression": "first-hand",
+    "traduction": "de première main, direct",
+    "exemple": "She has first-hand experience of managing a team.",
+    "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "wide-ranging",
+    "traduction": "de grande envergure, varié",
+    "exemple": "The report covers a wide-ranging set of topics.",
+    "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "fast-moving",
+    "traduction": "qui évolue rapidement",
+    "exemple": "She works in a fast-moving industry.",
+    "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "deep-seated",
+    "traduction": "profondément ancré, enraciné",
+    "exemple": "The company faces a deep-seated problem in its supply chain.",
+    "categorie": "adjectif-courant"
   }
 ]
