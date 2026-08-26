@@ -3286,5 +3286,11 @@
     "traduction": "ce qui (relatif qui résume l'idée précédente entière, pas un mot précis)",
     "exemple": "James owns 80% of the shares in the company, which makes him a majority shareholder.",
     "categorie": "grammaire-piege"
+  },
+  {
+    "expression": "to conduct (a study/survey)",
+    "traduction": "mener, réaliser (une étude, une enquête)",
+    "exemple": "The team is currently conducting an ecological study of the local wildlife.",
+    "categorie": "collocation-nom-verbe"
   }
 ]
