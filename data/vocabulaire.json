@@ -3292,5 +3292,11 @@
     "traduction": "mener, réaliser (une étude, une enquête)",
     "exemple": "The team is currently conducting an ecological study of the local wildlife.",
     "categorie": "collocation-nom-verbe"
+  },
+  {
+    "expression": "to grow + adjectif",
+    "traduction": "devenir (progressivement) — ex : grow tired = se lasser",
+    "exemple": "Many people have grown tired of the constant advertisements on social media.",
+    "categorie": "grammaire-piege"
   }
 ]
