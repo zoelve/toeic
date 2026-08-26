@@ -3268,5 +3268,11 @@
     "traduction": "cela dit, ceci étant",
     "exemple": "That said, I really miss working as part of a team.",
     "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "need + V-ing (sens passif)",
+    "traduction": "avoir besoin d'être + participe passé (ex : needs fixing = doit être réparé)",
+    "exemple": "The office heating needs fixing, so I'm going to call an engineer.",
+    "categorie": "grammaire-piege"
   }
 ]
