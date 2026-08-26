@@ -3412,5 +3412,47 @@
     "traduction": "action future déjà prévue/planifiée (plus naturel qu'un simple futur pour une annonce)",
     "exemple": "Brian will be joining our team here in Ohio as HR manager on Monday.",
     "categorie": "grammaire-piege"
+  },
+  {
+    "expression": "to shut off",
+    "traduction": "éteindre (une lumière, un appareil)",
+    "exemple": "The lights have been shut off.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "lead singer",
+    "traduction": "chanteur, chanteuse principal(e)",
+    "exemple": "The lead singer is playing an instrument.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "fireworks",
+    "traduction": "feux d'artifice",
+    "exemple": "There are fireworks in the background.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "unruly passenger",
+    "traduction": "passager turbulent, indiscipliné",
+    "exemple": "There is an unruly passenger on board.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "steward / flight attendant",
+    "traduction": "steward, hôtesse de l'air",
+    "exemple": "The flight attendant is serving refreshments.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "to buckle (a seatbelt)",
+    "traduction": "attacher (une ceinture de sécurité)",
+    "exemple": "The steward is telling passengers how to buckle their seatbelts.",
+    "categorie": "photos-description"
+  },
+  {
+    "expression": "refreshments",
+    "traduction": "rafraîchissements, collation",
+    "exemple": "The flight attendant is serving refreshments.",
+    "categorie": "photos-description"
   }
 ]
