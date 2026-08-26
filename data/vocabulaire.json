@@ -3274,5 +3274,11 @@
     "traduction": "avoir besoin d'être + participe passé (ex : needs fixing = doit être réparé)",
     "exemple": "The office heating needs fixing, so I'm going to call an engineer.",
     "categorie": "grammaire-piege"
+  },
+  {
+    "expression": "economic climate",
+    "traduction": "conjoncture économique, climat économique",
+    "exemple": "In this difficult economic climate, many small businesses are closing down.",
+    "categorie": "finance-comptabilite"
   }
 ]
