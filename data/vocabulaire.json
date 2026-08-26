@@ -3304,5 +3304,23 @@
     "traduction": "ne pas réussir à, échouer à",
     "exemple": "The salesman failed to increase his sales revenue last year.",
     "categorie": "verbe-infinitif"
+  },
+  {
+    "expression": "behind schedule",
+    "traduction": "en retard (par rapport au planning)",
+    "exemple": "The construction of the new office building is behind schedule.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "ahead of schedule",
+    "traduction": "en avance (par rapport au planning)",
+    "exemple": "The project is ahead of schedule this month.",
+    "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "on schedule",
+    "traduction": "dans les temps, conforme au planning",
+    "exemple": "The delivery is on schedule.",
+    "categorie": "construction-ingenierie"
   }
 ]
