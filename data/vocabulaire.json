@@ -3280,5 +3280,11 @@
     "traduction": "conjoncture économique, climat économique",
     "exemple": "In this difficult economic climate, many small businesses are closing down.",
     "categorie": "finance-comptabilite"
+  },
+  {
+    "expression": "which (reprise de toute une proposition)",
+    "traduction": "ce qui (relatif qui résume l'idée précédente entière, pas un mot précis)",
+    "exemple": "James owns 80% of the shares in the company, which makes him a majority shareholder.",
+    "categorie": "grammaire-piege"
   }
 ]
