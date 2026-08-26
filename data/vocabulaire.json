@@ -3298,5 +3298,11 @@
     "traduction": "devenir (progressivement) — ex : grow tired = se lasser",
     "exemple": "Many people have grown tired of the constant advertisements on social media.",
     "categorie": "grammaire-piege"
+  },
+  {
+    "expression": "to fail to",
+    "traduction": "ne pas réussir à, échouer à",
+    "exemple": "The salesman failed to increase his sales revenue last year.",
+    "categorie": "verbe-infinitif"
   }
 ]
