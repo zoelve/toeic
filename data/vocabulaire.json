@@ -3322,5 +3322,29 @@
     "traduction": "dans les temps, conforme au planning",
     "exemple": "The delivery is on schedule.",
     "categorie": "construction-ingenierie"
+  },
+  {
+    "expression": "to endeavor to",
+    "traduction": "s'efforcer de, tenter de (+ infinitif)",
+    "exemple": "The new campaign endeavors to increase brand awareness.",
+    "categorie": "verbe-infinitif"
+  },
+  {
+    "expression": "to repel",
+    "traduction": "repousser, faire fuir",
+    "exemple": "The spray is designed to repel insects.",
+    "categorie": "verbe-courant"
+  },
+  {
+    "expression": "to linger",
+    "traduction": "persister, traîner",
+    "exemple": "A strange smell lingered in the room.",
+    "categorie": "verbe-courant"
+  },
+  {
+    "expression": "to confide",
+    "traduction": "confier (un secret), se confier",
+    "exemple": "She confided her worries to a close friend.",
+    "categorie": "verbe-courant"
   }
 ]
