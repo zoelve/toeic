@@ -19,8 +19,9 @@ const state = {
   words: [],
   categories: [],           // [{ slug, label, words, masteredCount, pct }]
   selectedCats: new Set(['__all__']),
-  session: null,            // { queue, index, results:[{id,correct}] }
+  session: null,            // { queue, index, results:[{id,correct}], missedWords:[] }
   badgesBeforeSession: new Set(),
+  lastMissedWords: [],
 };
 
 /* ------------------------------------------------------------------ */
@@ -354,10 +355,17 @@ function startQuiz() {
   }
   const lengthSel = document.getElementById('session-length').value;
   const n = lengthSel === '0' ? pool.length : Math.min(Number(lengthSel), pool.length);
-  const queue = shuffle(pool).slice(0, n);
+  startSession(shuffle(pool).slice(0, n));
+}
 
+function startSessionWithMissedWords() {
+  if (state.lastMissedWords.length === 0) return;
+  startSession(shuffle(state.lastMissedWords));
+}
+
+function startSession(queue) {
   state.badgesBeforeSession = unlockedBadgeIds(computeStats(state.words));
-  state.session = { queue, index: 0, results: [] };
+  state.session = { queue, index: 0, results: [], missedWords: [] };
 
   switchView('quiz');
   renderCurrentCard();
@@ -397,6 +405,7 @@ async function answerCard(correct) {
   const word = queue[index];
 
   state.session.results.push({ id: word.id, correct });
+  if (!correct) state.session.missedWords.push(word);
 
   // mise à jour optimiste locale + persistance Supabase (comme scripts/marquer-revision.mjs)
   word.fois_revu = (word.fois_revu || 0) + 1;
@@ -447,6 +456,11 @@ function finishSession() {
   document.getElementById('results-yes').textContent = yes;
   document.getElementById('results-no').textContent = no;
   setRing(document.getElementById('results-ring'), document.getElementById('results-score'), pct);
+
+  state.lastMissedWords = state.session.missedWords.slice();
+  const replayBtn = document.getElementById('results-replay-missed');
+  replayBtn.hidden = state.lastMissedWords.length === 0;
+  replayBtn.textContent = `🔁 Rejouer les ${state.lastMissedWords.length} mot${state.lastMissedWords.length > 1 ? 's' : ''} raté${state.lastMissedWords.length > 1 ? 's' : ''}`;
 
   const newStats = computeStats(state.words);
   const nowUnlocked = renderBadges(newStats, 'badges-grid', 'badges-caption');
@@ -519,6 +533,7 @@ function bindEvents() {
   document.getElementById('btn-dont-know').addEventListener('click', () => answerCard(false));
   document.getElementById('quiz-quit').addEventListener('click', quitQuiz);
 
+  document.getElementById('results-replay-missed').addEventListener('click', startSessionWithMissedWords);
   document.getElementById('results-again').addEventListener('click', () => {
     switchView('categories');
     renderCategoriesView();

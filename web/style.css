@@ -646,6 +646,21 @@ h2{ font-family: var(--serif); font-weight: 600; font-size: 20px; margin: 0; }
 }
 .ghost-btn:hover{ color: var(--ink); }
 
+.cta-outline{
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--rust);
+  background: var(--rust-tint);
+  border: 2px solid #e6b8b0;
+  border-radius: 999px;
+  padding: 12px 26px;
+  cursor: pointer;
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.cta-outline:hover{ transform: translateY(-1px); box-shadow: 0 10px 20px -10px rgba(168, 58, 50, .4); }
+.cta-outline[hidden]{ display: none; }
+
 /* ---------------------------- toast ---------------------------- */
 
 .toast{
