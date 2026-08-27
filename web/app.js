@@ -367,7 +367,13 @@ function renderCurrentCard() {
   const { queue, index } = state.session;
   const word = queue[index];
   const flashcard = document.getElementById('flashcard');
+
+  // Désactive la transition le temps de repasser en recto et de changer le
+  // texte, sinon la traduction déjà mise à jour est visible une fraction de
+  // seconde pendant l'animation de "déflip" de l'ancienne carte.
+  flashcard.style.transition = 'none';
   flashcard.classList.remove('is-flipped');
+  void flashcard.offsetWidth; // force reflow
 
   document.getElementById('card-category').textContent = prettyCategory(word.categorie);
   document.getElementById('card-front-text').textContent = word.expression;
@@ -376,6 +382,10 @@ function renderCurrentCard() {
 
   document.getElementById('quiz-count').textContent = `${index + 1} / ${queue.length}`;
   document.getElementById('quiz-progress-fill').style.width = `${(index / queue.length) * 100}%`;
+
+  requestAnimationFrame(() => {
+    flashcard.style.transition = '';
+  });
 }
 
 function flipCard() {
