@@ -3544,5 +3544,41 @@
     "traduction": "art abstrait",
     "exemple": "They are viewing abstract art.",
     "categorie": "evenements-divertissement"
+  },
+  {
+    "expression": "to address (a complaint/issue)",
+    "traduction": "traiter, adresser (une réclamation, un problème)",
+    "exemple": "Any complaints should be addressed to the manager.",
+    "categorie": "service-client"
+  },
+  {
+    "expression": "to sell out",
+    "traduction": "tout vendre, être en rupture de stock",
+    "exemple": "Sorry madam, there are none left; we sold out just a few minutes ago.",
+    "categorie": "commerce-achats"
+  },
+  {
+    "expression": "insurance",
+    "traduction": "assurance (to take out insurance = souscrire une assurance)",
+    "exemple": "When travelling, your flight might always be cancelled, so you should take out travel insurance.",
+    "categorie": "voyages-transports"
+  },
+  {
+    "expression": "to sue (for)",
+    "traduction": "poursuivre en justice (pour)",
+    "exemple": "This company's products have made many people ill! They could be sued for damages.",
+    "categorie": "juridique-contrats"
+  },
+  {
+    "expression": "yearly",
+    "traduction": "annuel(le), chaque année",
+    "exemple": "A yearly meeting takes place every March to establish increases in turnover.",
+    "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "every/each + singulier, all + pluriel",
+    "traduction": "piège d'accord : every/each suivi d'un nom singulier, all suivi d'un nom pluriel",
+    "exemple": "All staff members would like to have dental benefits (pas \"every staff members\").",
+    "categorie": "grammaire-piege"
   }
 ]
