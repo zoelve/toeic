@@ -3580,5 +3580,17 @@
     "traduction": "piège d'accord : every/each suivi d'un nom singulier, all suivi d'un nom pluriel",
     "exemple": "All staff members would like to have dental benefits (pas \"every staff members\").",
     "categorie": "grammaire-piege"
+  },
+  {
+    "expression": "to regret + V-ing",
+    "traduction": "regretter d'avoir fait (action déjà accomplie) — différent de \"to regret to inform\" (formule pour une mauvaise nouvelle)",
+    "exemple": "Once he had resigned, the manager regretted making this decision.",
+    "categorie": "grammaire-piege"
+  },
+  {
+    "expression": "stressed out",
+    "traduction": "stressé, à bout, submergé de stress",
+    "exemple": "Talking to my boss on the phone always makes me feel stressed out.",
+    "categorie": "adjectif-courant"
   }
 ]
