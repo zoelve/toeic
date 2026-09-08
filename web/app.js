@@ -358,16 +358,21 @@ function selectSpecial(mode) {
   renderCategoriesView();
 }
 
-// Tous les lots d'ajout, du plus récent au plus ancien : les mots qui
-// partagent le même date_ajout forment un lot. Rien n'est jamais perdu —
-// "Mots du jour" met juste le plus récent en avant, les lots précédents
-// restent accessibles dans l'historique.
+// Tous les lots d'ajout, du plus récent au plus ancien : les mots ajoutés
+// le même jour civil forment un lot. Rien n'est jamais perdu — "Mots du
+// jour" met le jour le plus récent en avant, les jours précédents restent
+// accessibles dans l'historique.
+function dayKey(iso) {
+  return iso.slice(0, 10);
+}
+
 function allBatches() {
   const map = new Map();
   for (const w of state.words) {
     if (!w.date_ajout) continue;
-    if (!map.has(w.date_ajout)) map.set(w.date_ajout, []);
-    map.get(w.date_ajout).push(w);
+    const key = dayKey(w.date_ajout);
+    if (!map.has(key)) map.set(key, []);
+    map.get(key).push(w);
   }
   return [...map.entries()]
     .sort((a, b) => (a[0] < b[0] ? 1 : a[0] > b[0] ? -1 : 0))
@@ -384,12 +389,10 @@ function latestBatchWords() {
   return batches.length ? batches[0].words : [];
 }
 
-function formatBatchDate(iso) {
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return iso;
-  const jour = d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'short' });
-  const heure = d.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
-  return `${jour} · ${heure}`;
+function formatBatchDate(dayIso) {
+  const d = new Date(`${dayIso}T00:00:00Z`);
+  if (Number.isNaN(d.getTime())) return dayIso;
+  return d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
 }
 
 function wordsForSelection() {
@@ -397,7 +400,7 @@ function wordsForSelection() {
   if (state.selectedCats.has('__new__')) return latestBatchWords();
   if ([...state.selectedCats].some((s) => s.startsWith('__batch__:'))) {
     const key = [...state.selectedCats].find((s) => s.startsWith('__batch__:')).slice('__batch__:'.length);
-    return state.words.filter((w) => w.date_ajout === key);
+    return state.words.filter((w) => w.date_ajout && dayKey(w.date_ajout) === key);
   }
   if (state.selectedCats.has('__priority__')) {
     return [...state.words]
