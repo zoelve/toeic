@@ -4338,5 +4338,12 @@
     "exemple": "Please get back to me so we can arrange a valuation.",
     "categorie": "immobilier-logement",
     "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "appliances",
+    "traduction": "électroménager (réfrigérateur, lave-linge...)",
+    "exemple": "I'm selling the house with appliances, fixtures, and fittings included.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
   }
 ]
