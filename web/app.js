@@ -19,8 +19,9 @@ const state = {
   words: [],
   categories: [],           // [{ slug, label, words, masteredCount, pct }]
   selectedCats: new Set(['__all__']),
-  session: null,            // { queue, index, results:[{id,correct}] }
+  session: null,            // { queue, index, results:[{id,correct}], missedWords:[] }
   badgesBeforeSession: new Set(),
+  lastMissedWords: [],
 };
 
 /* ------------------------------------------------------------------ */
@@ -70,7 +71,7 @@ function shuffle(arr) {
 async function loadWords() {
   const { data, error } = await supabaseClient
     .from('vocabulaire')
-    .select('id, expression, traduction, exemple, categorie, fois_revu, fois_correct, derniere_revision')
+    .select('id, expression, traduction, exemple, categorie, fois_revu, fois_correct, derniere_revision, date_ajout')
     .order('categorie', { ascending: true });
 
   if (error) {
@@ -282,7 +283,19 @@ function renderDashboard() {
   renderHeatmap(stats);
   renderBadges(stats);
   renderCategoryBars();
+  renderNewWordsPanel();
   document.getElementById('streak-count').textContent = stats.streak;
+}
+
+function renderNewWordsPanel() {
+  const words = latestBatchWords();
+  const panel = document.getElementById('new-words-panel');
+  const chip = document.getElementById('chip-new');
+  panel.hidden = words.length === 0;
+  chip.hidden = words.length === 0;
+  if (words.length > 0) {
+    document.getElementById('new-words-caption').textContent = `${words.length} mot${words.length > 1 ? 's' : ''}`;
+  }
 }
 
 /* ------------------------------------------------------------------ */
@@ -307,11 +320,13 @@ function renderCategoriesView() {
 function syncSpecialChips() {
   document.getElementById('chip-all').classList.toggle('is-selected', state.selectedCats.has('__all__'));
   document.getElementById('chip-priority').classList.toggle('is-selected', state.selectedCats.has('__priority__'));
+  document.getElementById('chip-new').classList.toggle('is-selected', state.selectedCats.has('__new__'));
 }
 
 function toggleCategoryChip(slug) {
   state.selectedCats.delete('__all__');
   state.selectedCats.delete('__priority__');
+  state.selectedCats.delete('__new__');
   if (state.selectedCats.has(slug)) {
     state.selectedCats.delete(slug);
   } else {
@@ -326,8 +341,26 @@ function selectSpecial(mode) {
   renderCategoriesView();
 }
 
+// Le dernier lot de mots ajoutés : tous les mots partageant le même
+// date_ajout le plus récent. Remplacé automatiquement à chaque nouvel ajout
+// (les mots du lot précédent perdent leur "actualité").
+function latestBatchKey() {
+  let latest = null;
+  for (const w of state.words) {
+    if (w.date_ajout && (!latest || w.date_ajout > latest)) latest = w.date_ajout;
+  }
+  return latest;
+}
+
+function latestBatchWords() {
+  const key = latestBatchKey();
+  if (!key) return [];
+  return state.words.filter((w) => w.date_ajout === key);
+}
+
 function wordsForSelection() {
   if (state.selectedCats.has('__all__')) return state.words;
+  if (state.selectedCats.has('__new__')) return latestBatchWords();
   if (state.selectedCats.has('__priority__')) {
     return [...state.words]
       .sort((a, b) => {
@@ -354,10 +387,17 @@ function startQuiz() {
   }
   const lengthSel = document.getElementById('session-length').value;
   const n = lengthSel === '0' ? pool.length : Math.min(Number(lengthSel), pool.length);
-  const queue = shuffle(pool).slice(0, n);
+  startSession(shuffle(pool).slice(0, n));
+}
 
+function startSessionWithMissedWords() {
+  if (state.lastMissedWords.length === 0) return;
+  startSession(shuffle(state.lastMissedWords));
+}
+
+function startSession(queue) {
   state.badgesBeforeSession = unlockedBadgeIds(computeStats(state.words));
-  state.session = { queue, index: 0, results: [] };
+  state.session = { queue, index: 0, results: [], missedWords: [] };
 
   switchView('quiz');
   renderCurrentCard();
@@ -367,7 +407,13 @@ function renderCurrentCard() {
   const { queue, index } = state.session;
   const word = queue[index];
   const flashcard = document.getElementById('flashcard');
+
+  // Désactive la transition le temps de repasser en recto et de changer le
+  // texte, sinon la traduction déjà mise à jour est visible une fraction de
+  // seconde pendant l'animation de "déflip" de l'ancienne carte.
+  flashcard.style.transition = 'none';
   flashcard.classList.remove('is-flipped');
+  void flashcard.offsetWidth; // force reflow
 
   document.getElementById('card-category').textContent = prettyCategory(word.categorie);
   document.getElementById('card-front-text').textContent = word.expression;
@@ -376,6 +422,10 @@ function renderCurrentCard() {
 
   document.getElementById('quiz-count').textContent = `${index + 1} / ${queue.length}`;
   document.getElementById('quiz-progress-fill').style.width = `${(index / queue.length) * 100}%`;
+
+  requestAnimationFrame(() => {
+    flashcard.style.transition = '';
+  });
 }
 
 function flipCard() {
@@ -387,6 +437,7 @@ async function answerCard(correct) {
   const word = queue[index];
 
   state.session.results.push({ id: word.id, correct });
+  if (!correct) state.session.missedWords.push(word);
 
   // mise à jour optimiste locale + persistance Supabase (comme scripts/marquer-revision.mjs)
   word.fois_revu = (word.fois_revu || 0) + 1;
@@ -437,6 +488,11 @@ function finishSession() {
   document.getElementById('results-yes').textContent = yes;
   document.getElementById('results-no').textContent = no;
   setRing(document.getElementById('results-ring'), document.getElementById('results-score'), pct);
+
+  state.lastMissedWords = state.session.missedWords.slice();
+  const replayBtn = document.getElementById('results-replay-missed');
+  replayBtn.hidden = state.lastMissedWords.length === 0;
+  replayBtn.textContent = `🔁 Rejouer les ${state.lastMissedWords.length} mot${state.lastMissedWords.length > 1 ? 's' : ''} raté${state.lastMissedWords.length > 1 ? 's' : ''}`;
 
   const newStats = computeStats(state.words);
   const nowUnlocked = renderBadges(newStats, 'badges-grid', 'badges-caption');
@@ -500,8 +556,15 @@ function bindEvents() {
     renderCategoriesView();
   });
 
+  document.getElementById('cta-new-words').addEventListener('click', () => {
+    const words = latestBatchWords();
+    if (words.length === 0) return;
+    startSession(shuffle(words));
+  });
+
   document.getElementById('chip-all').addEventListener('click', () => selectSpecial('__all__'));
   document.getElementById('chip-priority').addEventListener('click', () => selectSpecial('__priority__'));
+  document.getElementById('chip-new').addEventListener('click', () => selectSpecial('__new__'));
   document.getElementById('start-quiz').addEventListener('click', startQuiz);
 
   document.getElementById('flashcard').addEventListener('click', flipCard);
@@ -509,6 +572,7 @@ function bindEvents() {
   document.getElementById('btn-dont-know').addEventListener('click', () => answerCard(false));
   document.getElementById('quiz-quit').addEventListener('click', quitQuiz);
 
+  document.getElementById('results-replay-missed').addEventListener('click', startSessionWithMissedWords);
   document.getElementById('results-again').addEventListener('click', () => {
     switchView('categories');
     renderCategoriesView();

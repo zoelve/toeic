@@ -13,8 +13,11 @@ create table if not exists vocabulaire (
   fois_revu integer not null default 0,
   fois_correct integer not null default 0,
   derniere_revision timestamptz,
-  created_at timestamptz not null default now()
+  created_at timestamptz not null default now(),
+  date_ajout timestamptz
 );
+
+comment on column vocabulaire.date_ajout is 'Horodatage du lot d''ajout ("mots du jour") : les mots ajoutés ensemble partagent la même valeur ; NULL pour les mots plus anciens non concernés par cette fonctionnalité.';
 
 comment on table vocabulaire is 'Vocabulaire TOEIC extrait des fiches de révision, révisé quotidiennement.';
 

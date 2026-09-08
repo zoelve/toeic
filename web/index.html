@@ -107,6 +107,15 @@
         </div>
       </div>
 
+      <div class="panel new-words-panel" id="new-words-panel" hidden>
+        <div class="panel-head">
+          <h2>🆕 Mots du jour</h2>
+          <p id="new-words-caption">0 mots</p>
+        </div>
+        <p class="new-words-sub">Le dernier lot de mots ajoutés au carnet — à chaque nouvel ajout, cette liste est remplacée par les nouveaux.</p>
+        <button class="cta" id="cta-new-words">Réviser les mots du jour →</button>
+      </div>
+
       <div class="panel categories-panel">
         <div class="panel-head">
           <h2>Progression par catégorie</h2>
@@ -128,6 +137,7 @@
       <div class="setup-row">
         <button class="chip chip-all is-selected" id="chip-all" data-cat="__all__">Tout le carnet</button>
         <button class="chip chip-priority" id="chip-priority" data-cat="__priority__">🎯 À réviser en priorité</button>
+        <button class="chip chip-new" id="chip-new" data-cat="__new__" hidden>🆕 Mots du jour</button>
       </div>
 
       <div class="chip-grid" id="category-chips"></div>
@@ -211,6 +221,7 @@
         <div class="results-new-badges" id="results-new-badges"></div>
 
         <div class="results-actions">
+          <button class="cta-outline" id="results-replay-missed" hidden>🔁 Rejouer les mots ratés</button>
           <button class="cta" id="results-again">Encore une série →</button>
           <button class="ghost-btn" id="results-dashboard">Retour au tableau de bord</button>
         </div>

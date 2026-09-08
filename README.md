@@ -13,6 +13,7 @@ Fiches de révision et base de vocabulaire TOEIC connectée à Supabase, avec qu
 ## Mise en place
 
 1. Dans le [dashboard Supabase](https://supabase.com/dashboard/project/cbtjqpoglcudgppulxjm/sql/new), exécuter le contenu de `supabase/schema.sql` pour créer la table `vocabulaire`.
+   - Si la table existe déjà (mise à jour d'un projet existant), exécuter aussi `supabase/migration_date_ajout.sql` une fois pour ajouter la colonne `date_ajout` (nécessaire à la rubrique "mots du jour").
 2. Copier `.env.example` en `.env` (les valeurs par défaut pointent déjà vers le projet).
 3. `npm install`
 4. `npm run seed` — insère le vocabulaire de `data/vocabulaire.json` dans Supabase.
