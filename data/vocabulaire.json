@@ -4611,5 +4611,68 @@
     "exemple": "Book now and receive a free cabin upgrade.",
     "categorie": "voyages-transports",
     "date_ajout": "2026-09-08T18:36:33.000Z"
+  },
+  {
+    "expression": "power of attorney",
+    "traduction": "procuration",
+    "exemple": "Shareholders need to give the power of attorney to the person of their choice in writing.",
+    "categorie": "juridique-contrats",
+    "date_ajout": "2026-09-08T18:56:18.000Z"
+  },
+  {
+    "expression": "shareholder",
+    "traduction": "actionnaire",
+    "exemple": "Did you get a hold of all the shareholders to know who will be present?",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-09-08T18:56:18.000Z"
+  },
+  {
+    "expression": "to vote by proxy",
+    "traduction": "voter par procuration",
+    "exemple": "Will they vote by proxy or be present in person?",
+    "categorie": "juridique-contrats",
+    "date_ajout": "2026-09-08T18:56:18.000Z"
+  },
+  {
+    "expression": "articles of association",
+    "traduction": "statuts (d'une société, d'une association)",
+    "exemple": "Any amendment to the articles of the association will require an entry in the register.",
+    "categorie": "juridique-contrats",
+    "date_ajout": "2026-09-08T18:56:18.000Z"
+  },
+  {
+    "expression": "amendment",
+    "traduction": "amendement, modification",
+    "exemple": "Any amendment to the articles of the association that might be made during the meeting will require an entry in the register.",
+    "categorie": "juridique-contrats",
+    "date_ajout": "2026-09-08T18:56:18.000Z"
+  },
+  {
+    "expression": "register (nom)",
+    "traduction": "registre",
+    "exemple": "Any amendment will require an entry in the register.",
+    "categorie": "juridique-contrats",
+    "date_ajout": "2026-09-08T18:56:18.000Z"
+  },
+  {
+    "expression": "fulfilling",
+    "traduction": "épanouissant, gratifiant",
+    "exemple": "Are you seeking a new opportunity for a fulfilling adventure?",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-08T18:56:18.000Z"
+  },
+  {
+    "expression": "to reintegrate",
+    "traduction": "réintégrer",
+    "exemple": "Our goal is to reintegrate elephants into their natural habitat.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-08T18:56:18.000Z"
+  },
+  {
+    "expression": "natural habitat",
+    "traduction": "habitat naturel",
+    "exemple": "Our goal is to reintegrate elephants into their natural habitat.",
+    "categorie": "environnement-durabilite",
+    "date_ajout": "2026-09-08T18:56:18.000Z"
   }
 ]
