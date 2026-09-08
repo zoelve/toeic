@@ -4485,5 +4485,47 @@
     "exemple": "There is an opportunity to opt in to taking part in a follow-up interview.",
     "categorie": "bureau-correspondance",
     "date_ajout": "2026-09-08T18:08:36.000Z"
+  },
+  {
+    "expression": "large-scale",
+    "traduction": "à grande échelle",
+    "exemple": "The developer works on innovative, large-scale applications on a daily basis.",
+    "categorie": "informatique-technologie",
+    "date_ajout": "2026-09-08T18:19:16.000Z"
+  },
+  {
+    "expression": "on a daily basis",
+    "traduction": "au quotidien, tous les jours",
+    "exemple": "The developer works on large-scale applications on a daily basis.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T18:19:16.000Z"
+  },
+  {
+    "expression": "duties",
+    "traduction": "tâches, responsabilités (dans une fiche de poste)",
+    "exemple": "Duties include analyzing business requirements and implementing technical solutions.",
+    "categorie": "annonce-emploi",
+    "date_ajout": "2026-09-08T18:19:16.000Z"
+  },
+  {
+    "expression": "to deploy",
+    "traduction": "déployer (une application)",
+    "exemple": "Delivering/deploying applications to development, staging and production environments.",
+    "categorie": "informatique-technologie",
+    "date_ajout": "2026-09-08T18:19:16.000Z"
+  },
+  {
+    "expression": "staging environment",
+    "traduction": "environnement de pré-production, de test",
+    "exemple": "Applications are delivered to development, staging and production environments.",
+    "categorie": "informatique-technologie",
+    "date_ajout": "2026-09-08T18:19:16.000Z"
+  },
+  {
+    "expression": "version control",
+    "traduction": "contrôle de version (ex : Git)",
+    "exemple": "Working with other team members on projects, including using version control.",
+    "categorie": "informatique-technologie",
+    "date_ajout": "2026-09-08T18:19:16.000Z"
   }
 ]
