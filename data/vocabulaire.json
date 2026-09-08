@@ -4562,5 +4562,54 @@
     "exemple": "We will do our best to accommodate you.",
     "categorie": "verbe-courant",
     "date_ajout": "2026-09-08T18:34:00.000Z"
+  },
+  {
+    "expression": "along",
+    "traduction": "le long de",
+    "exemple": "This 13-day voyage runs along the Volga river to St. Petersburg.",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-09-08T18:36:33.000Z"
+  },
+  {
+    "expression": "imposing",
+    "traduction": "imposant",
+    "exemple": "See the colourful domes and imposing towers of Moscow's Red Square.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-08T18:36:33.000Z"
+  },
+  {
+    "expression": "to savor",
+    "traduction": "savourer, déguster",
+    "exemple": "Savor Russian caviar with your blini pancakes.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-08T18:36:33.000Z"
+  },
+  {
+    "expression": "riverside",
+    "traduction": "au bord de l'eau, riverain",
+    "exemple": "Visit a traditional banya in the riverside village of Mandrogy.",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-09-08T18:36:33.000Z"
+  },
+  {
+    "expression": "voyage",
+    "traduction": "périple, voyage (long, en bateau)",
+    "exemple": "Fly to Moscow to begin this 13-day voyage along the Volga river.",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-09-08T18:36:33.000Z"
+  },
+  {
+    "expression": "can't get enough of",
+    "traduction": "ne pas se lasser de",
+    "exemple": "Travellers who can't get enough of Russia's riches can add additional days.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T18:36:33.000Z"
+  },
+  {
+    "expression": "cabin",
+    "traduction": "cabine (bateau)",
+    "exemple": "Book now and receive a free cabin upgrade.",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-09-08T18:36:33.000Z"
   }
 ]
