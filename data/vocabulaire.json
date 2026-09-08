@@ -4345,5 +4345,33 @@
     "exemple": "I'm selling the house with appliances, fixtures, and fittings included.",
     "categorie": "immobilier-logement",
     "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "Look no further!",
+    "traduction": "ne cherchez plus, c'est ici (expression publicitaire figée)",
+    "exemple": "Are you searching for a transformative experience? Look no further!",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T17:59:24.000Z"
+  },
+  {
+    "expression": "As you are probably aware,",
+    "traduction": "comme vous le savez probablement",
+    "exemple": "As you are probably aware, every team is unique.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T17:59:24.000Z"
+  },
+  {
+    "expression": "to drive success to new heights",
+    "traduction": "pousser le succès vers de nouveaux sommets",
+    "exemple": "Are you searching for a transformative experience to drive success to new heights?",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T17:59:24.000Z"
+  },
+  {
+    "expression": "ranging from X to Y",
+    "traduction": "allant de X à Y (pour présenter un éventail, une gamme)",
+    "exemple": "Our handpicked venues, ranging from serene mountain retreats to luxurious beachfront resorts.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T17:59:24.000Z"
   }
 ]
