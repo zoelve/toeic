@@ -4268,5 +4268,75 @@
     "exemple": "It's a 4-bedroom townhouse built in 1912.",
     "categorie": "grammaire-piege",
     "date_ajout": "2026-09-08T17:49:56.000Z"
+  },
+  {
+    "expression": "to relocate (abroad)",
+    "traduction": "déménager, s'installer (à l'étranger)",
+    "exemple": "I'm relocating abroad, so I'm interested in selling the house.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "property",
+    "traduction": "bien immobilier, propriété",
+    "exemple": "The property is 14 Billiart Street, Portland 97232.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "fixtures",
+    "traduction": "éléments fixes (installations fixées : éviers, luminaires...)",
+    "exemple": "I'm interested in selling the house with fixtures included.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "fittings",
+    "traduction": "équipements, installations (non fixées : rideaux, tringles...)",
+    "exemple": "The sale includes appliances, fixtures, and fittings.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "furniture",
+    "traduction": "mobilier, meubles",
+    "exemple": "I'm selling the house with appliances, fixtures, fittings, and furniture included.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "utilities",
+    "traduction": "charges, services (eau, électricité, gaz)",
+    "exemple": "Utilities are not included in the rent.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "loft",
+    "traduction": "combles aménageables",
+    "exemple": "The house also has a loft and a basement which could be converted.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "basement",
+    "traduction": "sous-sol",
+    "exemple": "The house also has a loft and a basement which could be converted.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "backyard",
+    "traduction": "arrière-cour, jardin",
+    "exemple": "The backyard is medium size and has room for 2 cars.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
+  },
+  {
+    "expression": "valuation",
+    "traduction": "estimation (immobilière)",
+    "exemple": "Please get back to me so we can arrange a valuation.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-08T17:51:19.000Z"
   }
 ]
