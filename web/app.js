@@ -71,7 +71,7 @@ function shuffle(arr) {
 async function loadWords() {
   const { data, error } = await supabaseClient
     .from('vocabulaire')
-    .select('id, expression, traduction, exemple, categorie, fois_revu, fois_correct, derniere_revision')
+    .select('id, expression, traduction, exemple, categorie, fois_revu, fois_correct, derniere_revision, date_ajout')
     .order('categorie', { ascending: true });
 
   if (error) {
@@ -283,7 +283,19 @@ function renderDashboard() {
   renderHeatmap(stats);
   renderBadges(stats);
   renderCategoryBars();
+  renderNewWordsPanel();
   document.getElementById('streak-count').textContent = stats.streak;
+}
+
+function renderNewWordsPanel() {
+  const words = latestBatchWords();
+  const panel = document.getElementById('new-words-panel');
+  const chip = document.getElementById('chip-new');
+  panel.hidden = words.length === 0;
+  chip.hidden = words.length === 0;
+  if (words.length > 0) {
+    document.getElementById('new-words-caption').textContent = `${words.length} mot${words.length > 1 ? 's' : ''}`;
+  }
 }
 
 /* ------------------------------------------------------------------ */
@@ -308,11 +320,13 @@ function renderCategoriesView() {
 function syncSpecialChips() {
   document.getElementById('chip-all').classList.toggle('is-selected', state.selectedCats.has('__all__'));
   document.getElementById('chip-priority').classList.toggle('is-selected', state.selectedCats.has('__priority__'));
+  document.getElementById('chip-new').classList.toggle('is-selected', state.selectedCats.has('__new__'));
 }
 
 function toggleCategoryChip(slug) {
   state.selectedCats.delete('__all__');
   state.selectedCats.delete('__priority__');
+  state.selectedCats.delete('__new__');
   if (state.selectedCats.has(slug)) {
     state.selectedCats.delete(slug);
   } else {
@@ -327,8 +341,26 @@ function selectSpecial(mode) {
   renderCategoriesView();
 }
 
+// Le dernier lot de mots ajoutés : tous les mots partageant le même
+// date_ajout le plus récent. Remplacé automatiquement à chaque nouvel ajout
+// (les mots du lot précédent perdent leur "actualité").
+function latestBatchKey() {
+  let latest = null;
+  for (const w of state.words) {
+    if (w.date_ajout && (!latest || w.date_ajout > latest)) latest = w.date_ajout;
+  }
+  return latest;
+}
+
+function latestBatchWords() {
+  const key = latestBatchKey();
+  if (!key) return [];
+  return state.words.filter((w) => w.date_ajout === key);
+}
+
 function wordsForSelection() {
   if (state.selectedCats.has('__all__')) return state.words;
+  if (state.selectedCats.has('__new__')) return latestBatchWords();
   if (state.selectedCats.has('__priority__')) {
     return [...state.words]
       .sort((a, b) => {
@@ -524,8 +556,15 @@ function bindEvents() {
     renderCategoriesView();
   });
 
+  document.getElementById('cta-new-words').addEventListener('click', () => {
+    const words = latestBatchWords();
+    if (words.length === 0) return;
+    startSession(shuffle(words));
+  });
+
   document.getElementById('chip-all').addEventListener('click', () => selectSpecial('__all__'));
   document.getElementById('chip-priority').addEventListener('click', () => selectSpecial('__priority__'));
+  document.getElementById('chip-new').addEventListener('click', () => selectSpecial('__new__'));
   document.getElementById('start-quiz').addEventListener('click', startQuiz);
 
   document.getElementById('flashcard').addEventListener('click', flipCard);
