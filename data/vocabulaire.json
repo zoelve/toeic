@@ -4401,5 +4401,26 @@
     "exemple": "The changes had a lasting impact on the company.",
     "categorie": "adjectif-courant",
     "date_ajout": "2026-09-08T18:00:28.000Z"
+  },
+  {
+    "expression": "backdrop",
+    "traduction": "toile de fond, cadre, décor",
+    "exemple": "Our handpicked venues provide the perfect backdrop for rejuvenation and reflection.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-08T18:01:18.000Z"
+  },
+  {
+    "expression": "rejuvenation",
+    "traduction": "régénération, ressourcement",
+    "exemple": "Our venues provide the perfect backdrop for rejuvenation and reflection.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-08T18:01:18.000Z"
+  },
+  {
+    "expression": "to provide the perfect backdrop for",
+    "traduction": "offrir le cadre idéal pour",
+    "exemple": "Our handpicked venues provide the perfect backdrop for rejuvenation and reflection.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T18:01:18.000Z"
   }
 ]
