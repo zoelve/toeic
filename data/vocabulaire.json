@@ -4212,5 +4212,54 @@
     "exemple": "We need to decide whether to accept the offer.",
     "categorie": "connecteur-logique",
     "date_ajout": null
+  },
+  {
+    "expression": "to run through",
+    "traduction": "parcourir, passer en revue rapidement",
+    "exemple": "Run through the security proposals before the meeting.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-09-08T17:41:58.000Z"
+  },
+  {
+    "expression": "follow-up meeting",
+    "traduction": "réunion de suivi",
+    "exemple": "They scheduled a follow-up meeting on security.",
+    "categorie": "reunions-conferences",
+    "date_ajout": "2026-09-08T17:41:58.000Z"
+  },
+  {
+    "expression": "wooden",
+    "traduction": "en bois",
+    "exemple": "There is a wooden picture frame hanging on the wall.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-08T17:41:58.000Z"
+  },
+  {
+    "expression": "to hang",
+    "traduction": "être accroché, suspendu",
+    "exemple": "A picture is hanging on the wall.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-08T17:41:58.000Z"
+  },
+  {
+    "expression": "spreadsheet",
+    "traduction": "tableur, feuille de calcul",
+    "exemple": "The man is working on a spreadsheet.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-08T17:41:58.000Z"
+  },
+  {
+    "expression": "bold vs bald",
+    "traduction": "piège de prononciation proche : bold = audacieux / gras (typographie), bald = chauve",
+    "exemple": "The man is bald, not bold.",
+    "categorie": "faux-ami",
+    "date_ajout": "2026-09-08T17:41:58.000Z"
+  },
+  {
+    "expression": "stool",
+    "traduction": "tabouret",
+    "exemple": "The man is sitting down on a stool.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-08T17:41:58.000Z"
   }
 ]
