@@ -4373,5 +4373,33 @@
     "exemple": "Our handpicked venues, ranging from serene mountain retreats to luxurious beachfront resorts.",
     "categorie": "expression-figee",
     "date_ajout": "2026-09-08T17:59:24.000Z"
+  },
+  {
+    "expression": "unexpected",
+    "traduction": "inattendu, imprévu",
+    "exemple": "We've encountered an unexpected delay.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-08T18:00:28.000Z"
+  },
+  {
+    "expression": "to encounter",
+    "traduction": "rencontrer, faire face à (un problème, un retard...)",
+    "exemple": "We've encountered an unexpected delay.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-08T18:00:28.000Z"
+  },
+  {
+    "expression": "awaited",
+    "traduction": "attendu (prévu à l'avance)",
+    "exemple": "The long-awaited report was finally published.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-08T18:00:28.000Z"
+  },
+  {
+    "expression": "lasting",
+    "traduction": "durable, permanent",
+    "exemple": "The changes had a lasting impact on the company.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-08T18:00:28.000Z"
   }
 ]
