@@ -3592,5 +3592,23 @@
     "traduction": "stressé, à bout, submergé de stress",
     "exemple": "Talking to my boss on the phone always makes me feel stressed out.",
     "categorie": "adjectif-courant"
+  },
+  {
+    "expression": "beyond",
+    "traduction": "au-delà",
+    "exemple": "The project's impact goes beyond what we expected.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "toward",
+    "traduction": "vers",
+    "exemple": "The company is moving toward a more sustainable model.",
+    "categorie": "connecteur-logique"
+  },
+  {
+    "expression": "whether",
+    "traduction": "si (indique une alternative, souvent avec \"or not\")",
+    "exemple": "We need to decide whether to accept the offer.",
+    "categorie": "connecteur-logique"
   }
 ]
