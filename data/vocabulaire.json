@@ -4422,5 +4422,40 @@
     "exemple": "Our handpicked venues provide the perfect backdrop for rejuvenation and reflection.",
     "categorie": "expression-figee",
     "date_ajout": "2026-09-08T18:01:18.000Z"
+  },
+  {
+    "expression": "R.S.V.P",
+    "traduction": "répondez s'il vous plaît (formule pour confirmer sa présence)",
+    "exemple": "R.S.V.P by Monday, March 2nd.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T18:04:47.000Z"
+  },
+  {
+    "expression": "in partnership with",
+    "traduction": "en partenariat avec",
+    "exemple": "The event is in partnership with Francophone in Saudi Arabia.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T18:04:47.000Z"
+  },
+  {
+    "expression": "Kind regards",
+    "traduction": "cordialement, salutations formelles (formule de fin de lettre)",
+    "exemple": "Kind regards, The Cultural Department of the French Embassy.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T18:04:47.000Z"
+  },
+  {
+    "expression": "Wear your Sunday best",
+    "traduction": "mettre ses plus beaux habits",
+    "exemple": "Wear your Sunday best for the evening of music.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T18:04:47.000Z"
+  },
+  {
+    "expression": "Safe travels",
+    "traduction": "bon voyage",
+    "exemple": "Safe travels, and see you soon!",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T18:04:47.000Z"
   }
 ]
