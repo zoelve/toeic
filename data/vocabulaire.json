@@ -4527,5 +4527,40 @@
     "exemple": "Working with other team members on projects, including using version control.",
     "categorie": "informatique-technologie",
     "date_ajout": "2026-09-08T18:19:16.000Z"
+  },
+  {
+    "expression": "performance review/evaluation",
+    "traduction": "évaluation de performance",
+    "exemple": "We will be conducting individual performance evaluations over the next few weeks.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-09-08T18:34:00.000Z"
+  },
+  {
+    "expression": "invaluable",
+    "traduction": "inestimable, précieux",
+    "exemple": "Your feedback and input are invaluable in this process.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-08T18:34:00.000Z"
+  },
+  {
+    "expression": "moving forward",
+    "traduction": "à l'avenir, dorénavant",
+    "exemple": "Think about your professional goals moving forward.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-08T18:34:00.000Z"
+  },
+  {
+    "expression": "to reach out (to)",
+    "traduction": "contacter, se rapprocher de",
+    "exemple": "Please don't hesitate to reach out to me or our HR department.",
+    "categorie": "bureau-correspondance",
+    "date_ajout": "2026-09-08T18:34:00.000Z"
+  },
+  {
+    "expression": "to accommodate",
+    "traduction": "s'adapter à, satisfaire (une demande)",
+    "exemple": "We will do our best to accommodate you.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-08T18:34:00.000Z"
   }
 ]
