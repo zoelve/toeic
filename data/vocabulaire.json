@@ -4457,5 +4457,12 @@
     "exemple": "Safe travels, and see you soon!",
     "categorie": "expression-figee",
     "date_ajout": "2026-09-08T18:04:47.000Z"
+  },
+  {
+    "expression": "to make an appointment (pas \"take\")",
+    "traduction": "prendre un rendez-vous — piège classique du calque français \"prendre\"",
+    "exemple": "She made an appointment with her doctor.",
+    "categorie": "grammaire-piege",
+    "date_ajout": "2026-09-08T18:05:47.000Z"
   }
 ]
