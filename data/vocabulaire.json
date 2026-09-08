@@ -4261,5 +4261,12 @@
     "exemple": "The man is sitting down on a stool.",
     "categorie": "photos-description",
     "date_ajout": "2026-09-08T17:41:58.000Z"
+  },
+  {
+    "expression": "in / on / at (prépositions de temps)",
+    "traduction": "in = années/mois/saisons ; on = jours/dates précises ; at = heures précises",
+    "exemple": "It's a 4-bedroom townhouse built in 1912.",
+    "categorie": "grammaire-piege",
+    "date_ajout": "2026-09-08T17:49:56.000Z"
   }
 ]
