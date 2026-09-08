@@ -4464,5 +4464,26 @@
     "exemple": "She made an appointment with her doctor.",
     "categorie": "grammaire-piege",
     "date_ajout": "2026-09-08T18:05:47.000Z"
+  },
+  {
+    "expression": "jail",
+    "traduction": "prison",
+    "exemple": "The survey concerns education staff living in jails across the USA.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-08T18:08:36.000Z"
+  },
+  {
+    "expression": "further to (our previous email)",
+    "traduction": "suite à (notre précédent e-mail) — formule d'ouverture formelle",
+    "exemple": "Further to our previous email, the survey has been extended until midnight on Friday.",
+    "categorie": "bureau-correspondance",
+    "date_ajout": "2026-09-08T18:08:36.000Z"
+  },
+  {
+    "expression": "to opt in (to)",
+    "traduction": "choisir de participer (à), s'inscrire volontairement (à)",
+    "exemple": "There is an opportunity to opt in to taking part in a follow-up interview.",
+    "categorie": "bureau-correspondance",
+    "date_ajout": "2026-09-08T18:08:36.000Z"
   }
 ]
