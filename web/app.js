@@ -288,13 +288,30 @@ function renderDashboard() {
 }
 
 function renderNewWordsPanel() {
-  const words = latestBatchWords();
+  const batches = allBatches();
+  const [latest, ...older] = batches;
+
   const panel = document.getElementById('new-words-panel');
   const chip = document.getElementById('chip-new');
-  panel.hidden = words.length === 0;
-  chip.hidden = words.length === 0;
-  if (words.length > 0) {
-    document.getElementById('new-words-caption').textContent = `${words.length} mot${words.length > 1 ? 's' : ''}`;
+  panel.hidden = !latest;
+  chip.hidden = !latest;
+  if (latest) {
+    document.getElementById('new-words-caption').textContent = `${latest.words.length} mot${latest.words.length > 1 ? 's' : ''}`;
+  }
+
+  const historyWrap = document.getElementById('batch-history');
+  const historyList = document.getElementById('batch-history-list');
+  historyWrap.hidden = older.length === 0;
+  historyList.innerHTML = '';
+  for (const batch of older) {
+    const row = document.createElement('button');
+    row.className = 'batch-row';
+    row.innerHTML = `
+      <span class="batch-row-date">${formatBatchDate(batch.key)}</span>
+      <span class="batch-row-count">${batch.words.length} mot${batch.words.length > 1 ? 's' : ''} →</span>
+    `;
+    row.addEventListener('click', () => startSession(shuffle(batch.words)));
+    historyList.appendChild(row);
   }
 }
 
@@ -341,26 +358,47 @@ function selectSpecial(mode) {
   renderCategoriesView();
 }
 
-// Le dernier lot de mots ajoutés : tous les mots partageant le même
-// date_ajout le plus récent. Remplacé automatiquement à chaque nouvel ajout
-// (les mots du lot précédent perdent leur "actualité").
-function latestBatchKey() {
-  let latest = null;
+// Tous les lots d'ajout, du plus récent au plus ancien : les mots qui
+// partagent le même date_ajout forment un lot. Rien n'est jamais perdu —
+// "Mots du jour" met juste le plus récent en avant, les lots précédents
+// restent accessibles dans l'historique.
+function allBatches() {
+  const map = new Map();
   for (const w of state.words) {
-    if (w.date_ajout && (!latest || w.date_ajout > latest)) latest = w.date_ajout;
+    if (!w.date_ajout) continue;
+    if (!map.has(w.date_ajout)) map.set(w.date_ajout, []);
+    map.get(w.date_ajout).push(w);
   }
-  return latest;
+  return [...map.entries()]
+    .sort((a, b) => (a[0] < b[0] ? 1 : a[0] > b[0] ? -1 : 0))
+    .map(([key, words]) => ({ key, words }));
+}
+
+function latestBatchKey() {
+  const batches = allBatches();
+  return batches.length ? batches[0].key : null;
 }
 
 function latestBatchWords() {
-  const key = latestBatchKey();
-  if (!key) return [];
-  return state.words.filter((w) => w.date_ajout === key);
+  const batches = allBatches();
+  return batches.length ? batches[0].words : [];
+}
+
+function formatBatchDate(iso) {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  const jour = d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'short' });
+  const heure = d.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
+  return `${jour} · ${heure}`;
 }
 
 function wordsForSelection() {
   if (state.selectedCats.has('__all__')) return state.words;
   if (state.selectedCats.has('__new__')) return latestBatchWords();
+  if ([...state.selectedCats].some((s) => s.startsWith('__batch__:'))) {
+    const key = [...state.selectedCats].find((s) => s.startsWith('__batch__:')).slice('__batch__:'.length);
+    return state.words.filter((w) => w.date_ajout === key);
+  }
   if (state.selectedCats.has('__priority__')) {
     return [...state.words]
       .sort((a, b) => {
