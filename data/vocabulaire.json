@@ -4709,5 +4709,19 @@
     "exemple": "I used to record that show on a regular basis.",
     "categorie": "expression-figee",
     "date_ajout": "2026-09-13T19:27:13.000Z"
+  },
+  {
+    "expression": "upset",
+    "traduction": "contrarié, bouleversé",
+    "exemple": "She was upset about the cancelled meeting.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-13T19:35:45.000Z"
+  },
+  {
+    "expression": "appliance",
+    "traduction": "appareil électroménager (au singulier)",
+    "exemple": "The kitchen has a brand new appliance.",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-09-13T19:35:45.000Z"
   }
 ]
