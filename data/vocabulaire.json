@@ -4674,5 +4674,40 @@
     "exemple": "Our goal is to reintegrate elephants into their natural habitat.",
     "categorie": "environnement-durabilite",
     "date_ajout": "2026-09-08T18:56:18.000Z"
+  },
+  {
+    "expression": "to get back from",
+    "traduction": "revenir de (un lieu)",
+    "exemple": "He will call after he gets back from Tokyo.",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-09-13T19:27:13.000Z"
+  },
+  {
+    "expression": "to expedite",
+    "traduction": "accélérer, expédier (rapidement)",
+    "exemple": "The order will be expedited tomorrow.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-13T19:27:13.000Z"
+  },
+  {
+    "expression": "to call on somebody",
+    "traduction": "solliciter qqn, faire appel à qqn",
+    "exemple": "He called on her to answer the question.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-13T19:27:13.000Z"
+  },
+  {
+    "expression": "the idea has crossed my mind",
+    "traduction": "l'idée m'est venue à l'esprit",
+    "exemple": "Have you thought of recording a CD? The idea has crossed my mind.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-13T19:27:13.000Z"
+  },
+  {
+    "expression": "on a regular basis",
+    "traduction": "régulièrement, de façon régulière",
+    "exemple": "I used to record that show on a regular basis.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-09-13T19:27:13.000Z"
   }
 ]
