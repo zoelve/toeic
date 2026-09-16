@@ -4723,5 +4723,19 @@
     "exemple": "The kitchen has a brand new appliance.",
     "categorie": "immobilier-logement",
     "date_ajout": "2026-09-13T19:35:45.000Z"
+  },
+  {
+    "expression": "to release (média)",
+    "traduction": "publier, diffuser (dans les médias)",
+    "exemple": "The film will be released next Friday.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-16T19:31:02.000Z"
+  },
+  {
+    "expression": "Easter",
+    "traduction": "Pâques",
+    "exemple": "The store will be closed for Easter.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-16T19:31:02.000Z"
   }
 ]
