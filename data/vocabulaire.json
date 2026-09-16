@@ -4737,5 +4737,26 @@
     "exemple": "The store will be closed for Easter.",
     "categorie": "adjectif-courant",
     "date_ajout": "2026-09-16T19:31:02.000Z"
+  },
+  {
+    "expression": "waiver",
+    "traduction": "décharge, renonciation (document juridique)",
+    "exemple": "Signing the waiver relieves the company of any liabilities.",
+    "categorie": "juridique-contrats",
+    "date_ajout": "2026-09-16T19:36:03.000Z"
+  },
+  {
+    "expression": "to relieve (somebody) of",
+    "traduction": "décharger (qqn) de, libérer de",
+    "exemple": "Signing the waiver relieves the company of any liabilities.",
+    "categorie": "juridique-contrats",
+    "date_ajout": "2026-09-16T19:36:03.000Z"
+  },
+  {
+    "expression": "gas station",
+    "traduction": "station-service",
+    "exemple": "How far until the next gas station?",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-09-16T19:36:03.000Z"
   }
 ]
