@@ -4849,5 +4849,61 @@
     "exemple": "She is handling the business accounts.",
     "categorie": "finance-comptabilite",
     "date_ajout": "2026-09-20T11:57:23.000Z"
+  },
+  {
+    "expression": "to praise (somebody) for",
+    "traduction": "féliciter, faire l'éloge de qqn pour",
+    "exemple": "What does the man praise Lois for?",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-20T12:15:41.000Z"
+  },
+  {
+    "expression": "under the sink",
+    "traduction": "sous l'évier",
+    "exemple": "The cleaning products are kept under the sink.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-20T12:15:41.000Z"
+  },
+  {
+    "expression": "belief",
+    "traduction": "croyance",
+    "exemple": "Exploring different beliefs can be fascinating.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-20T12:15:41.000Z"
+  },
+  {
+    "expression": "to unveil (plans)",
+    "traduction": "dévoiler (des projets)",
+    "exemple": "The company will unveil its plans next week.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-20T12:15:41.000Z"
+  },
+  {
+    "expression": "subsidised cookware",
+    "traduction": "ustensiles de cuisine subventionnés",
+    "exemple": "Who inspired the speaker's interest in subsidised cookware for single-parent households?",
+    "categorie": "commerce-achats",
+    "date_ajout": "2026-09-20T12:15:41.000Z"
+  },
+  {
+    "expression": "single-parent household",
+    "traduction": "foyer monoparental",
+    "exemple": "Subsidised cookware is available for single-parent households.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-09-20T12:15:41.000Z"
+  },
+  {
+    "expression": "solar power",
+    "traduction": "énergie solaire",
+    "exemple": "Why does the speaker want to explore solar power?",
+    "categorie": "environnement-durabilite",
+    "date_ajout": "2026-09-20T12:15:41.000Z"
+  },
+  {
+    "expression": "nearlywed",
+    "traduction": "fiancé(e), presque marié(e) (jeu de mots sur newlywed)",
+    "exemple": "The nearlyweds are planning their wedding for next spring.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-20T12:15:41.000Z"
   }
 ]
