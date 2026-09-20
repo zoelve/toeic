@@ -4793,5 +4793,47 @@
     "exemple": "The woman is having her picture taken.",
     "categorie": "photos-description",
     "date_ajout": "2026-09-20T11:20:30.000Z"
+  },
+  {
+    "expression": "route",
+    "traduction": "itinéraire, trajet",
+    "exemple": "What is the quickest route to the mountains?",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-09-20T11:34:23.000Z"
+  },
+  {
+    "expression": "drill",
+    "traduction": "perceuse (outil) / exercice (au sens figuré)",
+    "exemple": "Do you know anyone that may have a drill?",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-20T11:34:23.000Z"
+  },
+  {
+    "expression": "fire drill",
+    "traduction": "exercice d'évacuation incendie",
+    "exemple": "The fire drill went really smoothly.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-09-20T11:34:23.000Z"
+  },
+  {
+    "expression": "fuel efficient",
+    "traduction": "économe en carburant",
+    "exemple": "One that's very fuel efficient would be nice.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-20T11:34:23.000Z"
+  },
+  {
+    "expression": "electronics store",
+    "traduction": "magasin d'électronique",
+    "exemple": "You can buy one from the electronics store.",
+    "categorie": "commerce-achats",
+    "date_ajout": "2026-09-20T11:34:23.000Z"
+  },
+  {
+    "expression": "way too",
+    "traduction": "beaucoup trop (intensificateur)",
+    "exemple": "It is way too expensive to buy right now.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-20T11:34:23.000Z"
   }
 ]
