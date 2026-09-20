@@ -4758,5 +4758,40 @@
     "exemple": "How far until the next gas station?",
     "categorie": "voyages-transports",
     "date_ajout": "2026-09-16T19:36:03.000Z"
+  },
+  {
+    "expression": "dump truck",
+    "traduction": "camion-benne",
+    "exemple": "The dump truck is overflowing.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-20T11:20:30.000Z"
+  },
+  {
+    "expression": "to overflow",
+    "traduction": "déborder",
+    "exemple": "The dump truck is overflowing.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-20T11:20:30.000Z"
+  },
+  {
+    "expression": "power lines",
+    "traduction": "lignes électriques",
+    "exemple": "The power lines are to the left of the dump truck.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-20T11:20:30.000Z"
+  },
+  {
+    "expression": "dimly lit",
+    "traduction": "faiblement éclairé",
+    "exemple": "The train station is dimly lit.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-20T11:20:30.000Z"
+  },
+  {
+    "expression": "to have one's picture taken",
+    "traduction": "se faire prendre en photo",
+    "exemple": "The woman is having her picture taken.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-09-20T11:20:30.000Z"
   }
 ]
