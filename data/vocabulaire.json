@@ -4905,5 +4905,26 @@
     "exemple": "The nearlyweds are planning their wedding for next spring.",
     "categorie": "adjectif-courant",
     "date_ajout": "2026-09-20T12:15:41.000Z"
+  },
+  {
+    "expression": "completion date",
+    "traduction": "date d'achèvement",
+    "exemple": "Due to unforeseen challenges, the project's completion date has been pushed back.",
+    "categorie": "construction-ingenierie",
+    "date_ajout": "2026-09-20T16:13:40.000Z"
+  },
+  {
+    "expression": "have + objet + base verbale (causatif)",
+    "traduction": "faire faire qqch à qqn — présent simple si habitude (\"always have\"), pas \"had\"",
+    "exemple": "The real estate agents always have their clients visit properties twice.",
+    "categorie": "grammaire-piege",
+    "date_ajout": "2026-09-20T16:13:40.000Z"
+  },
+  {
+    "expression": "will have to (vs should have)",
+    "traduction": "devra (obligation future) — à ne pas confondre avec \"should have + participe passé\" (regret sur le passé)",
+    "exemple": "If you forget your password, you will have to call the IT security team.",
+    "categorie": "grammaire-piege",
+    "date_ajout": "2026-09-20T16:13:40.000Z"
   }
 ]
