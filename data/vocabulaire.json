@@ -4835,5 +4835,19 @@
     "exemple": "It is way too expensive to buy right now.",
     "categorie": "adjectif-courant",
     "date_ajout": "2026-09-20T11:34:23.000Z"
+  },
+  {
+    "expression": "disbelief",
+    "traduction": "incrédulité",
+    "exemple": "She shook her head in disbelief.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-09-20T11:57:23.000Z"
+  },
+  {
+    "expression": "business accounts",
+    "traduction": "comptes de l'entreprise",
+    "exemple": "She is handling the business accounts.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-09-20T11:57:23.000Z"
   }
 ]
