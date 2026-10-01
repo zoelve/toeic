@@ -5010,5 +5010,26 @@
     "exemple": "He didn't ring even though he had promised!",
     "categorie": "verbe-courant",
     "date_ajout": "2026-10-01T17:24:11.000Z"
+  },
+  {
+    "expression": "to handle phone calls",
+    "traduction": "gérer les appels téléphoniques",
+    "exemple": "Her main responsibility is handling phone calls from clients.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-10-01T17:38:33.000Z"
+  },
+  {
+    "expression": "accounting",
+    "traduction": "comptabilité",
+    "exemple": "The expected phone call is related to accounting.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-10-01T17:38:33.000Z"
+  },
+  {
+    "expression": "to catch up",
+    "traduction": "se mettre à jour, rattraper son retard",
+    "exemple": "They called to catch up on the latest sales figures.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-01T17:38:33.000Z"
   }
 ]
