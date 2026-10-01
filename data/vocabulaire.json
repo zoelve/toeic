@@ -4982,5 +4982,33 @@
     "exemple": "The plates are empty.",
     "categorie": "photos-description",
     "date_ajout": "2026-10-01T17:06:48.000Z"
+  },
+  {
+    "expression": "to miss out on",
+    "traduction": "rater, passer à côté de (une opportunité)",
+    "exemple": "If he doesn't come, he will miss out on a great opportunity.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-01T17:24:11.000Z"
+  },
+  {
+    "expression": "I wouldn't worry if I were you",
+    "traduction": "je ne m'inquiéterais pas à ta place",
+    "exemple": "He didn't ring even though he had promised! I wouldn't worry if I were you.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-10-01T17:24:11.000Z"
+  },
+  {
+    "expression": "to mean to (do something)",
+    "traduction": "avoir l'intention de (faire qqch)",
+    "exemple": "I'm sure she meant to call but just forgot.",
+    "categorie": "verbe-infinitif",
+    "date_ajout": "2026-10-01T17:24:11.000Z"
+  },
+  {
+    "expression": "to ring (UK)",
+    "traduction": "appeler, téléphoner",
+    "exemple": "He didn't ring even though he had promised!",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-10-01T17:24:11.000Z"
   }
 ]
