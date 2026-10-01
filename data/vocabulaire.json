@@ -4926,5 +4926,61 @@
     "exemple": "If you forget your password, you will have to call the IT security team.",
     "categorie": "grammaire-piege",
     "date_ajout": "2026-09-20T16:13:40.000Z"
+  },
+  {
+    "expression": "pickup",
+    "traduction": "pick-up (camionnette)",
+    "exemple": "The friends are in the back of a pickup.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-10-01T17:06:48.000Z"
+  },
+  {
+    "expression": "landscaper",
+    "traduction": "paysagiste",
+    "exemple": "The landscaper is riding a lawnmower.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-10-01T17:06:48.000Z"
+  },
+  {
+    "expression": "lawnmower",
+    "traduction": "tondeuse à gazon",
+    "exemple": "The landscaper is riding a lawnmower.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-10-01T17:06:48.000Z"
+  },
+  {
+    "expression": "to glide",
+    "traduction": "glisser",
+    "exemple": "The sailboat is gliding through the water.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-10-01T17:06:48.000Z"
+  },
+  {
+    "expression": "sailboat",
+    "traduction": "voilier",
+    "exemple": "The sailboat is gliding through the water.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-10-01T17:06:48.000Z"
+  },
+  {
+    "expression": "tram",
+    "traduction": "tramway",
+    "exemple": "The tram is coming to a stop.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-10-01T17:06:48.000Z"
+  },
+  {
+    "expression": "to come to a stop",
+    "traduction": "s'arrêter",
+    "exemple": "The tram is coming to a stop.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-10-01T17:06:48.000Z"
+  },
+  {
+    "expression": "plates",
+    "traduction": "assiettes",
+    "exemple": "The plates are empty.",
+    "categorie": "photos-description",
+    "date_ajout": "2026-10-01T17:06:48.000Z"
   }
 ]
