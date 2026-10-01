@@ -5031,5 +5031,33 @@
     "exemple": "They called to catch up on the latest sales figures.",
     "categorie": "phrasal-verb",
     "date_ajout": "2026-10-01T17:38:33.000Z"
+  },
+  {
+    "expression": "pleased to meet you",
+    "traduction": "enchanté(e) de vous rencontrer",
+    "exemple": "Hello, I'm Mike Johnson, pleased to meet you.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-10-01T18:02:18.000Z"
+  },
+  {
+    "expression": "bride and groom",
+    "traduction": "les mariés (la mariée et le marié)",
+    "exemple": "How do you know the bride and groom?",
+    "categorie": "evenements-sociaux",
+    "date_ajout": "2026-10-01T18:02:18.000Z"
+  },
+  {
+    "expression": "to finalize",
+    "traduction": "finaliser",
+    "exemple": "When do they plan to have the meeting to finalize the venue details?",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-10-01T18:02:18.000Z"
+  },
+  {
+    "expression": "to switch",
+    "traduction": "changer, échanger",
+    "exemple": "They decided to switch venue at the last minute.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-10-01T18:02:18.000Z"
   }
 ]
