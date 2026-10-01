@@ -5059,5 +5059,40 @@
     "exemple": "They decided to switch venue at the last minute.",
     "categorie": "verbe-courant",
     "date_ajout": "2026-10-01T18:02:18.000Z"
+  },
+  {
+    "expression": "to inquire about",
+    "traduction": "se renseigner sur, demander des renseignements sur",
+    "exemple": "Why is the woman inquiring about taxes?",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-10-01T18:05:28.000Z"
+  },
+  {
+    "expression": "tax",
+    "traduction": "impôt, taxe",
+    "exemple": "She wanted to know more about income tax deductions.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-10-01T18:05:28.000Z"
+  },
+  {
+    "expression": "job position",
+    "traduction": "poste, emploi",
+    "exemple": "What is the new job position the woman is aiming for?",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-10-01T18:05:28.000Z"
+  },
+  {
+    "expression": "to aim for",
+    "traduction": "viser, chercher à obtenir",
+    "exemple": "She is aiming for a promotion to senior manager.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-10-01T18:05:28.000Z"
+  },
+  {
+    "expression": "to redraft",
+    "traduction": "rédiger à nouveau, remanier",
+    "exemple": "The lawyer was asked to redraft the contracts.",
+    "categorie": "juridique-contrats",
+    "date_ajout": "2026-10-01T18:05:28.000Z"
   }
 ]
