@@ -271,5 +271,12 @@
     "exemple": "The new company policy was published this morning.",
     "categorie": "temps-verbaux",
     "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "\"going to\" sans auxiliaire = piège",
+    "explication": "\"Going to\" seul (sans am/is/are devant) n'est jamais une forme verbale complète — c'est un distracteur fréquent au TOEIC. Pour une habitude régulière (each/every + jour), c'est le présent simple qu'il faut, pas le futur proche.",
+    "exemple": "Each Monday I go to the cinema at 2 p.m. (habitude → présent simple, pas \"going to\" ni \"am going to\").",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:58:30.000Z"
   }
 ]
