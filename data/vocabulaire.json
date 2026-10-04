@@ -5094,5 +5094,47 @@
     "exemple": "The lawyer was asked to redraft the contracts.",
     "categorie": "juridique-contrats",
     "date_ajout": "2026-10-01T18:05:28.000Z"
+  },
+  {
+    "expression": "to negotiate",
+    "traduction": "négocier",
+    "exemple": "When you buy a house, negotiating the price is essential.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "expression": "negotiation",
+    "traduction": "négociation",
+    "exemple": "The negotiation lasted several hours.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "expression": "advice",
+    "traduction": "conseil(s)",
+    "exemple": "I was given lots of advice as to what presents to bring.",
+    "categorie": "nom-indenombrable",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "expression": "to activate",
+    "traduction": "activer",
+    "exemple": "The guard failed to activate the alarm.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "expression": "affiliate",
+    "traduction": "filiale",
+    "exemple": "He brought gifts for the managers in our Japanese affiliate.",
+    "categorie": "bureau-correspondance",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "expression": "essential",
+    "traduction": "essentiel(le)",
+    "exemple": "Negotiating the price is essential.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
   }
 ]

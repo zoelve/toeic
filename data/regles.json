@@ -124,5 +124,26 @@
     "exemple": "The report must be submitted by Friday.",
     "categorie": "prepositions-temps",
     "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "V-ing en sujet de phrase (gérondif)",
+    "explication": "Quand une action sert de sujet à la phrase (pas une personne), on utilise la forme en -ing (gérondif), jamais la base verbale ni \"to\" + infinitif.",
+    "exemple": "When you buy a house, negotiating the price is essential.",
+    "categorie": "verbe-ing",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "regle": "advice as to + mot interrogatif",
+    "explication": "\"Advice\" (et d'autres noms comme \"question\", \"uncertainty\") est souvent suivi de \"as to\" (= concernant, quant à) + un mot interrogatif (what/how/whether...) pour introduire une question indirecte sur le sujet du conseil.",
+    "exemple": "I was given lots of advice as to what presents to bring to the managers.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "regle": "to fail + to + base verbale",
+    "explication": "\"To fail\" (échouer, ne pas réussir à) est suivi de \"to\" + verbe à la base. On utilise cette forme pour une action ponctuelle non accomplie, pas le présent continu (\"was failing\") ni le passé d'habitude (\"used to fail\").",
+    "exemple": "After closing the building, the guard failed to activate the alarm.",
+    "categorie": "verbe-infinitif",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
   }
 ]
