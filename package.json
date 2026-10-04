@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "seed": "node scripts/seed.mjs",
+    "seed:regles": "node scripts/seed-regles.mjs",
     "ajouter-mot": "node scripts/ajouter-mot.mjs",
     "tirer-mots": "node scripts/tirer-mots.mjs",
     "marquer-revision": "node scripts/marquer-revision.mjs",

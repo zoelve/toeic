@@ -25,6 +25,7 @@
     <nav class="tabs" role="tablist" aria-label="Navigation principale">
       <button class="tab is-active" data-view="dashboard" role="tab" aria-selected="true">Tableau de bord</button>
       <button class="tab" data-view="categories" role="tab" aria-selected="false">Réviser</button>
+      <button class="tab" data-view="regles" role="tab" aria-selected="false">Règles</button>
     </nav>
     <div class="streak-pill" id="streak-pill" title="Jours consécutifs">
       <span class="flame">🔥</span>
@@ -159,6 +160,19 @@
         </label>
         <button class="cta cta-big" id="start-quiz">Commencer la séance →</button>
       </div>
+    </section>
+
+    <!-- ===================== REGLES ===================== -->
+    <section id="view-regles" class="view">
+      <div class="setup-head">
+        <p class="eyebrow">Mémo grammaire</p>
+        <h1>Si t'as ça, t'as ça derrière.</h1>
+        <p class="hero-sub">Les règles et collocations à retenir — nom, verbe, préposition...</p>
+      </div>
+
+      <div class="setup-row" id="regles-filters"></div>
+
+      <div class="regles-list" id="regles-list"></div>
     </section>
 
     <!-- ===================== QUIZ ===================== -->

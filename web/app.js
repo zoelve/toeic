@@ -22,6 +22,8 @@ const state = {
   session: null,            // { queue, index, results:[{id,correct}], missedWords:[] }
   badgesBeforeSession: new Set(),
   lastMissedWords: [],
+  regles: [],
+  selectedRegleCat: '__all__',
 };
 
 /* ------------------------------------------------------------------ */
@@ -76,6 +78,21 @@ async function loadWords() {
 
   if (error) {
     showToast("Impossible de charger le carnet — vérifie ta connexion.");
+    console.error(error);
+    return [];
+  }
+  return data;
+}
+
+async function loadRegles() {
+  const { data, error } = await supabaseClient
+    .from('regles')
+    .select('id, regle, explication, exemple, categorie, date_ajout')
+    .order('categorie', { ascending: true });
+
+  if (error) {
+    // Table pas encore créée côté Supabase, ou réseau indisponible : on
+    // affiche simplement un onglet vide plutôt que de casser le dashboard.
     console.error(error);
     return [];
   }
@@ -417,6 +434,62 @@ function wordsForSelection() {
 }
 
 /* ------------------------------------------------------------------ */
+/* Rendering — Règles view                                              */
+/* ------------------------------------------------------------------ */
+
+function regleCategories() {
+  return [...new Set(state.regles.map((r) => r.categorie))].sort((a, b) => a.localeCompare(b, 'fr'));
+}
+
+function renderReglesFilters() {
+  const wrap = document.getElementById('regles-filters');
+  wrap.innerHTML = '';
+
+  const allChip = document.createElement('button');
+  allChip.className = 'chip chip-all';
+  allChip.textContent = 'Toutes les règles';
+  allChip.classList.toggle('is-selected', state.selectedRegleCat === '__all__');
+  allChip.addEventListener('click', () => { state.selectedRegleCat = '__all__'; renderReglesView(); });
+  wrap.appendChild(allChip);
+
+  for (const cat of regleCategories()) {
+    const chip = document.createElement('button');
+    chip.className = 'chip';
+    chip.textContent = prettyCategory(cat);
+    chip.classList.toggle('is-selected', state.selectedRegleCat === cat);
+    chip.addEventListener('click', () => { state.selectedRegleCat = cat; renderReglesView(); });
+    wrap.appendChild(chip);
+  }
+}
+
+function renderReglesView() {
+  renderReglesFilters();
+  const list = document.getElementById('regles-list');
+  list.innerHTML = '';
+
+  if (state.regles.length === 0) {
+    list.innerHTML = '<p class="hero-sub">Aucune règle enregistrée pour le moment.</p>';
+    return;
+  }
+
+  const filtered = state.selectedRegleCat === '__all__'
+    ? state.regles
+    : state.regles.filter((r) => r.categorie === state.selectedRegleCat);
+
+  for (const r of filtered) {
+    const card = document.createElement('div');
+    card.className = 'regle-card';
+    card.innerHTML = `
+      <span class="regle-tag">${prettyCategory(r.categorie)}</span>
+      <h3 class="regle-title">${r.regle}</h3>
+      <p class="regle-explication">${r.explication}</p>
+      ${r.exemple ? `<p class="regle-exemple">${r.exemple}</p>` : ''}
+    `;
+    list.appendChild(card);
+  }
+}
+
+/* ------------------------------------------------------------------ */
 /* Quiz                                                                 */
 /* ------------------------------------------------------------------ */
 
@@ -589,6 +662,7 @@ function bindEvents() {
       const view = tab.dataset.view;
       switchView(view);
       if (view === 'categories') renderCategoriesView();
+      if (view === 'regles') renderReglesView();
     });
   });
 
@@ -634,6 +708,7 @@ function bindEvents() {
 async function init() {
   bindEvents();
   await refreshDashboard();
+  state.regles = await loadRegles();
 }
 
 init();

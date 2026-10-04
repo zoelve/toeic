@@ -1,0 +1,128 @@
+[
+  {
+    "regle": "should + base verbale",
+    "explication": "Après \"should\", on utilise le verbe à la base (sans \"to\"), pour donner un conseil ou une suggestion.",
+    "exemple": "If you are not happy with this product, you should take it back and complain.",
+    "categorie": "modaux",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "I'd better + base verbale",
+    "explication": "\"I'd better\" (= I had better) sert à donner un conseil fort ; il est suivi du verbe à la base. On n'écrit jamais \"I've better\".",
+    "exemple": "I'd better not be late for the meeting.",
+    "categorie": "modaux",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "the more... the more",
+    "explication": "\"The more\" est toujours suivi d'un second \"the more\" (ou \"the less/better...\") dans une phrase comparative double.",
+    "exemple": "The more you practice, the more confident you become.",
+    "categorie": "comparatifs",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "admit + to + V-ing",
+    "explication": "Certains verbes comme \"admit\" sont suivis de \"to\" + verbe en -ing, car \"to\" est ici une préposition, pas la marque de l'infinitif.",
+    "exemple": "Albert admitted to spending time on personal matters during his working hours.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "to look at",
+    "explication": "\"To look\" est suivi de la préposition \"at\" pour regarder quelque chose.",
+    "exemple": "She looked at the report before the meeting.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "suggest + that + subjonctif",
+    "explication": "Après \"suggest + that\", on emploie le mode subjonctif : le verbe reste à la base, sans -s à la 3e personne.",
+    "exemple": "The manager suggested that she be on time for the interview.",
+    "categorie": "subjonctif",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "whose + nom (possession)",
+    "explication": "\"Whose\" exprime la possession et est suivi directement d'un nom. À ne pas confondre avec \"who\" (sujet, personne), \"whom\" (complément, personne) et \"which\" (chose).",
+    "exemple": "The man whose car was stolen called the police.",
+    "categorie": "pronoms-relatifs",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "consider + V-ing",
+    "explication": "\"Consider\" est suivi d'un verbe en -ing, jamais de \"to\" + infinitif.",
+    "exemple": "They are considering joining the new project.",
+    "categorie": "verbe-ing",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "claim (sans préposition)",
+    "explication": "\"Claimed\" n'est pas suivi de la préposition \"to\" ; le complément suit directement.",
+    "exemple": "She claimed the refund was never processed.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "stand for",
+    "explication": "\"To stand for\" signifie représenter (un sigle, une abréviation).",
+    "exemple": "The initials V.P. stand for Vice President.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "aimed at + nom/V-ing",
+    "explication": "\"Aimed at\" (viser, s'adresser à) est suivi d'un nom ou d'un verbe en -ing, car \"at\" est une préposition.",
+    "exemple": "The campaign is aimed at increasing customer loyalty.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "keen on + nom/V-ing",
+    "explication": "\"Keen on\" (avoir un grand intérêt pour) est suivi d'un nom ou d'un verbe en -ing.",
+    "exemple": "She is very keen on dangerous sports.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "little did we know (inversion)",
+    "explication": "Quand une phrase commence par \"little\" avec un sens négatif, le sujet et l'auxiliaire s'inversent (inversion emphatique).",
+    "exemple": "Little did we know that the deal would fall through.",
+    "categorie": "inversion",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "little / a little / few / a few",
+    "explication": "\"Little\" (peu, pas assez) et \"a little\" (un peu, suffisamment) s'utilisent avec des indénombrables. \"Few\" (peu, pas assez) et \"a few\" (quelques, suffisamment) s'utilisent avec des dénombrables pluriels.",
+    "exemple": "I have little money (pas assez) vs. I have a little money (assez). I have few friends (pas beaucoup) vs. I have a few friends (quelques-uns).",
+    "categorie": "quantifieurs",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "get on / get off / put off / take off",
+    "explication": "\"Get on\" = monter dans un véhicule ; \"get off\" = descendre d'un véhicule ; \"put off\" = reporter, retarder ; \"take off\" = décoller (avion) ou enlever (vêtement).",
+    "exemple": "Get off at Checker Bridge station.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "stepping down ≠ stepping out",
+    "explication": "\"Stepping down\" signifie quitter son poste/rôle. \"Stepping out\" signifie sortir brièvement ou s'engager dans une activité temporaire. Les deux ne doivent pas être confondus.",
+    "exemple": "The CEO is stepping down at the end of the year.",
+    "categorie": "confusables",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "thanks to (la cause, pas l'objet)",
+    "explication": "\"Thanks to\" introduit la cause d'un résultat positif, pas l'objet obtenu.",
+    "exemple": "She got her raise thanks to her work on the project.",
+    "categorie": "connecteurs",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "by (date limite) ≠ at",
+    "explication": "\"By\" indique une date limite (\"au plus tard\"), à ne pas confondre avec \"at\" qui indique un moment précis.",
+    "exemple": "The report must be submitted by Friday.",
+    "categorie": "prepositions-temps",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  }
+]
