@@ -145,5 +145,19 @@
     "exemple": "After closing the building, the guard failed to activate the alarm.",
     "categorie": "verbe-infinitif",
     "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "regle": "because + proposition / because of + nom",
+    "explication": "\"Because\" est une conjonction : elle introduit une proposition complète (sujet + verbe). \"Because of\" est une préposition : elle est suivie directement d'un nom ou d'un groupe nominal, jamais d'une proposition.",
+    "exemple": "I am sorry to tell you that because the company has financial problems, we have to let you go. / The flight was cancelled because of the storm.",
+    "categorie": "connecteurs",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "regle": "too many / too much + nom",
+    "explication": "\"Too many\" s'utilise avec un nom dénombrable pluriel (many buttons). \"Too much\" s'utilise avec un nom indénombrable singulier (much traffic). Les deux expriment une quantité excessive.",
+    "exemple": "There are too many buttons to click on. / There is too much traffic on this road.",
+    "categorie": "quantifieurs",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
   }
 ]

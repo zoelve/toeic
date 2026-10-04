@@ -5136,5 +5136,47 @@
     "exemple": "Negotiating the price is essential.",
     "categorie": "adjectif-courant",
     "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "expression": "because of",
+    "traduction": "à cause de, en raison de (+ nom)",
+    "exemple": "The meeting was cancelled because of the storm.",
+    "categorie": "connecteur-cause",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "expression": "too many",
+    "traduction": "trop de (+ nom dénombrable pluriel)",
+    "exemple": "Your website is too crowded; there are too many buttons to click on.",
+    "categorie": "quantifieur",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "expression": "as many",
+    "traduction": "autant de (+ nom dénombrable pluriel, comparaison)",
+    "exemple": "We don't have as many clients as last year.",
+    "categorie": "quantifieur",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "expression": "too much",
+    "traduction": "trop de (+ nom indénombrable)",
+    "exemple": "There is too much traffic on this road.",
+    "categorie": "quantifieur",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "expression": "to let somebody go",
+    "traduction": "licencier qqn (euphémisme)",
+    "exemple": "Because the company has financial problems, we have to let you go.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "expression": "financial problems",
+    "traduction": "problèmes financiers",
+    "exemple": "The company has financial problems.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
   }
 ]
