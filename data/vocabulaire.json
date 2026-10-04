@@ -5178,5 +5178,47 @@
     "exemple": "The company has financial problems.",
     "categorie": "finance-comptabilite",
     "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "expression": "on behalf of",
+    "traduction": "pour le compte de, au nom de",
+    "exemple": "A secretary's job often involves signing on behalf of their boss.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "expression": "to write off",
+    "traduction": "annuler, passer en perte (comptabilité)",
+    "exemple": "The company had to write off huge losses, due to the strike.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "expression": "to give up on",
+    "traduction": "abandonner, renoncer à",
+    "exemple": "I am giving up on my project as recommended from the feasibility studies.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "expression": "feasibility study",
+    "traduction": "étude de faisabilité",
+    "exemple": "The feasibility studies recommended abandoning the project.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "expression": "huge losses",
+    "traduction": "pertes énormes",
+    "exemple": "The company had to write off huge losses, due to the strike.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "expression": "strike",
+    "traduction": "grève",
+    "exemple": "The company had to write off huge losses, due to the strike.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
   }
 ]

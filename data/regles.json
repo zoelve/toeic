@@ -159,5 +159,26 @@
     "exemple": "There are too many buttons to click on. / There is too much traffic on this road.",
     "categorie": "quantifieurs",
     "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "regle": "on behalf of + nom",
+    "explication": "\"On behalf of\" (pour le compte de, au nom de) est une expression figée toujours suivie de \"of\" + nom/pronom. Elle indique qu'on agit à la place de quelqu'un d'autre.",
+    "exemple": "A secretary's job often involves signing on behalf of their boss.",
+    "categorie": "expressions-figees",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "regle": "to write off",
+    "explication": "\"To write off\" est un phrasal verb figé qui signifie annuler/passer une perte en comptabilité (déprécier une créance ou un actif). La préposition \"off\" ne change jamais pour ce sens.",
+    "exemple": "The company had to write off huge losses, due to the strike.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "regle": "to be taken over by",
+    "explication": "\"To take over\" (racheter, prendre le contrôle d'une entreprise) devient \"to be taken over by\" à la voix passive. La particule \"over\" est fixe et le complément d'agent suit \"by\".",
+    "exemple": "Our company has been taken over by an American corporation.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
   }
 ]
