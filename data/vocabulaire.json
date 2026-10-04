@@ -5220,5 +5220,117 @@
     "exemple": "The company had to write off huge losses, due to the strike.",
     "categorie": "ressources-humaines",
     "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "expression": "endeavor",
+    "traduction": "effort, tentative, entreprise",
+    "exemple": "This new endeavor requires a lot of planning.",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "to get on well",
+    "traduction": "bien s'entendre",
+    "exemple": "The managers didn't get on well when they were working on the latest design project.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "special offer",
+    "traduction": "offre spéciale",
+    "exemple": "The marketing department is working on a poster for a special offer; if you buy two pairs you get the third one free.",
+    "categorie": "marketing-publicite",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "to buy up",
+    "traduction": "racheter en masse, accaparer",
+    "exemple": "Someone has been buying up all the shares of the company.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "no longer",
+    "traduction": "ne... plus",
+    "exemple": "The old factory has been shut down because it was no longer occupied.",
+    "categorie": "adverbe-courant",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "to serve in public office",
+    "traduction": "exercer une fonction publique",
+    "exemple": "He was found unfit to serve in public office and had to resign.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "elsewhere",
+    "traduction": "ailleurs",
+    "exemple": "If you don't like it here, you can look elsewhere.",
+    "categorie": "adverbe-courant",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "somewhere",
+    "traduction": "quelque part",
+    "exemple": "I think I left my keys somewhere in the office.",
+    "categorie": "adverbe-courant",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "perseverance",
+    "traduction": "persévérance",
+    "exemple": "Your perseverance in settling this matter is greatly appreciated.",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "to settle a matter",
+    "traduction": "régler une affaire",
+    "exemple": "Your perseverance in settling this matter is greatly appreciated.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "greatly appreciated",
+    "traduction": "vivement apprécié",
+    "exemple": "Your perseverance in settling this matter is greatly appreciated.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "board of directors",
+    "traduction": "conseil d'administration",
+    "exemple": "On behalf of the board of directors, I'd like to propose a vote of confidence in our chairman.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "vote of confidence",
+    "traduction": "vote de confiance",
+    "exemple": "I'd like to propose a vote of confidence in our chairman.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "chairman",
+    "traduction": "président (du conseil d'administration)",
+    "exemple": "I'd like to propose a vote of confidence in our chairman.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "reward",
+    "traduction": "récompense (gagnée, méritée)",
+    "exemple": "Hard work always pays off with a reward.",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "award",
+    "traduction": "prix, distinction (décerné officiellement)",
+    "exemple": "She received an award for best employee of the year.",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
   }
 ]

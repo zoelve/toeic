@@ -180,5 +180,19 @@
     "exemple": "Our company has been taken over by an American corporation.",
     "categorie": "phrasal-verb",
     "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "regle": "reward ≠ award",
+    "explication": "\"Reward\" (récompense) est le résultat d'un effort ou d'un mérite personnel, souvent informel. \"Award\" (prix, distinction) est décerné officiellement par un jury/une organisation lors d'une cérémonie.",
+    "exemple": "Hard work always pays off with a reward. / She received an award for best employee of the year.",
+    "categorie": "confusables",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "regle": "no longer + verbe",
+    "explication": "\"No longer\" (ne... plus) s'intercale entre l'auxiliaire et le participe/adjectif, à la différence de \"not... anymore\" qui se place en fin de phrase avec une négation classique.",
+    "exemple": "The old factory has been shut down because it was no longer occupied. / It isn't occupied anymore.",
+    "categorie": "connecteurs",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
   }
 ]
