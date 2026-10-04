@@ -194,5 +194,82 @@
     "exemple": "The old factory has been shut down because it was no longer occupied. / It isn't occupied anymore.",
     "categorie": "connecteurs",
     "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "regle": "présent simple",
+    "explication": "Exprime une habitude, une vérité générale ou un fait régulier. Avec he/she/it, le verbe prend un -s. Mots-clés : always, usually, every day/week/month.",
+    "exemple": "The company publishes a newsletter every month.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "présent continu (be + V-ing)",
+    "explication": "Exprime une action en cours au moment où l'on parle, ou une situation temporaire. Mots-clés : now, at the moment, currently, right now.",
+    "exemple": "We are currently reviewing the policy.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "present perfect simple (have/has + participe passé)",
+    "explication": "Relie le passé au présent : une action passée dont le moment précis n'est pas donné (ou la période n'est pas terminée), et dont le résultat compte dans le présent. Mots-clés : already, just, yet, ever, never, since, for, this year/week (non terminé).",
+    "exemple": "The company has published three reports this year.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "present perfect continu (have/has been + V-ing)",
+    "explication": "Met l'accent sur la durée d'une action commencée dans le passé qui continue encore, ou qui vient tout juste de s'arrêter (effet visible dans le présent). Mots-clés : for, since, how long.",
+    "exemple": "They have been negotiating the contract for two hours.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "prétérit / past simple",
+    "explication": "Exprime une action ponctuelle, terminée, à un moment précis et révolu du passé. Mots-clés : yesterday, last week, in 2020, this morning (si le moment est passé/terminé), ago.",
+    "exemple": "The new company policy was published this morning.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "past perfect simple (had + participe passé)",
+    "explication": "Exprime une action antérieure à une autre action déjà au passé (l'action \"la plus ancienne\" des deux). Souvent avec \"before\", \"after\", \"when\", \"already\".",
+    "exemple": "The meeting had already started when he arrived.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "past continu (was/were + V-ing)",
+    "explication": "Décrit une action en cours dans le passé, souvent interrompue par une autre action (au prétérit), ou sert de contexte/arrière-plan à un récit.",
+    "exemple": "She was reading the report when the phone rang.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "present perfect vs past simple",
+    "explication": "Present perfect = pas de moment précis donné, ou la période n'est pas terminée (this year, so far, recently). Past simple = moment précis et révolu (yesterday, in 2020, this morning si fini, last week). Un marqueur de temps précis au passé interdit le present perfect.",
+    "exemple": "I have worked here for five years (toujours en poste). / I worked here in 2019 (terminé, moment précis).",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "futur avec will",
+    "explication": "Exprime une décision prise au moment de parler (spontanée), une promesse, ou une prédiction sans preuve concrète dans le présent.",
+    "exemple": "I will call you back later.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "futur avec going to",
+    "explication": "Exprime une intention ou un plan déjà décidé avant le moment de parler, ou une prédiction basée sur des indices visibles dans le présent.",
+    "exemple": "We are going to launch the product next month.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "voix passive (be + participe passé)",
+    "explication": "Met l'accent sur l'action/le résultat plutôt que sur qui l'a fait (souvent inconnu ou non pertinent) ; très fréquent en contexte professionnel. Le temps du verbe \"be\" porte le temps de la phrase (was published = passé, has been published = present perfect).",
+    "exemple": "The new company policy was published this morning.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
   }
 ]
