@@ -5332,5 +5332,33 @@
     "exemple": "She received an award for best employee of the year.",
     "categorie": "nom-courant",
     "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "expression": "eager to",
+    "traduction": "impatient de, désireux de (+ verbe)",
+    "exemple": "I am very eager to join your team.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-02T19:31:59.000Z"
+  },
+  {
+    "expression": "would be honored to",
+    "traduction": "serait honoré de (formule de politesse)",
+    "exemple": "I would be honored to contribute to your ongoing initiatives.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-02T19:31:59.000Z"
+  },
+  {
+    "expression": "hiring process",
+    "traduction": "processus de recrutement",
+    "exemple": "It was a pleasure to learn more about your company and your hiring process.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-02T19:31:59.000Z"
+  },
+  {
+    "expression": "ongoing initiatives",
+    "traduction": "initiatives en cours",
+    "exemple": "I am eager to contribute to your ongoing initiatives.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-11-02T19:31:59.000Z"
   }
 ]

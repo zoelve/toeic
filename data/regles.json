@@ -285,5 +285,12 @@
     "exemple": "As summer approaches, we want to remind you of the fantastic advantages available to you.",
     "categorie": "connecteurs",
     "date_ajout": "2026-11-02T19:28:56.000Z"
+  },
+  {
+    "regle": "would be + adjectif (politesse formelle)",
+    "explication": "\"Would\" exprime une intention de façon polie et atténuée dans un registre formel (lettre de motivation, email professionnel) — formule figée \"would be honored/pleased/delighted/grateful\". À ne pas confondre avec \"should\" (obligation), \"could\" (capacité) ou \"will\" (plus direct, moins poli).",
+    "exemple": "I am very eager to join your team and would be honored to contribute to your ongoing initiatives.",
+    "categorie": "modaux",
+    "date_ajout": "2026-11-02T19:31:59.000Z"
   }
 ]
