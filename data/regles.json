@@ -292,5 +292,12 @@
     "exemple": "I am very eager to join your team and would be honored to contribute to your ongoing initiatives.",
     "categorie": "modaux",
     "date_ajout": "2026-11-02T19:31:59.000Z"
+  },
+  {
+    "regle": "V-ing en nom composé (adjectif de nom)",
+    "explication": "Un gérondif (-ing) placé devant un nom peut décrire sa fonction/son usage, formant un nom composé (\"planning process\", \"hiring process\", \"decision-making process\"). Ce -ing reste invariable : jamais de -s, jamais remplacé par le participe passé.",
+    "exemple": "We have partnered with several travel agencies to ensure you receive the best deals during your planning process.",
+    "categorie": "verbe-ing",
+    "date_ajout": "2026-11-02T19:34:19.000Z"
   }
 ]
