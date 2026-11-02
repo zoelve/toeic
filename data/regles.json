@@ -278,5 +278,12 @@
     "exemple": "Each Monday I go to the cinema at 2 p.m. (habitude → présent simple, pas \"going to\" ni \"am going to\").",
     "categorie": "temps-verbaux",
     "date_ajout": "2026-10-04T13:58:30.000Z"
+  },
+  {
+    "regle": "as + présent simple (évolution en cours)",
+    "explication": "\"As\" (alors que, à mesure que) introduisant une évolution ou une situation qui se déroule est suivi du présent simple, pas du gérondif ni du prétérit. Le verbe s'accorde normalement avec son sujet (-s à la 3e personne du singulier).",
+    "exemple": "As summer approaches, we want to remind you of the fantastic advantages available to you.",
+    "categorie": "connecteurs",
+    "date_ajout": "2026-11-02T19:28:56.000Z"
   }
 ]
