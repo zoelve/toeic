@@ -5402,5 +5402,187 @@
     "exemple": "Access to exclusive vacation packages.",
     "categorie": "adjectif-courant",
     "date_ajout": "2026-11-02T19:34:19.000Z"
+  },
+  {
+    "expression": "to get bored of",
+    "traduction": "se lasser de, s'ennuyer de",
+    "exemple": "Do you ever get bored of repeating yourself?",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "to repeat oneself",
+    "traduction": "se répéter",
+    "exemple": "Do you ever get bored of repeating yourself?",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "dull",
+    "traduction": "ennuyeux, terne",
+    "exemple": "His meetings are pretty dull.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "comment",
+    "traduction": "remarque, commentaire",
+    "exemple": "How should I handle that comment?",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "to share something with somebody",
+    "traduction": "partager quelque chose avec quelqu'un",
+    "exemple": "I'd share it with HR, if I were you.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "HR (human resources)",
+    "traduction": "ressources humaines (RH)",
+    "exemple": "I'd share it with HR, if I were you.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "loan",
+    "traduction": "prêt, emprunt",
+    "exemple": "The real problem is looking for a new loan.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "investor",
+    "traduction": "investisseur",
+    "exemple": "Did you speak to the investor before signing?",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "to invest",
+    "traduction": "investir",
+    "exemple": "At least he tried investing.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "book signing",
+    "traduction": "séance de dédicace",
+    "exemple": "The book signing was the day before yesterday.",
+    "categorie": "evenements-sociaux",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "real estate agent",
+    "traduction": "agent immobilier",
+    "exemple": "When will the real estate agent be available?",
+    "categorie": "immobilier-logement",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "available",
+    "traduction": "disponible",
+    "exemple": "When will the real estate agent be available?",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "the week after next",
+    "traduction": "dans deux semaines (la semaine suivant la prochaine)",
+    "exemple": "She can see you the week after next.",
+    "categorie": "expression-temps",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "partner",
+    "traduction": "associé(e), partenaire",
+    "exemple": "What about the new partner? How's he getting on?",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "to get on (= to cope, to manage)",
+    "traduction": "se débrouiller, s'en sortir, avancer",
+    "exemple": "What about the new partner? How's he getting on?",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "decent",
+    "traduction": "correct, convenable",
+    "exemple": "Where do I find a decent plumber in this town?",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "plumber",
+    "traduction": "plombier",
+    "exemple": "Where do I find a decent plumber in this town?",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "Yellow Pages",
+    "traduction": "pages jaunes, annuaire professionnel",
+    "exemple": "Try checking the Yellow Pages.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "in full bloom",
+    "traduction": "en pleine floraison",
+    "exemple": "The plum trees are in full bloom.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "to gather strength",
+    "traduction": "rassembler ses forces",
+    "exemple": "I know, we should gather strength then!",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "to be over with",
+    "traduction": "être terminé, être fini",
+    "exemple": "I think the project will be over with quickly.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "actually",
+    "traduction": "en fait, en réalité",
+    "exemple": "I was actually thinking of you!",
+    "categorie": "adverbe-courant",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "how come?",
+    "traduction": "comment ça se fait ?, pourquoi ?",
+    "exemple": "Oh, how come?",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "would you mind + V-ing",
+    "traduction": "cela vous dérangerait-il de... (demande polie)",
+    "exemple": "Would you mind showing Ms. Thompson around?",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "to show somebody around",
+    "traduction": "faire visiter à quelqu'un",
+    "exemple": "Would you mind showing Ms. Thompson around?",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "convertible (car)",
+    "traduction": "voiture décapotable",
+    "exemple": "We like riding with the top down.",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-11-03T09:45:27.000Z"
   }
 ]
