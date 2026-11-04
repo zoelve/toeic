@@ -306,5 +306,12 @@
     "exemple": "Where do I find a decent plumber? → Try checking the Yellow Pages (bonne réponse) / The plum trees are in full bloom (piège sonore).",
     "categorie": "strategie-ecoute",
     "date_ajout": "2026-11-03T09:39:24.000Z"
+  },
+  {
+    "regle": "voix passive + by + agent",
+    "explication": "Quand une phrase passive (be + participe passé) précise QUI fait l'action, on introduit cet agent avec \"by\" — jamais for/from/to. Réflexe : verbe au passif + besoin de nommer l'auteur de l'action = \"by\".",
+    "exemple": "Negotiating one's hours is not well appreciated by management.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-11-04T12:09:24.000Z"
   }
 ]

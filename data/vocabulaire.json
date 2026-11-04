@@ -5584,5 +5584,19 @@
     "exemple": "We like riding with the top down.",
     "categorie": "voyages-transports",
     "date_ajout": "2026-11-03T09:45:27.000Z"
+  },
+  {
+    "expression": "to negotiate one's hours",
+    "traduction": "négocier ses horaires",
+    "exemple": "Negotiating one's hours is not well appreciated by management.",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-11-04T12:09:24.000Z"
+  },
+  {
+    "expression": "management",
+    "traduction": "la direction, l'encadrement",
+    "exemple": "Negotiating one's hours is not well appreciated by management.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-04T12:09:24.000Z"
   }
 ]
