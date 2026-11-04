@@ -5598,5 +5598,250 @@
     "exemple": "Negotiating one's hours is not well appreciated by management.",
     "categorie": "ressources-humaines",
     "date_ajout": "2026-11-04T12:09:24.000Z"
+  },
+  {
+    "expression": "filled with",
+    "traduction": "rempli de",
+    "exemple": "The bus is filled with passengers.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "passenger",
+    "traduction": "passager",
+    "exemple": "The bus is filled with passengers.",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "to go uphill",
+    "traduction": "monter une pente",
+    "exemple": "The tram is going uphill.",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "couple",
+    "traduction": "couple",
+    "exemple": "The couple is hopping onto the subway.",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "to hop onto",
+    "traduction": "sauter dans, monter rapidement dans",
+    "exemple": "The couple is hopping onto the subway.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "subway",
+    "traduction": "métro (US)",
+    "exemple": "The couple is hopping onto the subway.",
+    "categorie": "voyages-transports",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "meadow",
+    "traduction": "prairie",
+    "exemple": "The meadow is covered in snow.",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "covered in snow",
+    "traduction": "couvert de neige",
+    "exemple": "The meadow is covered in snow.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "village",
+    "traduction": "village",
+    "exemple": "The village sits in the valley.",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "valley",
+    "traduction": "vallée",
+    "exemple": "The village sits in the valley.",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "hectic",
+    "traduction": "trépidant, agité",
+    "exemple": "The city is hectic.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "run (a jog/trip)",
+    "traduction": "course, sortie (jogging, trajet)",
+    "exemple": "Didn't that run tire you out?",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "to tire somebody out",
+    "traduction": "épuiser quelqu'un",
+    "exemple": "Didn't that run tire you out?",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "to keep somebody up",
+    "traduction": "empêcher quelqu'un de dormir, tenir éveillé",
+    "exemple": "Actually, it kept me up till midnight!",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "till",
+    "traduction": "jusqu'à (= until)",
+    "exemple": "Actually, it kept me up till midnight!",
+    "categorie": "preposition-temps",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "atmosphere",
+    "traduction": "ambiance",
+    "exemple": "The recent layoffs have made the atmosphere at work quite tense!",
+    "categorie": "nom-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "tense",
+    "traduction": "tendu",
+    "exemple": "The recent layoffs have made the atmosphere at work quite tense!",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "if only",
+    "traduction": "si seulement (regret)",
+    "exemple": "If only he stuck to his targets!",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "to stick to one's targets",
+    "traduction": "s'en tenir à ses objectifs",
+    "exemple": "If only he stuck to his targets!",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "hopeless",
+    "traduction": "désespéré, nul (sans espoir)",
+    "exemple": "Even if he did, he would be hopeless.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "it's not his/her fault",
+    "traduction": "ce n'est pas de sa faute",
+    "exemple": "It's not his fault he can't aim.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "to aim",
+    "traduction": "viser",
+    "exemple": "It's not his fault he can't aim.",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "to concentrate on",
+    "traduction": "se concentrer sur",
+    "exemple": "Why was Dave asked to concentrate on larger clients?",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "larger clients",
+    "traduction": "gros clients, clients importants",
+    "exemple": "Why was Dave asked to concentrate on larger clients?",
+    "categorie": "collocation-travail",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "percentage increase",
+    "traduction": "pourcentage d'augmentation",
+    "exemple": "What was the percentage increase in sales for the primary computer software in the last quarter?",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "primary",
+    "traduction": "principal",
+    "exemple": "What was the percentage increase in sales for the primary computer software in the last quarter?",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "last quarter",
+    "traduction": "dernier trimestre",
+    "exemple": "What was the percentage increase in sales for the primary computer software in the last quarter?",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "to feature",
+    "traduction": "présenter, mettre en vedette",
+    "exemple": "What kind of entertainment will not be featured on tonight's show?",
+    "categorie": "verbe-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "job opening",
+    "traduction": "poste à pourvoir",
+    "exemple": "What job currently has an opening?",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "attendees",
+    "traduction": "participants",
+    "exemple": "What are the attendees asked to hold until the end of the talk?",
+    "categorie": "reunions-conferences",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "to hold (questions)",
+    "traduction": "garder, attendre pour poser (une question)",
+    "exemple": "What are the attendees asked to hold until the end of the talk?",
+    "categorie": "reunions-conferences",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "claims adjuster",
+    "traduction": "expert en sinistres (assurance)",
+    "exemple": "The claims adjuster assessed the damage after the accident.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "amazing",
+    "traduction": "incroyable, formidable",
+    "exemple": "You've done so many amazing things!",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "press",
+    "traduction": "presse (médias)",
+    "exemple": "The company uses the press too much!",
+    "categorie": "marketing-publicite",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "article",
+    "traduction": "article",
+    "exemple": "The article that I read was about you.",
+    "categorie": "marketing-publicite",
+    "date_ajout": "2026-11-04T21:47:11.000Z"
   }
 ]
