@@ -320,5 +320,26 @@
     "exemple": "I'm starting a job in sales after I graduate. (pas \"after I will graduate\")",
     "categorie": "temps-verbaux",
     "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "regle": "1er conditionnel (if + présent, will + base)",
+    "explication": "Exprime une condition réaliste dans le présent et sa conséquence probable au futur. Structure : if + présent simple, ... will + base verbale.",
+    "exemple": "If I keep working these long hours, I will have to resign.",
+    "categorie": "conditionnels",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
+  },
+  {
+    "regle": "3e conditionnel (if + had + V3, would have + V3)",
+    "explication": "Exprime une situation hypothétique dans le passé (qui ne s'est pas produite) et son résultat imaginaire, lui aussi dans le passé. Structure : if + past perfect (had + V3), ... would have + participe passé.",
+    "exemple": "If he hadn't had so many emails to answer, he would have finished writing his report.",
+    "categorie": "conditionnels",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
+  },
+  {
+    "regle": "to go through",
+    "explication": "\"To go through\" signifie être mené à bien, aboutir avec succès (une vente, une procédure, un accord) — à ne pas confondre avec \"go away\" (s'éloigner), \"go towards\" (direction) ou \"go in\" (entrer).",
+    "exemple": "The sale of our former offices has gone through successfully.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
   }
 ]

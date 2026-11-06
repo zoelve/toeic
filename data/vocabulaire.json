@@ -5976,5 +5976,40 @@
     "exemple": "Thank you for your recent job proposal that I have indeed taken into consideration.",
     "categorie": "ressources-humaines",
     "date_ajout": "2026-11-06T13:43:21.000Z"
+  },
+  {
+    "expression": "to resign",
+    "traduction": "démissionner",
+    "exemple": "If I keep working these long hours, I will have to resign.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
+  },
+  {
+    "expression": "head of marketing",
+    "traduction": "directeur/directrice marketing",
+    "exemple": "We were disappointed to hear that the head of marketing was stepping down at the end of the year.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
+  },
+  {
+    "expression": "former",
+    "traduction": "ancien(ne) (précédent)",
+    "exemple": "The sale of our former offices has gone through successfully.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
+  },
+  {
+    "expression": "to go through",
+    "traduction": "aboutir, être mené à bien (une vente, un accord)",
+    "exemple": "The sale of our former offices has gone through successfully.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
+  },
+  {
+    "expression": "increase in demand",
+    "traduction": "augmentation de la demande",
+    "exemple": "Due to the increase in demand for our products, the HR manager has had to hire several employees.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
   }
 ]
