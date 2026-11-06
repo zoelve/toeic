@@ -313,5 +313,12 @@
     "exemple": "Negotiating one's hours is not well appreciated by management.",
     "categorie": "temps-verbaux",
     "date_ajout": "2026-11-04T12:09:24.000Z"
+  },
+  {
+    "regle": "pas de futur après after/before/when/until/as soon as",
+    "explication": "Après les conjonctions de temps (after, before, when, as soon as, until, once), on utilise le présent simple, jamais \"will\", même si le sens est futur. Contrairement au français qui utiliserait un futur.",
+    "exemple": "I'm starting a job in sales after I graduate. (pas \"after I will graduate\")",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
   }
 ]

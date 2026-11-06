@@ -5843,5 +5843,124 @@
     "exemple": "The article that I read was about you.",
     "categorie": "marketing-publicite",
     "date_ajout": "2026-11-04T21:47:11.000Z"
+  },
+  {
+    "expression": "line manager",
+    "traduction": "supérieur hiérarchique direct",
+    "exemple": "Replies to the proposed scheduling changes at the factory are still missing from a number of line managers.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "missing from",
+    "traduction": "manquant de, absent de",
+    "exemple": "Replies are still missing from a number of line managers.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "to look forward to",
+    "traduction": "attendre avec impatience (+ nom/V-ing)",
+    "exemple": "I look forward to meeting the new members of the staff.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "to withdraw",
+    "traduction": "retirer (de l'argent), se retirer",
+    "exemple": "She went to the bank to withdraw some cash.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "pound",
+    "traduction": "livre sterling",
+    "exemple": "The pound has risen against the dollar.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "to rise against",
+    "traduction": "augmenter par rapport à (une devise)",
+    "exemple": "The pound has risen against the dollar.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "patent",
+    "traduction": "brevet",
+    "exemple": "The company filed a patent for its new invention.",
+    "categorie": "juridique-contrats",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "second-hand",
+    "traduction": "d'occasion",
+    "exemple": "All we could afford was a second-hand car.",
+    "categorie": "adjectif-courant",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "to appoint",
+    "traduction": "nommer, désigner (à un poste)",
+    "exemple": "They have just appointed a new managing director.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "money laundering",
+    "traduction": "blanchiment d'argent",
+    "exemple": "Banks and governments are taking many measures to prevent money laundering.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "identity card",
+    "traduction": "carte d'identité",
+    "exemple": "Identity cards must be shown upon entering the building.",
+    "categorie": "bureau-correspondance",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "receptionist",
+    "traduction": "réceptionniste",
+    "exemple": "You may ask the receptionist for a one-day pass.",
+    "categorie": "bureau-correspondance",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "one-day pass",
+    "traduction": "laissez-passer d'un jour",
+    "exemple": "You may ask the receptionist for a one-day pass to allow you access to the elevators.",
+    "categorie": "bureau-correspondance",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "elevator",
+    "traduction": "ascenseur",
+    "exemple": "You may ask for a one-day pass to allow you access to the elevators.",
+    "categorie": "bureau-correspondance",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "to save on",
+    "traduction": "économiser sur",
+    "exemple": "The company is trying to save on its electricity bills.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "electricity bill",
+    "traduction": "facture d'électricité",
+    "exemple": "The company is trying to save on its electricity bills.",
+    "categorie": "finance-comptabilite",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "remote control",
+    "traduction": "télécommande",
+    "exemple": "People need to turn on their TVs by remote control.",
+    "categorie": "informatique-technologie",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
   }
 ]
