@@ -1,0 +1,345 @@
+[
+  {
+    "regle": "should + base verbale",
+    "explication": "Après \"should\", on utilise le verbe à la base (sans \"to\"), pour donner un conseil ou une suggestion.",
+    "exemple": "If you are not happy with this product, you should take it back and complain.",
+    "categorie": "modaux",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "I'd better + base verbale",
+    "explication": "\"I'd better\" (= I had better) sert à donner un conseil fort ; il est suivi du verbe à la base. On n'écrit jamais \"I've better\".",
+    "exemple": "I'd better not be late for the meeting.",
+    "categorie": "modaux",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "the more... the more",
+    "explication": "\"The more\" est toujours suivi d'un second \"the more\" (ou \"the less/better...\") dans une phrase comparative double.",
+    "exemple": "The more you practice, the more confident you become.",
+    "categorie": "comparatifs",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "admit + to + V-ing",
+    "explication": "Certains verbes comme \"admit\" sont suivis de \"to\" + verbe en -ing, car \"to\" est ici une préposition, pas la marque de l'infinitif.",
+    "exemple": "Albert admitted to spending time on personal matters during his working hours.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "to look at",
+    "explication": "\"To look\" est suivi de la préposition \"at\" pour regarder quelque chose.",
+    "exemple": "She looked at the report before the meeting.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "suggest + that + subjonctif",
+    "explication": "Après \"suggest + that\", on emploie le mode subjonctif : le verbe reste à la base, sans -s à la 3e personne.",
+    "exemple": "The manager suggested that she be on time for the interview.",
+    "categorie": "subjonctif",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "whose + nom (possession)",
+    "explication": "\"Whose\" exprime la possession et est suivi directement d'un nom. À ne pas confondre avec \"who\" (sujet, personne), \"whom\" (complément, personne) et \"which\" (chose).",
+    "exemple": "The man whose car was stolen called the police.",
+    "categorie": "pronoms-relatifs",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "consider + V-ing",
+    "explication": "\"Consider\" est suivi d'un verbe en -ing, jamais de \"to\" + infinitif.",
+    "exemple": "They are considering joining the new project.",
+    "categorie": "verbe-ing",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "claim (sans préposition)",
+    "explication": "\"Claimed\" n'est pas suivi de la préposition \"to\" ; le complément suit directement.",
+    "exemple": "She claimed the refund was never processed.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "stand for",
+    "explication": "\"To stand for\" signifie représenter (un sigle, une abréviation).",
+    "exemple": "The initials V.P. stand for Vice President.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "aimed at + nom/V-ing",
+    "explication": "\"Aimed at\" (viser, s'adresser à) est suivi d'un nom ou d'un verbe en -ing, car \"at\" est une préposition.",
+    "exemple": "The campaign is aimed at increasing customer loyalty.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "keen on + nom/V-ing",
+    "explication": "\"Keen on\" (avoir un grand intérêt pour) est suivi d'un nom ou d'un verbe en -ing.",
+    "exemple": "She is very keen on dangerous sports.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "little did we know (inversion)",
+    "explication": "Quand une phrase commence par \"little\" avec un sens négatif, le sujet et l'auxiliaire s'inversent (inversion emphatique).",
+    "exemple": "Little did we know that the deal would fall through.",
+    "categorie": "inversion",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "little / a little / few / a few",
+    "explication": "\"Little\" (peu, pas assez) et \"a little\" (un peu, suffisamment) s'utilisent avec des indénombrables. \"Few\" (peu, pas assez) et \"a few\" (quelques, suffisamment) s'utilisent avec des dénombrables pluriels.",
+    "exemple": "I have little money (pas assez) vs. I have a little money (assez). I have few friends (pas beaucoup) vs. I have a few friends (quelques-uns).",
+    "categorie": "quantifieurs",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "get on / get off / put off / take off",
+    "explication": "\"Get on\" = monter dans un véhicule ; \"get off\" = descendre d'un véhicule ; \"put off\" = reporter, retarder ; \"take off\" = décoller (avion) ou enlever (vêtement).",
+    "exemple": "Get off at Checker Bridge station.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "stepping down ≠ stepping out",
+    "explication": "\"Stepping down\" signifie quitter son poste/rôle. \"Stepping out\" signifie sortir brièvement ou s'engager dans une activité temporaire. Les deux ne doivent pas être confondus.",
+    "exemple": "The CEO is stepping down at the end of the year.",
+    "categorie": "confusables",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "thanks to (la cause, pas l'objet)",
+    "explication": "\"Thanks to\" introduit la cause d'un résultat positif, pas l'objet obtenu.",
+    "exemple": "She got her raise thanks to her work on the project.",
+    "categorie": "connecteurs",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "by (date limite) ≠ at",
+    "explication": "\"By\" indique une date limite (\"au plus tard\"), à ne pas confondre avec \"at\" qui indique un moment précis.",
+    "exemple": "The report must be submitted by Friday.",
+    "categorie": "prepositions-temps",
+    "date_ajout": "2026-10-04T09:39:48.000Z"
+  },
+  {
+    "regle": "V-ing en sujet de phrase (gérondif)",
+    "explication": "Quand une action sert de sujet à la phrase (pas une personne), on utilise la forme en -ing (gérondif), jamais la base verbale ni \"to\" + infinitif.",
+    "exemple": "When you buy a house, negotiating the price is essential.",
+    "categorie": "verbe-ing",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "regle": "advice as to + mot interrogatif",
+    "explication": "\"Advice\" (et d'autres noms comme \"question\", \"uncertainty\") est souvent suivi de \"as to\" (= concernant, quant à) + un mot interrogatif (what/how/whether...) pour introduire une question indirecte sur le sujet du conseil.",
+    "exemple": "I was given lots of advice as to what presents to bring to the managers.",
+    "categorie": "verbe-preposition",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "regle": "to fail + to + base verbale",
+    "explication": "\"To fail\" (échouer, ne pas réussir à) est suivi de \"to\" + verbe à la base. On utilise cette forme pour une action ponctuelle non accomplie, pas le présent continu (\"was failing\") ni le passé d'habitude (\"used to fail\").",
+    "exemple": "After closing the building, the guard failed to activate the alarm.",
+    "categorie": "verbe-infinitif",
+    "date_ajout": "2026-10-04T09:45:28.000Z"
+  },
+  {
+    "regle": "because + proposition / because of + nom",
+    "explication": "\"Because\" est une conjonction : elle introduit une proposition complète (sujet + verbe). \"Because of\" est une préposition : elle est suivie directement d'un nom ou d'un groupe nominal, jamais d'une proposition.",
+    "exemple": "I am sorry to tell you that because the company has financial problems, we have to let you go. / The flight was cancelled because of the storm.",
+    "categorie": "connecteurs",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "regle": "too many / too much + nom",
+    "explication": "\"Too many\" s'utilise avec un nom dénombrable pluriel (many buttons). \"Too much\" s'utilise avec un nom indénombrable singulier (much traffic). Les deux expriment une quantité excessive.",
+    "exemple": "There are too many buttons to click on. / There is too much traffic on this road.",
+    "categorie": "quantifieurs",
+    "date_ajout": "2026-10-04T09:50:04.000Z"
+  },
+  {
+    "regle": "on behalf of + nom",
+    "explication": "\"On behalf of\" (pour le compte de, au nom de) est une expression figée toujours suivie de \"of\" + nom/pronom. Elle indique qu'on agit à la place de quelqu'un d'autre.",
+    "exemple": "A secretary's job often involves signing on behalf of their boss.",
+    "categorie": "expressions-figees",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "regle": "to write off",
+    "explication": "\"To write off\" est un phrasal verb figé qui signifie annuler/passer une perte en comptabilité (déprécier une créance ou un actif). La préposition \"off\" ne change jamais pour ce sens.",
+    "exemple": "The company had to write off huge losses, due to the strike.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "regle": "to be taken over by",
+    "explication": "\"To take over\" (racheter, prendre le contrôle d'une entreprise) devient \"to be taken over by\" à la voix passive. La particule \"over\" est fixe et le complément d'agent suit \"by\".",
+    "exemple": "Our company has been taken over by an American corporation.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-10-04T13:41:52.000Z"
+  },
+  {
+    "regle": "reward ≠ award",
+    "explication": "\"Reward\" (récompense) est le résultat d'un effort ou d'un mérite personnel, souvent informel. \"Award\" (prix, distinction) est décerné officiellement par un jury/une organisation lors d'une cérémonie.",
+    "exemple": "Hard work always pays off with a reward. / She received an award for best employee of the year.",
+    "categorie": "confusables",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "regle": "no longer + verbe",
+    "explication": "\"No longer\" (ne... plus) s'intercale entre l'auxiliaire et le participe/adjectif, à la différence de \"not... anymore\" qui se place en fin de phrase avec une négation classique.",
+    "exemple": "The old factory has been shut down because it was no longer occupied. / It isn't occupied anymore.",
+    "categorie": "connecteurs",
+    "date_ajout": "2026-10-04T13:42:34.000Z"
+  },
+  {
+    "regle": "présent simple",
+    "explication": "Exprime une habitude, une vérité générale ou un fait régulier. Avec he/she/it, le verbe prend un -s. Mots-clés : always, usually, every day/week/month.",
+    "exemple": "The company publishes a newsletter every month.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "présent continu (be + V-ing)",
+    "explication": "Exprime une action en cours au moment où l'on parle, ou une situation temporaire. Mots-clés : now, at the moment, currently, right now.",
+    "exemple": "We are currently reviewing the policy.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "present perfect simple (have/has + participe passé)",
+    "explication": "Relie le passé au présent : une action passée dont le moment précis n'est pas donné (ou la période n'est pas terminée), et dont le résultat compte dans le présent. Mots-clés : already, just, yet, ever, never, since, for, this year/week (non terminé).",
+    "exemple": "The company has published three reports this year.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "present perfect continu (have/has been + V-ing)",
+    "explication": "Met l'accent sur la durée d'une action commencée dans le passé qui continue encore, ou qui vient tout juste de s'arrêter (effet visible dans le présent). Mots-clés : for, since, how long.",
+    "exemple": "They have been negotiating the contract for two hours.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "prétérit / past simple",
+    "explication": "Exprime une action ponctuelle, terminée, à un moment précis et révolu du passé. Mots-clés : yesterday, last week, in 2020, this morning (si le moment est passé/terminé), ago.",
+    "exemple": "The new company policy was published this morning.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "past perfect simple (had + participe passé)",
+    "explication": "Exprime une action antérieure à une autre action déjà au passé (l'action \"la plus ancienne\" des deux). Souvent avec \"before\", \"after\", \"when\", \"already\".",
+    "exemple": "The meeting had already started when he arrived.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "past continu (was/were + V-ing)",
+    "explication": "Décrit une action en cours dans le passé, souvent interrompue par une autre action (au prétérit), ou sert de contexte/arrière-plan à un récit.",
+    "exemple": "She was reading the report when the phone rang.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "present perfect vs past simple",
+    "explication": "Present perfect = pas de moment précis donné, ou la période n'est pas terminée (this year, so far, recently). Past simple = moment précis et révolu (yesterday, in 2020, this morning si fini, last week). Un marqueur de temps précis au passé interdit le present perfect.",
+    "exemple": "I have worked here for five years (toujours en poste). / I worked here in 2019 (terminé, moment précis).",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "futur avec will",
+    "explication": "Exprime une décision prise au moment de parler (spontanée), une promesse, ou une prédiction sans preuve concrète dans le présent.",
+    "exemple": "I will call you back later.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "futur avec going to",
+    "explication": "Exprime une intention ou un plan déjà décidé avant le moment de parler, ou une prédiction basée sur des indices visibles dans le présent.",
+    "exemple": "We are going to launch the product next month.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "voix passive (be + participe passé)",
+    "explication": "Met l'accent sur l'action/le résultat plutôt que sur qui l'a fait (souvent inconnu ou non pertinent) ; très fréquent en contexte professionnel. Le temps du verbe \"be\" porte le temps de la phrase (was published = passé, has been published = present perfect).",
+    "exemple": "The new company policy was published this morning.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:48:02.000Z"
+  },
+  {
+    "regle": "\"going to\" sans auxiliaire = piège",
+    "explication": "\"Going to\" seul (sans am/is/are devant) n'est jamais une forme verbale complète — c'est un distracteur fréquent au TOEIC. Pour une habitude régulière (each/every + jour), c'est le présent simple qu'il faut, pas le futur proche.",
+    "exemple": "Each Monday I go to the cinema at 2 p.m. (habitude → présent simple, pas \"going to\" ni \"am going to\").",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-10-04T13:58:30.000Z"
+  },
+  {
+    "regle": "as + présent simple (évolution en cours)",
+    "explication": "\"As\" (alors que, à mesure que) introduisant une évolution ou une situation qui se déroule est suivi du présent simple, pas du gérondif ni du prétérit. Le verbe s'accorde normalement avec son sujet (-s à la 3e personne du singulier).",
+    "exemple": "As summer approaches, we want to remind you of the fantastic advantages available to you.",
+    "categorie": "connecteurs",
+    "date_ajout": "2026-11-02T19:28:56.000Z"
+  },
+  {
+    "regle": "would be + adjectif (politesse formelle)",
+    "explication": "\"Would\" exprime une intention de façon polie et atténuée dans un registre formel (lettre de motivation, email professionnel) — formule figée \"would be honored/pleased/delighted/grateful\". À ne pas confondre avec \"should\" (obligation), \"could\" (capacité) ou \"will\" (plus direct, moins poli).",
+    "exemple": "I am very eager to join your team and would be honored to contribute to your ongoing initiatives.",
+    "categorie": "modaux",
+    "date_ajout": "2026-11-02T19:31:59.000Z"
+  },
+  {
+    "regle": "V-ing en nom composé (adjectif de nom)",
+    "explication": "Un gérondif (-ing) placé devant un nom peut décrire sa fonction/son usage, formant un nom composé (\"planning process\", \"hiring process\", \"decision-making process\"). Ce -ing reste invariable : jamais de -s, jamais remplacé par le participe passé.",
+    "exemple": "We have partnered with several travel agencies to ensure you receive the best deals during your planning process.",
+    "categorie": "verbe-ing",
+    "date_ajout": "2026-11-02T19:34:19.000Z"
+  },
+  {
+    "regle": "Partie 2 (question-réponse) : le piège du mot qui résonne",
+    "explication": "Dans les questions-réponses à l'oral, une mauvaise réponse reprend souvent un mot de la question avec un autre sens ou juste une sonorité proche (\"plumber\"/\"plum trees\", \"loan\"/\"alone\", \"signing\"/\"investing\"), sans répondre à la vraie question. Vérifie aussi que le pronom (he/she/you) correspond à celui de la question : un mauvais pronom élimine toujours la réponse.",
+    "exemple": "Where do I find a decent plumber? → Try checking the Yellow Pages (bonne réponse) / The plum trees are in full bloom (piège sonore).",
+    "categorie": "strategie-ecoute",
+    "date_ajout": "2026-11-03T09:39:24.000Z"
+  },
+  {
+    "regle": "voix passive + by + agent",
+    "explication": "Quand une phrase passive (be + participe passé) précise QUI fait l'action, on introduit cet agent avec \"by\" — jamais for/from/to. Réflexe : verbe au passif + besoin de nommer l'auteur de l'action = \"by\".",
+    "exemple": "Negotiating one's hours is not well appreciated by management.",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-11-04T12:09:24.000Z"
+  },
+  {
+    "regle": "pas de futur après after/before/when/until/as soon as",
+    "explication": "Après les conjonctions de temps (after, before, when, as soon as, until, once), on utilise le présent simple, jamais \"will\", même si le sens est futur. Contrairement au français qui utiliserait un futur.",
+    "exemple": "I'm starting a job in sales after I graduate. (pas \"after I will graduate\")",
+    "categorie": "temps-verbaux",
+    "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "regle": "1er conditionnel (if + présent, will + base)",
+    "explication": "Exprime une condition réaliste dans le présent et sa conséquence probable au futur. Structure : if + présent simple, ... will + base verbale.",
+    "exemple": "If I keep working these long hours, I will have to resign.",
+    "categorie": "conditionnels",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
+  },
+  {
+    "regle": "3e conditionnel (if + had + V3, would have + V3)",
+    "explication": "Exprime une situation hypothétique dans le passé (qui ne s'est pas produite) et son résultat imaginaire, lui aussi dans le passé. Structure : if + past perfect (had + V3), ... would have + participe passé.",
+    "exemple": "If he hadn't had so many emails to answer, he would have finished writing his report.",
+    "categorie": "conditionnels",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
+  },
+  {
+    "regle": "to go through",
+    "explication": "\"To go through\" signifie être mené à bien, aboutir avec succès (une vente, une procédure, un accord) — à ne pas confondre avec \"go away\" (s'éloigner), \"go towards\" (direction) ou \"go in\" (entrer).",
+    "exemple": "The sale of our former offices has gone through successfully.",
+    "categorie": "phrasal-verb",
+    "date_ajout": "2026-11-06T13:53:55.000Z"
+  }
+]
