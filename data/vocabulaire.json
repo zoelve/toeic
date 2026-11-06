@@ -5962,5 +5962,19 @@
     "exemple": "People need to turn on their TVs by remote control.",
     "categorie": "informatique-technologie",
     "date_ajout": "2026-11-06T13:28:29.000Z"
+  },
+  {
+    "expression": "to take into consideration",
+    "traduction": "prendre en considération, réfléchir sérieusement à",
+    "exemple": "Thank you for your recent job proposal that I have indeed taken into consideration.",
+    "categorie": "expression-figee",
+    "date_ajout": "2026-11-06T13:43:21.000Z"
+  },
+  {
+    "expression": "job proposal",
+    "traduction": "proposition d'emploi",
+    "exemple": "Thank you for your recent job proposal that I have indeed taken into consideration.",
+    "categorie": "ressources-humaines",
+    "date_ajout": "2026-11-06T13:43:21.000Z"
   }
 ]
